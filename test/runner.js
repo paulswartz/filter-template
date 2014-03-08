@@ -1,4 +1,4 @@
-var tests = [], callback, baseUrl;
+var tests = [], testDeps = [], callback, baseUrl;
 
 var specRegex = /(test\/spec\/(.+\/)?.+_spec)(\.js)?/;
 function testFiles(o) {
@@ -17,10 +17,14 @@ function testFiles(o) {
 }
 
 if (window.__karma__) {
+  // local Karma
   tests = testFiles(window.__karma__.files);
   baseUrl = '/base/src/';
   callback = window.__karma__.start;
 } else {
+  // Testling
+  testDeps = ['../node_modules/karma-jasmine/lib/jasmine',
+              '../node_modules/jasmine-reporters/src/jasmine.tap_reporter'];
   baseUrl = 'src/';
   callback = function() {
     'use strict';
@@ -63,14 +67,16 @@ require.config({
     }
   },
 
-  deps: ['jasmine-jquery', 'jasmine-flight'],
+  deps: testDeps,
   callback: function() {
     'use strict';
-    if (!tests.length) {
-      tests = testFiles(require.s.contexts._.registry);
-    }
-    require(tests, function() {
-      callback();
+    require(['jasmine-jquery', 'jasmine-flight'], function() {
+      if (!tests.length) {
+        tests = testFiles(require.s.contexts._.registry);
+      }
+      require(tests, function() {
+        callback();
+      });
     });
   }
 });

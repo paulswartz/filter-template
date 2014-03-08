@@ -12,8 +12,6 @@
   },
   "testling": {
     "scripts": [
-      "node_modules/karma-jasmine/lib/jasmine.js",
-      "node_modules/jasmine-reporters/src/jasmine.tap_reporter.js",
       "lib/require.js",
       "test/spec/**/*_spec.js",
       "test/runner.js"
