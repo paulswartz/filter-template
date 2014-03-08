@@ -15,6 +15,7 @@
       "lib/es5-shim.min.js",
       "lib/es5-sham.min.js",
       "lib/jquery-1.10.2.js",
+      "node_modules/karma-jasmine/lib/jasmine.js",
       "node_modules/jasmine-reporters/src/jasmine.tap_reporter.js",
       "test/lib/jasmine-jquery.js",
       "test/lib/jasmine-flight.js",
