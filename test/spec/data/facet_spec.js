@@ -1,4 +1,4 @@
-define(['test/mock', 'lodash'], function(mock, _) {
+define('test/spec/data/facet_spec', ['test/mock', 'lodash'], function(mock, _) {
   'use strict';
   describeComponent('data/facet', function() {
     beforeEach(function() {

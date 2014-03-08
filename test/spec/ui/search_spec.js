@@ -1,5 +1,5 @@
-'use strict';
-define(['jquery'], function($) {
+define('test/spec/ui/search_spec', ['jquery'], function($) {
+  'use strict';
   describeComponent('ui/search', function() {
     beforeEach(function() {
       setupComponent('<div><form><input class=address></form></div>',

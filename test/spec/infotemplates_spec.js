@@ -1,7 +1,8 @@
-'use strict';
 define(
+  "test/spec/infotemplates_spec",
   ['infotemplates', 'jquery', 'test/mock'],
   function(templates, $, mock) {
+    'use strict';
     describe('infotemplates', function() {
       var config = mock.config.properties,
           feature = mock.data.features[0].properties;
@@ -29,7 +30,7 @@ define(
           expect(services_offered.length).toEqual(1);
           expect(services_offered.find('li').length).toEqual(2);
         });
-        it('plain text is rendered as-is, with \n -> <br>', function () {
+        it('plain text is rendered as-is, with \\n -> <br>', function () {
           var address = $rendered.find('#address');
           expect(address.length).toEqual(1);
           expect(address.html()).toEqual(

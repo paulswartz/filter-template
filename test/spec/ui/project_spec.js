@@ -1,4 +1,4 @@
-define(['test/mock', 'jquery'], function(mock, $) {
+define('test/spec/ui/project_spec', ['test/mock', 'jquery'], function(mock, $) {
   'use strict';
   describeComponent('ui/project', function() {
     beforeEach(function() {

@@ -1,4 +1,4 @@
-define(['test/mock'], function(mock) {
+define('test/spec/ui/facet_spec', ['test/mock', 'jquery'], function(mock, $) {
   'use strict';
   describeComponent('ui/facet', function() {
     var mockFacets = {

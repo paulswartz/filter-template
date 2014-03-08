@@ -1,4 +1,4 @@
-define(['infotemplates', 'jquery'], function(templates, $) {
+define('test/spec/ui/info_spec', ['infotemplates', 'jquery'], function(templates, $) {
   'use strict';
   describeComponent('ui/info', function() {
     beforeEach(function() {
