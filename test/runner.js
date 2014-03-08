@@ -21,7 +21,7 @@ if (window.__karma__) {
   baseUrl = '/base/src/';
   callback = window.__karma__.start;
 } else {
-  baseUrl = '/src/';
+  baseUrl = 'src/';
   callback = function() {
     'use strict';
     var env = jasmine.getEnv();
