@@ -1,13 +1,17 @@
 'use strict';
-var tests = [];
-for (var file in window.__karma__.files) {
-  if (window.__karma__.files.hasOwnProperty(file)) {
-    if (/_spec\.js$/.test(file)) {
-      tests.push(file);
+var tests = [], callback;
+if (window.__karma__) {
+  callback = window.__karma__.start;
+  for (var file in window.__karma__.files) {
+    if (window.__karma__.files.hasOwnProperty(file)) {
+      if (/_spec\.js$/.test(file)) {
+        tests.push(file);
+      }
     }
   }
+} else {
+  callback = function() {};
 }
-
 if (jasmine.TapReporter) {
   jasmine.getEnv().addReporter(new jasmine.TapReporter());
 }
