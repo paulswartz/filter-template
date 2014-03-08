@@ -17,7 +17,8 @@
       "lib/jquery-1.10.2.js",
       "node_modules/jasmine-reporters/src/jasmine.tap_reporter.js",
       "test/lib/jasmine-jquery.js",
-      "test/lib/jasmine-flight.js"
+      "test/lib/jasmine-flight.js",
+      "lib/require.js"
     ],
     "files": [
       "test/runner.js",
@@ -25,14 +26,7 @@
       "test/spec/**/*.js"
     ],
     "browsers": [
-      "ie/8..latest",
-      "chrome/22..latest",
-      "firefox/16..latest",
-      "safari/latest",
-      "opera/11.0..latest",
-      "iphone/6",
-      "ipad/6",
-      "android-browser/latest"
+      "chrome/latest"
     ]
   },
   "scripts": {
