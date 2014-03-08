@@ -11,7 +11,19 @@
     "jasmine-reporters": "~0.3.1"
   },
   "testling": {
-    "scripts": "test/spec/**/*.js",
+    "scripts": [
+      "lib/es5-shim.min.js",
+      "lib/es5-sham.min.js",
+      "lib/jquery-1.10.2.js",
+      "node_modules/jasmine-reporters/src/jasmine.tap_reporter.js",
+      "test/lib/jasmine-jquery.js",
+      "test/lib/jasmine-flight.js"
+    ],
+    "files": [
+      "test/runner.js",
+      "test/mock.js",
+      "test/spec/**/*.js"
+    ],
     "browsers": [
       "ie/8..latest",
       "chrome/22..latest",

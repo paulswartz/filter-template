@@ -23,7 +23,6 @@ module.exports = function(config) {
 
       // hack to load RequireJS after the shim libs
       'lib/require.js',
-      'node_modules/jasmine-reporters/src/jasmine.tap_reporter.js',
       'node_modules/karma-requirejs/lib/adapter.js',
 
       {pattern: 'src/**/*.js', included: false},

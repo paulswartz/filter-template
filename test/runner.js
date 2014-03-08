@@ -8,7 +8,9 @@ for (var file in window.__karma__.files) {
   }
 }
 
-jasmine.getEnv().addReporter(new jasmine.TapReporter());
+if (jasmine.TapReporter) {
+  jasmine.getEnv().addReporter(new jasmine.TapReporter());
+}
 
 require.config({
   baseUrl: '/base/src/',
