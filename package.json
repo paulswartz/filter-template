@@ -7,7 +7,21 @@
   },
   "devDependencies": {
     "karma": "~0.10",
-    "jshint": "~2.4.4"
+    "jshint": "~2.4.4",
+    "jasmine-reporters": "~0.3.1"
+  },
+  "testling": {
+    "scripts": "test/spec/**/*.js",
+    "browsers": [
+      "ie/8..latest",
+      "chrome/22..latest",
+      "firefox/16..latest",
+      "safari/latest",
+      "opera/11.0..latest",
+      "iphone/6",
+      "ipad/6",
+      "android-browser/latest"
+    ]
   },
   "scripts": {
     "test": "jshint src && karma start --single-run --browsers PhantomJS"

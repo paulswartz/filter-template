@@ -8,6 +8,8 @@ for (var file in window.__karma__.files) {
   }
 }
 
+jasmine.getEnv().addReporter(new jasmine.TapReporter());
+
 require.config({
   baseUrl: '/base/src/',
   paths: {
@@ -26,7 +28,6 @@ require.config({
       exports: '_'
     },
     'flight': {
-      
       exports: 'flight'
     }
   },
