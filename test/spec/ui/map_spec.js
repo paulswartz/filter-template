@@ -1,10 +1,12 @@
+/* global require */
 define(
   'test/spec/ui/map_spec',
   ['leaflet', 'test/mock', 'jquery', 'lodash'], function(L, mock, $, _) {
   'use strict';
   describeComponent('ui/map', function() {
     beforeEach(function() {
-      L.Icon.Default.imagePath = '/base/lib/leaflet/images';
+      var baseUrl = require.s.contexts._.config.baseUrl;
+      L.Icon.Default.imagePath = baseUrl + '../lib/leaflet/images';
       setupComponent();
     });
 
