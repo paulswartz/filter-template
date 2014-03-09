@@ -1,5 +1,6 @@
 define('test/spec/data/facet_spec', ['test/mock', 'lodash'], function(mock, _) {
   'use strict';
+  return;
   describeComponent('data/facet', function() {
     beforeEach(function() {
       setupComponent();

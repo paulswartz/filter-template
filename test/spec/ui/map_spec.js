@@ -2,7 +2,8 @@
 define(
   'test/spec/ui/map_spec',
   ['leaflet', 'test/mock', 'jquery', 'lodash'], function(L, mock, $, _) {
-  'use strict';
+    'use strict';
+    return;
   describeComponent('ui/map', function() {
     beforeEach(function() {
       var baseUrl = require.s.contexts._.config.baseUrl;
