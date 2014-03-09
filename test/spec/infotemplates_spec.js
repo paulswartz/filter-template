@@ -33,8 +33,8 @@ define(
         it('plain text is rendered as-is, with \\n -> <br>', function () {
           var address = $rendered.find('#address');
           expect(address.length).toEqual(1);
-          expect(address.html()).toEqual(
-            feature.address.replace(/\n/g, '<br>'));
+          expect(address.html().toLowerCase()).toEqual(
+            feature.address.replace(/\n/g, '<br>').toLowerCase());
         });
         it('empty attributes are not rendered', function() {
           var additional_notes = $rendered.find('#additional_notes');

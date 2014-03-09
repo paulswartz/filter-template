@@ -11,7 +11,8 @@ define('test/spec/ui/project_spec', ['test/mock', 'jquery'], function(mock, $) {
         setFixtures("<div id=\"name\" data-project=\"name\"/><div id=\"desc\" data-project=\"description\"/>");
         $(document).trigger('config', mock.config);
         expect($("#name").html()).toEqual(mock.config.project.name);
-        expect($("#desc").html()).toEqual(mock.config.project.description);
+        expect($("#desc").html().toLowerCase()).toEqual(
+          mock.config.project.description.toLowerCase());
       });
 
       it('updates content of meta fields', function() {
