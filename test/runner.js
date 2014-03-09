@@ -38,6 +38,7 @@ if (window.__karma__) {
 
 require.config({
   baseUrl: baseUrl,
+  urlArgs: "_=" + (new Date()).getTime(),
   paths: {
     'test': '../test',
     'jquery': '../lib/jquery-1.10.2',
