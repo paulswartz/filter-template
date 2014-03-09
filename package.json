@@ -16,7 +16,7 @@
       "test/spec/**/*_spec.js",
       "test/runner.js"
     ],
-    "browsers": [
+    "xbrowsers": [
       "ie/8..latest",
       "chrome/28..latest",
       "firefox/22..latest",
@@ -25,6 +25,11 @@
       "iphone/latest",
       "ipad/latest",
       "android-browser/latest"
+    ],
+    "browsers": [
+      "ie/8",
+      "chrome/28",
+      "opera/latest"
     ]
   },
   "scripts": {
