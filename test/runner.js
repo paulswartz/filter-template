@@ -23,14 +23,16 @@ if (window.__karma__) {
   callback = window.__karma__.start;
 } else {
   // Testling
-  testDeps = ['../node_modules/karma-jasmine/lib/jasmine',
-              '../node_modules/jasmine-reporters/src/jasmine.tap_reporter'];
+  testDeps = ['../node_modules/karma-jasmine/lib/jasmine'];
   baseUrl = 'src/';
   callback = function() {
     'use strict';
-    var env = jasmine.getEnv();
-    env.addReporter(new jasmine.TapReporter());
-    env.execute();
+    require(['../node_modules/jasmine-reporters/src/jasmine.tap_reporter'],
+            function() {
+              var env = jasmine.getEnv();
+              env.addReporter(new jasmine.TapReporter());
+              env.execute();
+            });
   };
 }
 
