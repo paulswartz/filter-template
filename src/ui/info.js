@@ -29,7 +29,8 @@ define(
         this.$node.show();
       };
 
-      this.hide = function() {
+      this.hide = function(ev) {
+        ev.preventDefault();
         this.$node.hide();
         $(document).trigger('selectFeature', null);
       };

@@ -15,6 +15,7 @@ define(
       };
 
       this.displayFacets = function(ev, facetData) {
+        ev.preventDefault();
         this.$node.html(
           _.chain(facetData)
             .map(
@@ -38,6 +39,7 @@ define(
       };
 
       this.selectFacet = function(ev) {
+        ev.preventDefault();
         var $form = $(ev.target).parents('form'),
             facet = $form.data('facet'),
             selected = _.map($form.serializeArray(),
