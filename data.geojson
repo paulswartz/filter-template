@@ -174,7 +174,7 @@
       "properties": {
         "organization_name": "Andover Housing Authority",
         "ch200": "56",
-        "ch705": "null,
+        "ch705": null,
         "ch667": "218",
         "ch167_189": "8",
         "mrvp": "4",
@@ -404,7 +404,7 @@
       "properties": {
         "organization_name": "Bedford Housing Authority",
         "ch200": "12",
-        "ch705": "null,
+        "ch705": null,
         "ch667": "80",
         "ch167_189": "8",
         "mrvp": "19",
@@ -1002,7 +1002,7 @@
       "properties": {
         "organization_name": "Clinton Housing Authority",
         "ch200": "34",
-        "ch705": "null,
+        "ch705": null,
         "ch667": "135",
         "ch167_189": "8",
         "mrvp": "15",
@@ -2244,7 +2244,7 @@
       "properties": {
         "organization_name": "Hull Housing Authority",
         "ch200": "28",
-        "ch705": "null,
+        "ch705": null,
         "ch667": "40",
         "ch167_189": null,
         "mrvp": null,
@@ -2773,7 +2773,7 @@
       "properties": {
         "organization_name": "Mattapoisett Housing Authority",
         "ch200": "10",
-        "ch705": "null,
+        "ch705": null,
         "ch667": "54",
         "ch167_189": null,
         "mrvp": null,
@@ -2980,7 +2980,7 @@
       "properties": {
         "organization_name": "Middleborough Housing Authority",
         "ch200": "28",
-        "ch705": "null,
+        "ch705": null,
         "ch667": "154",
         "ch167_189": "8",
         "mrvp": "2",
@@ -3325,7 +3325,7 @@
       "properties": {
         "organization_name": "Needham Housing Authority",
         "ch200": "80",
-        "ch705": "null,
+        "ch705": null,
         "ch667": "152",
         "ch167_189": "8",
         "mrvp": null,
@@ -3371,7 +3371,7 @@
       "properties": {
         "organization_name": "Newburyport Housing Authority",
         "ch200": "42",
-        "ch705": "null,
+        "ch705": null,
         "ch667": "100",
         "ch167_189": "24",
         "mrvp": "10",
@@ -3578,7 +3578,7 @@
       "properties": {
         "organization_name": "Norwood Housing Authority",
         "ch200": "75",
-        "ch705": "null,
+        "ch705": null,
         "ch667": "293",
         "ch167_189": null,
         "mrvp": "11",
@@ -4475,7 +4475,7 @@
       "properties": {
         "organization_name": "Stoneham Housing Authority",
         "ch200": "72",
-        "ch705": "null,
+        "ch705": null,
         "ch667": "209",
         "ch167_189": null,
         "mrvp": null,
@@ -4567,7 +4567,7 @@
       "properties": {
         "organization_name": "Swampscott Housing Authority",
         "ch200": "36",
-        "ch705": "null,
+        "ch705": null,
         "ch667": "84",
         "ch167_189": "8",
         "mrvp": "2",
@@ -5073,7 +5073,7 @@
       "properties": {
         "organization_name": "Webster Housing Authority",
         "ch200": "30",
-        "ch705": "null,
+        "ch705": null,
         "ch667": "72",
         "ch167_189": "16",
         "mrvp": "3",
