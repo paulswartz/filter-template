@@ -17,17 +17,16 @@
     "properties":{
         "organization_name": {},
         "address": {},
-        "web_url": { "title": "website", "url": true },
-
-        "contact_names": { "title": "Contact Information" },
-        "contact_emails": {},
+        "town": {},
+        "zip": {},
         "phone_numbers": {},
 
-        "services_offered": { "title": "Services" },
-        "youth_category": { "title": "Type of Organization" },
-        "target_populations": { "title": "Populations Served" },
-
-        "additional_notes": { "title": "Information"}
+        "ch200": { "title": "Family Housing (Ch.200)"},
+        "ch705": { "title": "Family Housing (Ch.705)"},
+        "ch667": { "title": "Elderly / Handicapped Housing (Ch.667)"},
+        "ch167_189": { "title": "Special Needs Housing (Ch.167/189)"},
+        "mrvp": { "title": "Massachusetts Rental Voucher Program Housing"},
+        "ahvp": { "title": "Alternative Housing Voucher Program Housing"},
     },
     "search": {
         "geosearch": true
@@ -39,7 +38,7 @@
         }
     },
   "analytics": {
-    "enabled": true,
+    "enabled": false,
     "private": false,
     "google_tracker": null,
     "hostname": "auto",
