@@ -39,7 +39,7 @@ define(function(require, exports) {
 
           simple: function(value) {
             return templates.simple({text: value}).replace(
-                /\n/g, '<br>');
+                /\n/g, 'units <br>');
           }
         };
 
