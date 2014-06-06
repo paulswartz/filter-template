@@ -12,15 +12,20 @@
       },
       "properties": {
         "organization_name": "Abington Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "2",
         "ch667": "110",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "71 SHAW AVENUE, ABINGTON 02351",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "71 SHAW AVENUE",
+        "town": "ABINGTON",
+        "zip": "02351",
         "phone_numbers": "781-878-5219",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	"Family Housing (Ch.200)",
+        	"Elderly / Handicapped Housing (Ch.667)"
+        ]
       }
     },
     {
@@ -34,15 +39,19 @@
       },
       "properties": {
         "organization_name": "Acton Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "39",
         "ch667": "91",
         "ch167_189": "12",
         "mrvp": "6",
         "ahvp": "20",
-        "address": "68 WINDSOR AVE. BOX 681, ACTON 01720",
+        "address": "68 WINDSOR AVE. BOX 681",
+        "town": "ACTON",
+        "zip": "01720",
         "phone_numbers": "978-263-5339",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -50,21 +59,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.917139,
+          -70.91713899999999,
           41.68339
         ]
       },
       "properties": {
         "organization_name": "Acushnet Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
-        "ch667": "null",
+        "ch200": "",
+        "ch705": "",
+        "ch667": "",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "23 MAIN STREET, ACUSHNET 02743",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "23 MAIN STREET",
+        "town": "ACUSHNET",
+        "zip": "02743",
         "phone_numbers": "508-998-3603",
-        "housing_types": "null, null, null, Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -78,15 +91,19 @@
       },
       "properties": {
         "organization_name": "Adams Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "25",
         "ch667": "64",
         "ch167_189": "8",
         "mrvp": "18",
-        "ahvp": "null",
-        "address": "4 COLUMBIA STREET, ADAMS 01220",
+        "ahvp": "",
+        "address": "4 COLUMBIA STREET",
+        "town": "ADAMS",
+        "zip": "01220",
         "phone_numbers": "413-743-5924",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -94,21 +111,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.6194583,
+          -72.61945829999999,
           42.0617139
         ]
       },
       "properties": {
         "organization_name": "Agawam Housing Authority",
         "ch200": "44",
-        "ch705": "7",
+        "ch705": " 7",
         "ch667": "191",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "66 MEADOWBROOK MANOR, AGAWAM 01001",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "66 MEADOWBROOK MANOR",
+        "town": "AGAWAM",
+        "zip": "01001",
         "phone_numbers": "413-786-1297",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -123,14 +144,18 @@
       "properties": {
         "organization_name": "Amesbury Housing Authority",
         "ch200": "27",
-        "ch705": "23",
+        "ch705": " 23",
         "ch667": "205",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "180 MAIN STREET, AMESBURY 01913",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "180 MAIN STREET",
+        "town": "AMESBURY",
+        "zip": "01913",
         "phone_numbers": "978-388-2022",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -144,15 +169,19 @@
       },
       "properties": {
         "organization_name": "Amherst Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "22",
         "ch667": "116",
         "ch167_189": "24",
         "mrvp": "15",
-        "ahvp": "null",
-        "address": "33 KELLOGG AVENUE, AMHERST 01002",
+        "ahvp": "",
+        "address": "33 KELLOGG AVENUE",
+        "town": "AMHERST",
+        "zip": "01002",
         "phone_numbers": "413-256-0206",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -167,14 +196,18 @@
       "properties": {
         "organization_name": "Andover Housing Authority",
         "ch200": "56",
-        "ch705": " null",
+        "ch705": "",
         "ch667": "218",
         "ch167_189": "8",
         "mrvp": "4",
         "ahvp": "10",
-        "address": "100 MORTON STREET, ANDOVER 01810",
+        "address": "100 MORTON STREET",
+        "town": "ANDOVER",
+        "zip": "01810",
         "phone_numbers": "978-475-2365",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -189,14 +222,18 @@
       "properties": {
         "organization_name": "Arlington Housing Authority",
         "ch200": "176",
-        "ch705": "null",
+        "ch705": "",
         "ch667": "520",
         "ch167_189": "13",
         "mrvp": "7",
-        "ahvp": "null",
-        "address": "4 WINSLOW STREET, ARLINGTON 02174",
+        "ahvp": "",
+        "address": "4 WINSLOW STREET",
+        "town": "ARLINGTON",
+        "zip": "02174",
         "phone_numbers": "781-646-3400",
-        "housing_types": "Veterans Family Housing (Ch. 200), null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -210,15 +247,19 @@
       },
       "properties": {
         "organization_name": "Ashland Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "40",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "59 PARK ROAD, ASHLAND 01721",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "59 PARK ROAD",
+        "town": "ASHLAND",
+        "zip": "01721",
         "phone_numbers": "508-881-2450",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -226,21 +267,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.2406763,
+          -72.24067629999999,
           42.5919401
         ]
       },
       "properties": {
         "organization_name": "Athol Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "16",
         "ch667": "78",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "46",
-        "ahvp": "null",
-        "address": "21 Morton Meadows, ATHOL 01331",
+        "ahvp": "",
+        "address": "21 Morton Meadows",
+        "town": "ATHOL",
+        "zip": "01331",
         "phone_numbers": "978-249-4848",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -249,20 +294,24 @@
         "type": "Point",
         "coordinates": [
           -71.3103419,
-          41.9329564
+          41.93295639999999
         ]
       },
       "properties": {
         "organization_name": "Attleboro Housing Authority",
         "ch200": "91",
-        "ch705": "21",
+        "ch705": " 21",
         "ch667": "319",
         "ch167_189": "20",
         "mrvp": "46",
-        "ahvp": "null",
-        "address": "37 CARLON STREET, ATTLEBORO 02703",
+        "ahvp": "",
+        "address": "37 CARLON STREET",
+        "town": "ATTLEBORO",
+        "zip": "02703",
         "phone_numbers": "508-222-0151",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -270,21 +319,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.846191,
+          -71.84619099999999,
           42.213875
         ]
       },
       "properties": {
         "organization_name": "Auburn Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "32",
         "ch667": "90",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "200 OXFORD STREET, AUBURN 01501",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "200 OXFORD STREET",
+        "town": "AUBURN",
+        "zip": "01501",
         "phone_numbers": "508-832-3852",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -298,15 +351,19 @@
       },
       "properties": {
         "organization_name": "Avon Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "70",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "ONE FELLOWSHIP CIRCLE, AVON 02322",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "ONE FELLOWSHIP CIRCLE",
+        "town": "AVON",
+        "zip": "02322",
         "phone_numbers": "508-588-1847",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -320,15 +377,19 @@
       },
       "properties": {
         "organization_name": "Ayer Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "13",
         "ch667": "61",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "8",
-        "ahvp": "null",
-        "address": "18 POND STREET, AYER 01432",
+        "ahvp": "",
+        "address": "18 POND STREET",
+        "town": "AYER",
+        "zip": "01432",
         "phone_numbers": "978-772-2771",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -342,15 +403,19 @@
       },
       "properties": {
         "organization_name": "Barnstable Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "52",
         "ch667": "153",
         "ch167_189": "52",
         "mrvp": "81",
         "ahvp": "15",
-        "address": "146 SOUTH STREET, HYANNIS 02601",
+        "address": "146 SOUTH STREET",
+        "town": "HYANNIS",
+        "zip": "02601",
         "phone_numbers": "508-771-7222",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -358,21 +423,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.105928,
+          -72.10592799999999,
           42.4297985
         ]
       },
       "properties": {
         "organization_name": "Barre Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "10",
         "ch667": "56",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "49 GRANDVIEW TER., BARRE 01005",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "49 GRANDVIEW TER.",
+        "town": "BARRE",
+        "zip": "01005",
         "phone_numbers": "978-355-6643",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -387,14 +456,18 @@
       "properties": {
         "organization_name": "Bedford Housing Authority",
         "ch200": "12",
-        "ch705": " null",
+        "ch705": "",
         "ch667": "80",
         "ch167_189": "8",
         "mrvp": "19",
-        "ahvp": "null",
-        "address": "ASHBY PLACE, BEDFORD 01730",
+        "ahvp": "",
+        "address": "ASHBY PLACE",
+        "town": "BEDFORD",
+        "zip": "01730",
         "phone_numbers": "781-275-2428",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -402,21 +475,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.396066,
+          -72.39606599999999,
           42.275345
         ]
       },
       "properties": {
         "organization_name": "Belchertown Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "12",
         "ch667": "48",
         "ch167_189": "14",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "41 EVERETT AVE, BELCHERTOWN 01007",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "41 EVERETT AVE",
+        "town": "BELCHERTOWN",
+        "zip": "01007",
         "phone_numbers": "413-323-4064",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -430,15 +507,19 @@
       },
       "properties": {
         "organization_name": "Bellingham Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "3",
         "ch667": "120",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "21",
-        "ahvp": "null",
-        "address": "10 WRENTHAM MANOR, BELLINGHAM 02019",
+        "ahvp": "",
+        "address": "10 WRENTHAM MANOR",
+        "town": "BELLINGHAM",
+        "zip": "02019",
         "phone_numbers": "508-883-4999",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -453,14 +534,18 @@
       "properties": {
         "organization_name": "Belmont Housing Authority",
         "ch200": "100",
-        "ch705": "null",
+        "ch705": "",
         "ch667": "154",
         "ch167_189": "2",
         "mrvp": "2",
-        "ahvp": "null",
-        "address": "59 PEARSON ROAD, BELMONT 02478",
+        "ahvp": "",
+        "address": "59 PEARSON ROAD",
+        "town": "BELMONT",
+        "zip": "02478",
         "phone_numbers": "617-484-2160",
-        "housing_types": "Veterans Family Housing (Ch. 200), null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -474,15 +559,19 @@
       },
       "properties": {
         "organization_name": "Berkshire County Regional Housing",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "8",
         "ch667": "22",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "150 NORTH STREET, PITTSFIELD 01201",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "150 NORTH STREET",
+        "town": "PITTSFIELD",
+        "zip": "01201",
         "phone_numbers": "800-248-9002",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -501,10 +590,14 @@
         "ch667": "345",
         "ch167_189": "8",
         "mrvp": "118",
-        "ahvp": "null",
-        "address": "137 BRIDGE ST. BOX 503, BEVERLY 01915",
+        "ahvp": "",
+        "address": "137 BRIDGE ST. BOX 503",
+        "town": "BEVERLY",
+        "zip": "01915",
         "phone_numbers": "978-922-3100",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -518,15 +611,19 @@
       },
       "properties": {
         "organization_name": "Billerica Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "11",
         "ch667": "177",
         "ch167_189": "16",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "16 RIVER STREET, BILLERCIA 01821",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "16 RIVER STREET",
+        "town": "BILLERCIA",
+        "zip": "01821",
         "phone_numbers": "978-667-1661",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -534,21 +631,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.536561,
+          -71.53656099999999,
           42.019526
         ]
       },
       "properties": {
         "organization_name": "Blackstone Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "56",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "15 FOXBROOK MANOR, AUSTIN St., BLACKSTONE 01504",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "15 FOXBROOK MANOR, AUSTIN St.",
+        "town": "BLACKSTONE",
+        "zip": "01504",
         "phone_numbers": "508-883-1515",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -556,21 +657,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0601737,
+          -71.06017369999999,
           42.353686
         ]
       },
       "properties": {
         "organization_name": "Boston Housing Authority",
         "ch200": "2470",
-        "ch705": "141",
+        "ch705": " 141",
         "ch667": "193",
         "ch167_189": "14",
         "mrvp": "842",
-        "ahvp": "null",
-        "address": "52 CHAUNCY STREET, BOSTON 02111",
+        "ahvp": "",
+        "address": "52 CHAUNCY STREET",
+        "town": "BOSTON",
+        "zip": "02111",
         "phone_numbers": "617-451-1250",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -584,15 +689,19 @@
       },
       "properties": {
         "organization_name": "Bourne Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "14",
         "ch667": "36",
         "ch167_189": "16",
         "mrvp": "20",
-        "ahvp": "null",
-        "address": "871 SHORE ROAD, POCASSET 02559",
+        "ahvp": "",
+        "address": "871 SHORE ROAD",
+        "town": "POCASSET",
+        "zip": "02559",
         "phone_numbers": "508-563-7485",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -606,15 +715,19 @@
       },
       "properties": {
         "organization_name": "Braintree Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "7",
         "ch667": "105",
         "ch167_189": "9",
         "mrvp": "90",
-        "ahvp": "null",
-        "address": "25 ROOSEVELT STREET, BRAINTREE 02184",
+        "ahvp": "",
+        "address": "25 ROOSEVELT STREET",
+        "town": "BRAINTREE",
+        "zip": "02184",
         "phone_numbers": "781-848-1484",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -628,15 +741,19 @@
       },
       "properties": {
         "organization_name": "Brewster Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "24",
         "ch667": "32",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "27",
-        "ahvp": "null",
-        "address": "11 FREDERICK COURT, BREWSTER 02631",
+        "ahvp": "",
+        "address": "11 FREDERICK COURT",
+        "town": "BREWSTER",
+        "zip": "02631",
         "phone_numbers": "508-896-9800",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -650,15 +767,19 @@
       },
       "properties": {
         "organization_name": "Bridgewater Housing Authority",
-        "ch200": "null",
-        "ch705": "12",
+        "ch200": "",
+        "ch705": " 12",
         "ch667": "146",
         "ch167_189": "8",
         "mrvp": "3",
-        "ahvp": "null",
-        "address": "10 HERITAGE CIRCLE, PO BOX , BRIDGEWATER 02324",
+        "ahvp": "",
+        "address": "10 HERITAGE CIRCLE, PO BOX ",
+        "town": "BRIDGEWATER",
+        "zip": "02324",
         "phone_numbers": "508-697-7405",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -672,15 +793,19 @@
       },
       "properties": {
         "organization_name": "Brimfield Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "56",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "20 COLONIAL PARK, BRIMFIELD 01010",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "20 COLONIAL PARK",
+        "town": "BRIMFIELD",
+        "zip": "01010",
         "phone_numbers": "413-245-7506",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -695,14 +820,18 @@
       "properties": {
         "organization_name": "Brockton Housing Authority",
         "ch200": "152",
-        "ch705": "43",
+        "ch705": "  43",
         "ch667": "550",
         "ch167_189": "20",
         "mrvp": "150",
         "ahvp": "40",
-        "address": "45 GODDARD RD., BOX 340, BROCKTON 02403",
+        "address": "45 GODDARD RD., BOX 340",
+        "town": "BROCKTON",
+        "zip": "02403",
         "phone_numbers": "508-588-6880",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -711,20 +840,24 @@
         "type": "Point",
         "coordinates": [
           -72.085666,
-          42.2716306
+          42.27163059999999
         ]
       },
       "properties": {
         "organization_name": "Brookfield Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "2",
-        "ch667": "null",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "271 NO. MAIN STREET, NORTH BROOKFIELD 01535",
+        "ch667": "",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "271 NO. MAIN STREET",
+        "town": "NORTH BROOKFIELD",
+        "zip": "01535",
         "phone_numbers": "508-867-2826",
-        "housing_types": "null, Family Housing (Ch. 705), null, null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -732,7 +865,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1001048,
+          -71.10010480000001,
           42.3357931
         ]
       },
@@ -743,10 +876,14 @@
         "ch667": "77",
         "ch167_189": "31",
         "mrvp": "125",
-        "ahvp": "null",
-        "address": "90 LONGWOOD AVENUE, BROOKLINE 02146",
+        "ahvp": "",
+        "address": "90 LONGWOOD AVENUE",
+        "town": "BROOKLINE",
+        "zip": "02146",
         "phone_numbers": "277-2022",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -754,21 +891,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1904578,
-          42.500019
+          -71.19045779999999,
+          42.50001899999999
         ]
       },
       "properties": {
         "organization_name": "Burlington Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "2",
         "ch667": "105",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "4",
-        "ahvp": "null",
-        "address": "15 BIRCHCREST ST., BURLINGTON 01803",
+        "ahvp": "",
+        "address": "15 BIRCHCREST ST.",
+        "town": "BURLINGTON",
+        "zip": "01803",
         "phone_numbers": "781-272-7786",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -776,7 +917,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1041543,
+          -71.10415429999999,
           42.3657567
         ]
       },
@@ -788,9 +929,13 @@
         "ch167_189": "25",
         "mrvp": "158",
         "ahvp": "63",
-        "address": "675 MASSACHUSETTS AVE, CAMBRIDGE 02139",
+        "address": "675 MASSACHUSETTS AVE",
+        "town": "CAMBRIDGE",
+        "zip": "02139",
         "phone_numbers": "617-864-3020",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -805,14 +950,18 @@
       "properties": {
         "organization_name": "Canton Housing Authority",
         "ch200": "26",
-        "ch705": "7",
+        "ch705": " 7",
         "ch667": "204",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "5",
-        "ahvp": "null",
-        "address": "P.O. BOX 333, CANTON 02021",
+        "ahvp": "",
+        "address": "P.O. BOX 333",
+        "town": "CANTON",
+        "zip": "02021",
         "phone_numbers": "781-828-5144",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -826,15 +975,19 @@
       },
       "properties": {
         "organization_name": "Carver Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "8",
         "ch667": "20",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "MEADOWBROOK WAY, CARVER 02330",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "MEADOWBROOK WAY",
+        "town": "CARVER",
+        "zip": "02330",
         "phone_numbers": "508-866-3115",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -848,15 +1001,19 @@
       },
       "properties": {
         "organization_name": "Charlton Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "6",
         "ch667": "30",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "3",
         "ahvp": "10",
-        "address": "1 MEADOWVIEW DRIVE, CHARLTON 01507",
+        "address": "1 MEADOWVIEW DRIVE",
+        "town": "CHARLTON",
+        "zip": "01507",
         "phone_numbers": "508-248-5067",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -864,21 +1021,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.9660065,
+          -69.96600649999999,
           41.6915666
         ]
       },
       "properties": {
         "organization_name": "Chatham Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "12",
         "ch667": "59",
         "ch167_189": "14",
         "mrvp": "6",
-        "ahvp": "null",
-        "address": "240 CROWELL ROAD, CHATHAM 02633",
+        "ahvp": "",
+        "address": "240 CROWELL ROAD",
+        "town": "CHATHAM",
+        "zip": "02633",
         "phone_numbers": "508-945-0478",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -886,21 +1047,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.3482814,
+          -71.34828139999999,
           42.5983319
         ]
       },
       "properties": {
         "organization_name": "Chelmsford Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "11",
         "ch667": "176",
         "ch167_189": "8",
         "mrvp": "2",
-        "ahvp": "null",
-        "address": "10 WILSON STREET, CHELMSFORD 01824",
+        "ahvp": "",
+        "address": "10 WILSON STREET",
+        "town": "CHELMSFORD",
+        "zip": "01824",
         "phone_numbers": "978-256-7425",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -909,20 +1074,24 @@
         "type": "Point",
         "coordinates": [
           -71.027168,
-          42.404375
+          42.40437499999999
         ]
       },
       "properties": {
         "organization_name": "Chelsea Housing Authority",
         "ch200": "294",
-        "ch705": "null",
+        "ch705": "",
         "ch667": "266",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "113",
         "ahvp": "10",
-        "address": "54 LOCKE STREET, CHELSEA 02150",
+        "address": "54 LOCKE STREET",
+        "town": "CHELSEA",
+        "zip": "02150",
         "phone_numbers": "617-884-5617",
-        "housing_types": "Veterans Family Housing (Ch. 200), null, Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -939,12 +1108,16 @@
         "ch200": "226",
         "ch705": "80",
         "ch667": "510",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "128 MEETINGHOUSE ROAD, CHICOPEE 01013",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "128 MEETINGHOUSE ROAD",
+        "town": "CHICOPEE",
+        "zip": "01013",
         "phone_numbers": "413-592-6132",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -959,14 +1132,18 @@
       "properties": {
         "organization_name": "Clinton Housing Authority",
         "ch200": "34",
-        "ch705": " null",
+        "ch705": "",
         "ch667": "135",
         "ch167_189": "8",
         "mrvp": "15",
-        "ahvp": "null",
-        "address": "58 FITCH ROAD, CLINTON 01510",
+        "ahvp": "",
+        "address": "58 FITCH ROAD",
+        "town": "CLINTON",
+        "zip": "01510",
         "phone_numbers": "978-365-4150",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -980,15 +1157,19 @@
       },
       "properties": {
         "organization_name": "Cohasset Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "64",
         "ch167_189": "12",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "60 ELM STREET, COHASSET 02025",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "60 ELM STREET",
+        "town": "COHASSET",
+        "zip": "02025",
         "phone_numbers": "781-383-1948",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -996,21 +1177,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.349611,
-          42.456873
+          -71.34961100000001,
+          42.45687299999999
         ]
       },
       "properties": {
         "organization_name": "Concord Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "28",
         "ch667": "88",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "115 STOW STREET, CONCORD 01742",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "115 STOW STREET",
+        "town": "CONCORD",
+        "zip": "01742",
         "phone_numbers": "978-369-8435",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1024,15 +1209,19 @@
       },
       "properties": {
         "organization_name": "Dalton Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "6",
         "ch667": "72",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "293 HIGH STREET, Pine Grove Manor, DALTON 01226",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "293 HIGH STREET, Pine Grove Manor",
+        "town": "DALTON",
+        "zip": "01226",
         "phone_numbers": "413-684-2493",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1046,15 +1235,19 @@
       },
       "properties": {
         "organization_name": "Danvers Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "16",
         "ch667": "165",
         "ch167_189": "28",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "14 STONE STREET, DANVERS 01923",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "14 STONE STREET",
+        "town": "DANVERS",
+        "zip": "01923",
         "phone_numbers": "978-777-0909",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1063,20 +1256,24 @@
         "type": "Point",
         "coordinates": [
           -70.9822624,
-          41.6396669
+          41.63966689999999
         ]
       },
       "properties": {
         "organization_name": "Dartmouth Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "124",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "2 ANDERSON WAY, N. DARTMOUTH 02747",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "2 ANDERSON WAY",
+        "town": "N. DARTMOUTH",
+        "zip": "02747",
         "phone_numbers": "508-994-1424",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1084,21 +1281,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1504833,
+          -71.15048329999999,
           42.2486602
         ]
       },
       "properties": {
         "organization_name": "Dedham Housing Authority",
         "ch200": "106",
-        "ch705": "null",
+        "ch705": "",
         "ch667": "205",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "163 DEDHAM BOULEVARD, DEDHAM 02026",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "163 DEDHAM BOULEVARD",
+        "town": "DEDHAM",
+        "zip": "02026",
         "phone_numbers": "781-326-3543",
-        "housing_types": "Veterans Family Housing (Ch. 200), null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1112,15 +1313,19 @@
       },
       "properties": {
         "organization_name": "Dennis Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "20",
         "ch667": "124",
         "ch167_189": "8",
         "mrvp": "67",
-        "ahvp": "null",
-        "address": "167 CENTRE STREET, SO. DENNIS 02660",
+        "ahvp": "",
+        "address": "167 CENTRE STREET",
+        "town": "SO. DENNIS",
+        "zip": "02660",
         "phone_numbers": "508-394-3120",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1128,21 +1333,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.124841,
+          -71.12484100000002,
           41.859501
         ]
       },
       "properties": {
         "organization_name": "Dighton Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "64",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "300 LINCOLN AVE. , NO. DIGHTON 02764",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "300 LINCOLN AVE. ",
+        "town": "NO. DIGHTON",
+        "zip": "02764",
         "phone_numbers": "508-823-8361",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1156,15 +1365,19 @@
       },
       "properties": {
         "organization_name": "Dracut Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "36",
         "ch667": "133",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "971 MAMMOTH ROAD, DRACUT 01826",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "971 MAMMOTH ROAD",
+        "town": "DRACUT",
+        "zip": "01826",
         "phone_numbers": "508-957-3515",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1178,15 +1391,19 @@
       },
       "properties": {
         "organization_name": "Dudley Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "80",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "JOSHUA PLACE APARTMENTS, DUDLEY 01570",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "JOSHUA PLACE APARTMENTS",
+        "town": "DUDLEY",
+        "zip": "01570",
         "phone_numbers": "508-949-0522",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1200,15 +1417,19 @@
       },
       "properties": {
         "organization_name": "Dukes County Regional Housing",
-        "ch200": "null",
-        "ch705": "null",
-        "ch667": "null",
+        "ch200": "",
+        "ch705": "",
+        "ch667": "",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "PO BOX 190, EDGARTOWN 02539",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "PO BOX 190",
+        "town": "EDGARTOWN",
+        "zip": "02539",
         "phone_numbers": "508-645-9274",
-        "housing_types": "null, null, null, Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1222,15 +1443,19 @@
       },
       "properties": {
         "organization_name": "Duxbury Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "6",
         "ch667": "52",
         "ch167_189": "8",
         "mrvp": "3",
-        "ahvp": "null",
-        "address": "59 CHESTNUT STREET, DUXBURY 02332",
+        "ahvp": "",
+        "address": "59 CHESTNUT STREET",
+        "town": "DUXBURY",
+        "zip": "02332",
         "phone_numbers": "781-934-6618",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1244,15 +1469,19 @@
       },
       "properties": {
         "organization_name": "East Bridgewater Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "8",
         "ch667": "129",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "38 RIDDELL ROAD, EAST BRIDGEWATER 02333",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "38 RIDDELL ROAD",
+        "town": "EAST BRIDGEWATER",
+        "zip": "02333",
         "phone_numbers": "508-378-3838",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1266,15 +1495,19 @@
       },
       "properties": {
         "organization_name": "East Longmeadow Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "6",
         "ch667": "188",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "25",
-        "ahvp": "null",
-        "address": "81 QUARRY HILL, EAST LONGMEADOW 01028",
+        "ahvp": "",
+        "address": "81 QUARRY HILL",
+        "town": "EAST LONGMEADOW",
+        "zip": "01028",
         "phone_numbers": "413-525-7057",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1282,21 +1515,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.657114,
-          42.254201
+          -72.65711399999999,
+          42.25420099999999
         ]
       },
       "properties": {
         "organization_name": "Easthampton Housing Authority",
         "ch200": "31",
-        "ch705": "4",
+        "ch705": " 4",
         "ch667": "151",
         "ch167_189": "2",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "112 HOLYOKE St., EASTHAMPTON 01027",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "112 HOLYOKE St.",
+        "town": "EASTHAMPTON",
+        "zip": "01027",
         "phone_numbers": "413-527-1600",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1310,15 +1547,19 @@
       },
       "properties": {
         "organization_name": "Easton Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "10",
         "ch667": "184",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "PARKER TERRACE, NO. EASTON 02356",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "PARKER TERRACE",
+        "town": "NO. EASTON",
+        "zip": "02356",
         "phone_numbers": "508-238-4747",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1332,15 +1573,19 @@
       },
       "properties": {
         "organization_name": "Essex Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "40",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "P.O. BOX 934, ESSEX 01929",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "P.O. BOX 934",
+        "town": "ESSEX",
+        "zip": "01929",
         "phone_numbers": "978-768-6821",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1355,14 +1600,18 @@
       "properties": {
         "organization_name": "Everett Housing Authority",
         "ch200": "392",
-        "ch705": "null",
+        "ch705": "",
         "ch667": "279",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "55",
-        "ahvp": "null",
-        "address": "393 FERRY STREET, EVERETT 02149",
+        "ahvp": "",
+        "address": "393 FERRY STREET",
+        "town": "EVERETT",
+        "zip": "02149",
         "phone_numbers": "617-387-6389",
-        "housing_types": "Veterans Family Housing (Ch. 200), null, Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1376,15 +1625,19 @@
       },
       "properties": {
         "organization_name": "Fairhaven Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "6",
         "ch667": "279",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "275 MAIN STREET, FAIRHAVEN 02719",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "275 MAIN STREET",
+        "town": "FAIRHAVEN",
+        "zip": "02719",
         "phone_numbers": "508-993-1144",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1404,9 +1657,13 @@
         "ch167_189": "40",
         "mrvp": "102",
         "ahvp": "17",
-        "address": "85 MORGAN ST. BOX 989, FALL RIVER 02722",
+        "address": "85 MORGAN ST. BOX 989",
+        "town": "FALL RIVER",
+        "zip": "02722",
         "phone_numbers": "508-675-3500",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1420,15 +1677,19 @@
       },
       "properties": {
         "organization_name": "Falmouth Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "25",
         "ch667": "114",
         "ch167_189": "8",
         "mrvp": "15",
-        "ahvp": "null",
-        "address": "115 SCRANTON AVENUE, FALMOUTH 02540",
+        "ahvp": "",
+        "address": "115 SCRANTON AVENUE",
+        "town": "FALMOUTH",
+        "zip": "02540",
         "phone_numbers": "508-548-1977",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1448,9 +1709,13 @@
         "ch167_189": "26",
         "mrvp": "47",
         "ahvp": "10",
-        "address": "50 DAY STREET, FITCHBURG 01420",
+        "address": "50 DAY STREET",
+        "town": "FITCHBURG",
+        "zip": "01420",
         "phone_numbers": "978-342-5222",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1464,15 +1729,19 @@
       },
       "properties": {
         "organization_name": "Foxborough Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "41",
         "ch667": "104",
         "ch167_189": "8",
         "mrvp": "4",
         "ahvp": "6",
-        "address": "90 N. CARL-ANNON COURT, FOXBOROUGH 02035",
+        "address": "90 N. CARL-ANNON COURT",
+        "town": "FOXBOROUGH",
+        "zip": "02035",
         "phone_numbers": "508-543-5960",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1491,10 +1760,14 @@
         "ch667": "561",
         "ch167_189": "24",
         "mrvp": "56",
-        "ahvp": "null",
-        "address": "1 JOHN J. BRADY DRIVE, FRAMINGHAM 01702",
+        "ahvp": "",
+        "address": "1 JOHN J. BRADY DRIVE",
+        "town": "FRAMINGHAM",
+        "zip": "01702",
         "phone_numbers": "508-879-7562",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1509,14 +1782,18 @@
       "properties": {
         "organization_name": "Franklin Housing Authority",
         "ch200": "28",
-        "ch705": "5",
+        "ch705": " 5",
         "ch667": "165",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "CENTRAL PARK TERRACE, FRANKLIN 02038",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "CENTRAL PARK TERRACE",
+        "town": "FRANKLIN",
+        "zip": "02038",
         "phone_numbers": "508-528-2220",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1530,15 +1807,19 @@
       },
       "properties": {
         "organization_name": "Franklin County Regional Housing",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "27",
         "ch667": "71",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "42 CANAL ROAD, PO. BOX 30, TURNERS FALLS 01376",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "42 CANAL ROAD, PO. BOX 30",
+        "town": "TURNERS FALLS",
+        "zip": "01376",
         "phone_numbers": "413-863-9781",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1553,14 +1834,18 @@
       "properties": {
         "organization_name": "Gardner Housing Authority",
         "ch200": "67",
-        "ch705": "13",
+        "ch705": " 13",
         "ch667": "261",
         "ch167_189": "7",
         "mrvp": "15",
-        "ahvp": "null",
-        "address": "116 CHURCH STREET, GARDNER 01440",
+        "ahvp": "",
+        "address": "116 CHURCH STREET",
+        "town": "GARDNER",
+        "zip": "01440",
         "phone_numbers": "978-632-6627",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1574,15 +1859,19 @@
       },
       "properties": {
         "organization_name": "Georgetown Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "10",
         "ch667": "126",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "23 TRESTLE WAY, GEORGETOWN 01833",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "23 TRESTLE WAY",
+        "town": "GEORGETOWN",
+        "zip": "01833",
         "phone_numbers": "978-352-6331",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1601,10 +1890,14 @@
         "ch667": "362",
         "ch167_189": "8",
         "mrvp": "37",
-        "ahvp": "null",
-        "address": "257 WASHINGTON ST. P.O. BOX 1599, GLOUCESTER 01931",
+        "ahvp": "",
+        "address": "257 WASHINGTON ST. P.O. BOX 1599",
+        "town": "GLOUCESTER",
+        "zip": "01931",
         "phone_numbers": "978-283-1234",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1619,14 +1912,18 @@
       "properties": {
         "organization_name": "Grafton Housing Authority",
         "ch200": "16",
-        "ch705": "6",
+        "ch705": " 6",
         "ch667": "128",
         "ch167_189": "20",
         "mrvp": "2",
-        "ahvp": "null",
-        "address": "10 MAXWELL DRIVE, NO. GRAFTON 01536",
+        "ahvp": "",
+        "address": "10 MAXWELL DRIVE",
+        "town": "NO. GRAFTON",
+        "zip": "01536",
         "phone_numbers": "508-839-6089",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1634,21 +1931,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.5382696,
+          -72.53826959999999,
           42.2503729
         ]
       },
       "properties": {
         "organization_name": "Granby Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "2",
         "ch667": "56",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "50 PHIN'S HILL MANOR, GRANBY 01033",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "50 PHIN'S HILL MANOR",
+        "town": "GRANBY",
+        "zip": "01033",
         "phone_numbers": "413-467-9300",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1663,14 +1964,18 @@
       "properties": {
         "organization_name": "Greenfield Housing Authority",
         "ch200": "72",
-        "ch705": "40",
+        "ch705": " 40",
         "ch667": "128",
         "ch167_189": "8",
         "mrvp": "106",
-        "ahvp": "null",
-        "address": "ONE ELM TERRACE, GREENFIELD 01301",
+        "ahvp": "",
+        "address": "ONE ELM TERRACE",
+        "town": "GREENFIELD",
+        "zip": "01301",
         "phone_numbers": "413-774-2932",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1684,15 +1989,19 @@
       },
       "properties": {
         "organization_name": "Groton Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "7",
         "ch667": "27",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "19 LOWELL RD, GROTON 01450",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "19 LOWELL RD",
+        "town": "GROTON",
+        "zip": "01450",
         "phone_numbers": "978-448-3962",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1700,21 +2009,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0245933,
+          -71.02459329999999,
           42.7674134
         ]
       },
       "properties": {
         "organization_name": "Groveland Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "2",
-        "ch667": "null",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "10 RIVER PINES, GROVELAND 01834",
+        "ch667": "",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "10 RIVER PINES",
+        "town": "GROVELAND",
+        "zip": "01834",
         "phone_numbers": "978-374-0370",
-        "housing_types": "null, Family Housing (Ch. 705), null, null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1728,15 +2041,19 @@
       },
       "properties": {
         "organization_name": "Great Barrington Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "16",
         "ch667": "64",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "2 BERRNARD GIBBONS DR, GREAT BARRINGTON 01230",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "2 BERRNARD GIBBONS DR",
+        "town": "GREAT BARRINGTON",
+        "zip": "01230",
         "phone_numbers": "413-274-1142",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1750,15 +2067,19 @@
       },
       "properties": {
         "organization_name": "Hadley Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "12",
         "ch667": "40",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "42 GOLDEN COURT, HADLEY 01035",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "42 GOLDEN COURT",
+        "town": "HADLEY",
+        "zip": "01035",
         "phone_numbers": "413-584-3868",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1766,21 +2087,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.8427972,
+          -70.84279719999999,
           41.9919009
         ]
       },
       "properties": {
         "organization_name": "Halifax Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "8",
         "ch667": "20",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "1 PARSON LANE, HALIFAX 02338",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "1 PARSON LANE",
+        "town": "HALIFAX",
+        "zip": "02338",
         "phone_numbers": "781-294-4520",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1794,15 +2119,19 @@
       },
       "properties": {
         "organization_name": "Hamilton Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "7",
         "ch667": "52",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "121 RAILROAD AVENUE, SO. HAMILTON 01982",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "121 RAILROAD AVENUE",
+        "town": "SO. HAMILTON",
+        "zip": "01982",
         "phone_numbers": "978-468-3981",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1816,15 +2145,19 @@
       },
       "properties": {
         "organization_name": "Hampden Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "56",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "26 SPRINGMEADOW LANE, HAMPDEN 01036",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "26 SPRINGMEADOW LANE",
+        "town": "HAMPDEN",
+        "zip": "01036",
         "phone_numbers": "413-566-8157",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1838,15 +2171,19 @@
       },
       "properties": {
         "organization_name": "Hampshire County Regional Housing",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "4",
         "ch667": "36",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "RRI BOX A 15, CUMMINGTON 01026",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "RRI BOX A 15",
+        "town": "CUMMINGTON",
+        "zip": "01026",
         "phone_numbers": "634-5000",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1860,15 +2197,19 @@
       },
       "properties": {
         "organization_name": "Hanover Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
-        "ch667": "null",
-        "ch167_189": "null",
+        "ch200": "",
+        "ch705": "",
+        "ch667": "",
+        "ch167_189": "",
         "mrvp": "6",
-        "ahvp": "null",
-        "address": "TOWN HALL, HANOVER 02339",
+        "ahvp": "",
+        "address": "TOWN HALL",
+        "town": "HANOVER",
+        "zip": "02339",
         "phone_numbers": "781-826-8431",
-        "housing_types": "null, null, null, null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1882,15 +2223,19 @@
       },
       "properties": {
         "organization_name": "Hanson Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "68",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "MEETINGHOUSE LANE, HANSON 02341",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "MEETINGHOUSE LANE",
+        "town": "HANSON",
+        "zip": "02341",
         "phone_numbers": "781-293-7474",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1904,15 +2249,19 @@
       },
       "properties": {
         "organization_name": "Harwich Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "12",
-        "ch667": "null",
+        "ch667": "",
         "ch167_189": "8",
         "mrvp": "12",
-        "ahvp": "null",
-        "address": "38 SISSON RD, P.O. BOX 714, HARWICHPORT 02646",
+        "ahvp": "",
+        "address": "38 SISSON RD, P.O. BOX 714",
+        "town": "HARWICHPORT",
+        "zip": "02646",
         "phone_numbers": "508-430-2390",
-        "housing_types": "null, Family Housing (Ch. 705), null, Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1926,15 +2275,19 @@
       },
       "properties": {
         "organization_name": "Hatfield Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "44",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "2 SCHOOL STREET, HATFIELD 01038",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "2 SCHOOL STREET",
+        "town": "HATFIELD",
+        "zip": "01038",
         "phone_numbers": "413-247-9202",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1953,10 +2306,14 @@
         "ch667": "302",
         "ch167_189": "6",
         "mrvp": "51",
-        "ahvp": "null",
-        "address": "P. O. BOX 751, HAVERHILL 01831",
+        "ahvp": "",
+        "address": "P. O. BOX 751",
+        "town": "HAVERHILL",
+        "zip": "01831",
         "phone_numbers": "508-372-6761",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1964,21 +2321,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.8989961,
+          -70.89899609999999,
           42.2436848
         ]
       },
       "properties": {
         "organization_name": "Hingham Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "8",
         "ch667": "84",
         "ch167_189": "14",
         "mrvp": "1",
-        "ahvp": "null",
-        "address": "30 THAXTER STREET, HINGHAM 02043",
+        "ahvp": "",
+        "address": "30 THAXTER STREET",
+        "town": "HINGHAM",
+        "zip": "02043",
         "phone_numbers": "781-741-1417",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1986,21 +2347,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0070412,
+          -71.00704120000002,
           42.1260596
         ]
       },
       "properties": {
         "organization_name": "Holbrook Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "10",
         "ch667": "74",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "8",
-        "ahvp": "null",
-        "address": "ONE HOLBROOK COURT, HOLBROOK 02343",
+        "ahvp": "",
+        "address": "ONE HOLBROOK COURT",
+        "town": "HOLBROOK",
+        "zip": "02343",
         "phone_numbers": "781-767-0024",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2014,15 +2379,19 @@
       },
       "properties": {
         "organization_name": "Holden Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "8",
         "ch667": "48",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "4",
-        "ahvp": "null",
-        "address": "9 FLAGLER DRIVE, HOLDEN 01520",
+        "ahvp": "",
+        "address": "9 FLAGLER DRIVE",
+        "town": "HOLDEN",
+        "zip": "01520",
         "phone_numbers": "508-829-9182",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2030,21 +2399,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.4268042,
+          -71.42680419999999,
           42.2088884
         ]
       },
       "properties": {
         "organization_name": "Holliston Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "6",
         "ch667": "72",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "492 WASHINGTON ST. COLE COURT, HOLLISTON 01746",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "492 WASHINGTON ST. COLE COURT",
+        "town": "HOLLISTON",
+        "zip": "01746",
         "phone_numbers": "508-429-6266",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2063,10 +2436,14 @@
         "ch667": "60",
         "ch167_189": "8",
         "mrvp": "146",
-        "ahvp": "null",
-        "address": "475 MAPLE STREET, HOLYKOE 01040",
+        "ahvp": "",
+        "address": "475 MAPLE STREET",
+        "town": "HOLYKOE",
+        "zip": "01040",
         "phone_numbers": "413-534-2220",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2074,21 +2451,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.5616542,
+          -71.56165419999999,
           42.1355735
         ]
       },
       "properties": {
         "organization_name": "Hopedale Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "80",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "BOX 182, HOPEDALE 01747",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "BOX 182",
+        "town": "HOPEDALE",
+        "zip": "01747",
         "phone_numbers": "508-473-8120",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2102,15 +2483,19 @@
       },
       "properties": {
         "organization_name": "Hopkinton Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "6",
         "ch667": "92",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "1",
-        "ahvp": "null",
-        "address": "100 DAVIS ROAD, HOPKINTON 01748",
+        "ahvp": "",
+        "address": "100 DAVIS ROAD",
+        "town": "HOPKINTON",
+        "zip": "01748",
         "phone_numbers": "508-435-6022",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2124,15 +2509,19 @@
       },
       "properties": {
         "organization_name": "Hudson Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "126",
         "ch167_189": "16",
         "mrvp": "18",
         "ahvp": "11",
-        "address": "8 BRIGHAM CIRCLE, HUDSON 01749",
+        "address": "8 BRIGHAM CIRCLE",
+        "town": "HUDSON",
+        "zip": "01749",
         "phone_numbers": "978-562-9268",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2147,14 +2536,18 @@
       "properties": {
         "organization_name": "Hull Housing Authority",
         "ch200": "28",
-        "ch705": " null",
+        "ch705": "",
         "ch667": "40",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "6 ATLANTIC HOUSE COURT, HULL 02045",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "6 ATLANTIC HOUSE COURT",
+        "town": "HULL",
+        "zip": "02045",
         "phone_numbers": "781-925-4544",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2163,20 +2556,24 @@
         "type": "Point",
         "coordinates": [
           -70.8371598,
-          42.6708397
+          42.67083969999999
         ]
       },
       "properties": {
         "organization_name": "Ipswich Housing Authority",
         "ch200": "24",
-        "ch705": "14",
+        "ch705": " 14",
         "ch667": "200",
         "ch167_189": "12",
         "mrvp": "36",
         "ahvp": "9",
-        "address": "ONE AGAWAM VILLAGE, IPSWICH 01938",
+        "address": "ONE AGAWAM VILLAGE",
+        "town": "IPSWICH",
+        "zip": "01938",
         "phone_numbers": "356-2860",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2190,15 +2587,19 @@
       },
       "properties": {
         "organization_name": "Kingston Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "48",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "15 HILLCREST ROAD, KINGSTON 02364",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "15 HILLCREST ROAD",
+        "town": "KINGSTON",
+        "zip": "02364",
         "phone_numbers": "781-585-8028",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2212,15 +2613,19 @@
       },
       "properties": {
         "organization_name": "Lancaster Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "70",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "MAIN STREET, P.O. BOX 507, SO. LANCASTER 01561",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "MAIN STREET, P.O. BOX 507",
+        "town": "SO. LANCASTER",
+        "zip": "01561",
         "phone_numbers": " 978-365-3923",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2235,14 +2640,18 @@
       "properties": {
         "organization_name": "Lawrence Housing Authority",
         "ch200": "451",
-        "ch705": "null",
+        "ch705": "",
         "ch667": "71",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "104",
-        "ahvp": "null",
-        "address": "353 ELM STREET, LAWRENCE 01842",
+        "ahvp": "",
+        "address": "353 ELM STREET",
+        "town": "LAWRENCE",
+        "zip": "01842",
         "phone_numbers": "978-683-2751",
-        "housing_types": "Veterans Family Housing (Ch. 200), null, Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2256,15 +2665,19 @@
       },
       "properties": {
         "organization_name": "Lee Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "16",
         "ch667": "48",
         "ch167_189": "12",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "155 MARBLE STREET, LEE 01238",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "155 MARBLE STREET",
+        "town": "LEE",
+        "zip": "01238",
         "phone_numbers": "413-243-3464",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2278,15 +2691,19 @@
       },
       "properties": {
         "organization_name": "Leicester Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "124",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "1075 MAIN STREET, LEICESTER 01524",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "1075 MAIN STREET",
+        "town": "LEICESTER",
+        "zip": "01524",
         "phone_numbers": "508-892-4620",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2294,21 +2711,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.28413,
+          -73.28412999999999,
           42.356848
         ]
       },
       "properties": {
         "organization_name": "Lenox Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "8",
         "ch667": "102",
         "ch167_189": "12",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "6 MAIN STREET, LENOX 01240",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "6 MAIN STREET",
+        "town": "LENOX",
+        "zip": "01240",
         "phone_numbers": "",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2323,14 +2744,18 @@
       "properties": {
         "organization_name": "Leominster Housing Authority",
         "ch200": "73",
-        "ch705": "10",
+        "ch705": " 10",
         "ch667": "343",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "21",
-        "ahvp": "null",
-        "address": "100 MAIN STREET, LEOMINSTER 01453",
+        "ahvp": "",
+        "address": "100 MAIN STREET",
+        "town": "LEOMINSTER",
+        "zip": "01453",
         "phone_numbers": "978-537-5300",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2338,21 +2763,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.2006345,
+          -71.20063449999999,
           42.448849
         ]
       },
       "properties": {
         "organization_name": "Lexington Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "1",
-        "ch667": "null",
+        "ch667": "",
         "ch167_189": "16",
         "mrvp": "20",
-        "ahvp": "null",
-        "address": "ONE COUNTRYSIDE VILLAGE, LEXINGTON 02420",
+        "ahvp": "",
+        "address": "ONE COUNTRYSIDE VILLAGE",
+        "town": "LEXINGTON",
+        "zip": "02420",
         "phone_numbers": "781-861-0900",
-        "housing_types": "null, Family Housing (Ch. 705), null, Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2366,15 +2795,19 @@
       },
       "properties": {
         "organization_name": "Littleton Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "12",
         "ch667": "48",
         "ch167_189": "8",
         "mrvp": "9",
-        "ahvp": "null",
-        "address": "19 SHATTUCK STREET, LITTLETON 01460",
+        "ahvp": "",
+        "address": "19 SHATTUCK STREET",
+        "town": "LITTLETON",
+        "zip": "01460",
         "phone_numbers": "978-486-8833",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2388,15 +2821,19 @@
       },
       "properties": {
         "organization_name": "Lowell Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "64",
         "ch667": "175",
         "ch167_189": "16",
         "mrvp": "80",
-        "ahvp": "null",
-        "address": "P. O. BOX 60, LOWELL 01853",
+        "ahvp": "",
+        "address": "P. O. BOX 60",
+        "town": "LOWELL",
+        "zip": "01853",
         "phone_numbers": "978-937-3500",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2404,21 +2841,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.482864,
+          -72.48286399999999,
           42.171368
         ]
       },
       "properties": {
         "organization_name": "Ludlow Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "16",
         "ch667": "150",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "114 WILSON STREET, LUDLOW 01056",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "114 WILSON STREET",
+        "town": "LUDLOW",
+        "zip": "01056",
         "phone_numbers": "413-589-7272",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2432,15 +2873,19 @@
       },
       "properties": {
         "organization_name": "Lunenburg Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "6",
         "ch667": "48",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "C/O Leominster Housing Authority 100 MAIN STREET, LEOMINSTER 01453",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "C/O Leominster Housing Authority 100 MAIN STREET",
+        "town": "LEOMINSTER",
+        "zip": "01453",
         "phone_numbers": "978-537-5300",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2454,15 +2899,19 @@
       },
       "properties": {
         "organization_name": "Lynn Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "35",
         "ch667": "354",
         "ch167_189": "16",
         "mrvp": "320",
         "ahvp": "20",
-        "address": "10 CHURCH STREET, LYNN 01902",
+        "address": "10 CHURCH STREET",
+        "town": "LYNN",
+        "zip": "01902",
         "phone_numbers": "781-477-2800",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2476,15 +2925,19 @@
       },
       "properties": {
         "organization_name": "Lynnfield Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "64",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "600 ROSS DRIVE, LYNNFIELD 01940",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "600 ROSS DRIVE",
+        "town": "LYNNFIELD",
+        "zip": "01940",
         "phone_numbers": "781-581-5783",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2492,21 +2945,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.047621,
+          -71.04762099999999,
           42.433435
         ]
       },
       "properties": {
         "organization_name": "Malden Housing Authority",
         "ch200": "220",
-        "ch705": "null",
+        "ch705": "",
         "ch667": "176",
         "ch167_189": "18",
         "mrvp": "16",
-        "ahvp": "null",
-        "address": "630 SALEM STREET, MALDEN 02148",
+        "ahvp": "",
+        "address": "630 SALEM STREET",
+        "town": "MALDEN",
+        "zip": "02148",
         "phone_numbers": "781-322-9460",
-        "housing_types": "Veterans Family Housing (Ch. 200), null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2520,15 +2977,19 @@
       },
       "properties": {
         "organization_name": "Manchester Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "4",
         "ch667": "80",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "P.O.BOX  608, MANCHESTER 01944",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "P.O.BOX  608",
+        "town": "MANCHESTER",
+        "zip": "01944",
         "phone_numbers": "978-526-1850",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2547,10 +3008,14 @@
         "ch667": "131",
         "ch167_189": "8",
         "mrvp": "11",
-        "ahvp": "null",
-        "address": "22 BICENTENNIAL COURT, MANSFIELD 02048",
+        "ahvp": "",
+        "address": "22 BICENTENNIAL COURT",
+        "town": "MANSFIELD",
+        "zip": "02048",
         "phone_numbers": "508-339-6890",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2558,21 +3023,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.858298,
+          -70.85829799999999,
           42.499152
         ]
       },
       "properties": {
         "organization_name": "Marblehead Housing Authority",
         "ch200": "76",
-        "ch705": "8",
+        "ch705": " 8",
         "ch667": "223",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "26 ROWLAND STREET, MARBLEHEAD 01945",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "26 ROWLAND STREET",
+        "town": "MARBLEHEAD",
+        "zip": "01945",
         "phone_numbers": "",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2580,21 +3049,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.5511998,
+          -71.55119979999999,
           42.3464299
         ]
       },
       "properties": {
         "organization_name": "Marlborough CD Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "227",
         "ch167_189": "12",
         "mrvp": "21",
         "ahvp": "6",
-        "address": "240 MAIN STREET, MARLBOROUGH 01752",
+        "address": "240 MAIN STREET",
+        "town": "MARLBOROUGH",
+        "zip": "01752",
         "phone_numbers": "508-624-6908  ",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2608,15 +3081,19 @@
       },
       "properties": {
         "organization_name": "Marshfield Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "16",
         "ch667": "97",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "13",
-        "ahvp": "null",
-        "address": "12 TEA ROCK GARDENS, MARSHFIELD 02050",
+        "ahvp": "",
+        "address": "12 TEA ROCK GARDENS",
+        "town": "MARSHFIELD",
+        "zip": "02050",
         "phone_numbers": "781-834-4333",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2630,15 +3107,19 @@
       },
       "properties": {
         "organization_name": "Mashpee Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "6",
         "ch667": "24",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "63",
-        "ahvp": "null",
-        "address": "7 JOB'S FISHING RD, MASHPEE 02649",
+        "ahvp": "",
+        "address": "7 JOB'S FISHING RD",
+        "town": "MASHPEE",
+        "zip": "02649",
         "phone_numbers": "508-477-6202",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2653,14 +3134,18 @@
       "properties": {
         "organization_name": "Mattapoisett Housing Authority",
         "ch200": "10",
-        "ch705": " null",
+        "ch705": "",
         "ch667": "54",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "ONE ACUSHNET RD. BOX 358, MATTAPOISETT 02739",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "ONE ACUSHNET RD. BOX 358",
+        "town": "MATTAPOISETT",
+        "zip": "02739",
         "phone_numbers": "508-758-4664",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2674,15 +3159,19 @@
       },
       "properties": {
         "organization_name": "Maynard Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "112",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "51",
-        "ahvp": "null",
-        "address": "15 POWDERMILL CIRCLE, MAYNARD 01754",
+        "ahvp": "",
+        "address": "15 POWDERMILL CIRCLE",
+        "town": "MAYNARD",
+        "zip": "01754",
         "phone_numbers": "508-897-8738",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2690,21 +3179,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.2984449,
+          -71.29844489999999,
           42.1864208
         ]
       },
       "properties": {
         "organization_name": "Medfield Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "60",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "26",
-        "ahvp": "null",
-        "address": "TILDEN VILLAGE, 30 POUND ST., MEDFIELD 02052",
+        "ahvp": "",
+        "address": "TILDEN VILLAGE, 30 POUND ST.",
+        "town": "MEDFIELD",
+        "zip": "02052",
         "phone_numbers": "508-359-6454",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2719,14 +3212,18 @@
       "properties": {
         "organization_name": "Medford Housing Authority",
         "ch200": "0",
-        "ch705": "null",
+        "ch705": "",
         "ch667": "144",
         "ch167_189": "8",
         "mrvp": "20",
-        "ahvp": "null",
-        "address": "121 RIVERSIDE AVENUE, MEDFORD 02155",
+        "ahvp": "",
+        "address": "121 RIVERSIDE AVENUE",
+        "town": "MEDFORD",
+        "zip": "02155",
         "phone_numbers": "781-396-7200",
-        "housing_types": "Veterans Family Housing (Ch. 200), null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2735,20 +3232,24 @@
         "type": "Point",
         "coordinates": [
           -71.4206038,
-          42.1536934
+          42.15369339999999
         ]
       },
       "properties": {
         "organization_name": "Medway Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "94",
         "ch167_189": "9",
         "mrvp": "2",
-        "ahvp": "null",
-        "address": "MAHAN CIRCLE, MEDWAY 02053",
+        "ahvp": "",
+        "address": "MAHAN CIRCLE",
+        "town": "MEDWAY",
+        "zip": "02053",
         "phone_numbers": "508-533-2434",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2762,15 +3263,19 @@
       },
       "properties": {
         "organization_name": "Melrose Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "17",
         "ch667": "305",
         "ch167_189": "24",
         "mrvp": "3",
         "ahvp": "9",
-        "address": "910 MAIN STREET, MELROSE 02176",
+        "address": "910 MAIN STREET",
+        "town": "MELROSE",
+        "zip": "02176",
         "phone_numbers": "781-665-1622",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2778,21 +3283,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.497127,
+          -71.49712699999999,
           42.092526
         ]
       },
       "properties": {
         "organization_name": "Mendon Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "30",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "9 BLACKSTONE ST. BOX 55, MENDON 01756",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "9 BLACKSTONE ST. BOX 55",
+        "town": "MENDON",
+        "zip": "01756",
         "phone_numbers": "508-473-9130",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2806,15 +3315,19 @@
       },
       "properties": {
         "organization_name": "Merrimac Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "4",
         "ch667": "48",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "52 MERRI VILLAGE, MERRIMAC 01860",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "52 MERRI VILLAGE",
+        "town": "MERRIMAC",
+        "zip": "01860",
         "phone_numbers": "",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2829,14 +3342,18 @@
       "properties": {
         "organization_name": "Methuen Housing Authority",
         "ch200": "60",
-        "ch705": "14",
+        "ch705": " 14",
         "ch667": "297",
         "ch167_189": "40",
         "mrvp": "14",
-        "ahvp": "null",
-        "address": "24 MYSTIC STREET, METHUEN 01844",
+        "ahvp": "",
+        "address": "24 MYSTIC STREET",
+        "town": "METHUEN",
+        "zip": "01844",
         "phone_numbers": "978-682-8607  ",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2851,14 +3368,18 @@
       "properties": {
         "organization_name": "Middleborough Housing Authority",
         "ch200": "28",
-        "ch705": " null",
+        "ch705": "",
         "ch667": "154",
         "ch167_189": "8",
         "mrvp": "2",
-        "ahvp": "null",
-        "address": "P.O. BOX 502, MIDDLEBOROUGH 02346",
+        "ahvp": "",
+        "address": "P.O. BOX 502",
+        "town": "MIDDLEBOROUGH",
+        "zip": "02346",
         "phone_numbers": "508-947-3824",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2872,15 +3393,19 @@
       },
       "properties": {
         "organization_name": "Middleton Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "12",
         "ch667": "54",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "ORCHARD CIRCLE, MIDDLETON 01949",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "ORCHARD CIRCLE",
+        "town": "MIDDLETON",
+        "zip": "01949",
         "phone_numbers": "978-774-4333",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2895,14 +3420,18 @@
       "properties": {
         "organization_name": "Milford Housing Authority",
         "ch200": "69",
-        "ch705": "23",
+        "ch705": " 23",
         "ch667": "180",
         "ch167_189": "16",
         "mrvp": "42",
-        "ahvp": "null",
-        "address": "45 BIRMINGHAM COURT, MILFORD 01757",
+        "ahvp": "",
+        "address": "45 BIRMINGHAM COURT",
+        "town": "MILFORD",
+        "zip": "01757",
         "phone_numbers": "508-473-9521",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2917,14 +3446,18 @@
       "properties": {
         "organization_name": "Millbury Housing Authority",
         "ch200": "25",
-        "ch705": "13",
+        "ch705": " 13",
         "ch667": "169",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "6",
-        "ahvp": "null",
-        "address": "89 ELM STREET, MILLBURY 01527",
+        "ahvp": "",
+        "address": "89 ELM STREET",
+        "town": "MILLBURY",
+        "zip": "01527",
         "phone_numbers": "508-865-2660",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2932,21 +3465,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.35948,
+          -71.35947999999999,
           42.17502
         ]
       },
       "properties": {
         "organization_name": "Millis Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "10",
         "ch667": "73",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "2",
-        "ahvp": "null",
-        "address": "KENNEDY TERRACE, MILLIS 02054",
+        "ahvp": "",
+        "address": "KENNEDY TERRACE",
+        "town": "MILLIS",
+        "zip": "02054",
         "phone_numbers": "508-376-8181",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2960,15 +3497,19 @@
       },
       "properties": {
         "organization_name": "Milton Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "12",
         "ch667": "39",
         "ch167_189": "14",
         "mrvp": "3",
-        "ahvp": "null",
-        "address": "65 MILLER AVENUE, MILTON 02186",
+        "ahvp": "",
+        "address": "65 MILLER AVENUE",
+        "town": "MILTON",
+        "zip": "02186",
         "phone_numbers": "617-698-2169",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2982,15 +3523,19 @@
       },
       "properties": {
         "organization_name": "Monson Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "17",
         "ch667": "78",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "16",
-        "ahvp": "null",
-        "address": "50 COLONIAL VILLAGE, MONSON 01057",
+        "ahvp": "",
+        "address": "50 COLONIAL VILLAGE",
+        "town": "MONSON",
+        "zip": "01057",
         "phone_numbers": "413-267-4047",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3005,14 +3550,18 @@
       "properties": {
         "organization_name": "Montague Housing Authority",
         "ch200": "30",
-        "ch705": "null",
+        "ch705": "",
         "ch667": "80",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "41 SUNRISE TERRACE, TURNER FALLS 01376",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "41 SUNRISE TERRACE",
+        "town": "TURNER FALLS",
+        "zip": "01376",
         "phone_numbers": "413-863-8445",
-        "housing_types": "Veterans Family Housing (Ch. 200), null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3027,14 +3576,18 @@
       "properties": {
         "organization_name": "North Andover Housing Authority",
         "ch200": "24",
-        "ch705": "2",
+        "ch705": " 2",
         "ch667": "164",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "4",
-        "ahvp": "null",
-        "address": "P. O. BOX 66, NORTH ATTLEBORO 02761",
+        "ahvp": "",
+        "address": "P. O. BOX 66",
+        "town": "NORTH ATTLEBORO",
+        "zip": "02761",
         "phone_numbers": "695-5142",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3049,14 +3602,18 @@
       "properties": {
         "organization_name": "North Attleborough Housing Authority",
         "ch200": "20",
-        "ch705": "14",
+        "ch705": " 14",
         "ch667": "226",
         "ch167_189": "12",
         "mrvp": "2",
-        "ahvp": "null",
-        "address": "P. O. BOX 66, NORTH ATTLEBORO 02761",
+        "ahvp": "",
+        "address": "P. O. BOX 66",
+        "town": "NORTH ATTLEBORO",
+        "zip": "02761",
         "phone_numbers": "695-5142",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3065,20 +3622,24 @@
         "type": "Point",
         "coordinates": [
           -72.085666,
-          42.2716306
+          42.27163059999999
         ]
       },
       "properties": {
         "organization_name": "North Brookfield Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "14",
         "ch667": "64",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "1",
-        "ahvp": "null",
-        "address": "271 NORTH MAIN STREET, NORTH BROOKFIELD 01535",
+        "ahvp": "",
+        "address": "271 NORTH MAIN STREET",
+        "town": "NORTH BROOKFIELD",
+        "zip": "01535",
         "phone_numbers": "508-867-2826  ",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3087,20 +3648,24 @@
         "type": "Point",
         "coordinates": [
           -71.0806419,
-          42.5756663
+          42.57566629999999
         ]
       },
       "properties": {
         "organization_name": "North Reading Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "4",
         "ch667": "40",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "PEABODY COURT, NORTH READING 01864",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "PEABODY COURT",
+        "town": "NORTH READING",
+        "zip": "01864",
         "phone_numbers": "978-664-2982",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3115,14 +3680,18 @@
       "properties": {
         "organization_name": "Nahant Housing Authority",
         "ch200": "14",
-        "ch705": "5",
+        "ch705": " 5",
         "ch667": "29",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "P.O. BOX 40, NAHANT 01908",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "P.O. BOX 40",
+        "town": "NAHANT",
+        "zip": "01908",
         "phone_numbers": "781-581-9623",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3136,15 +3705,19 @@
       },
       "properties": {
         "organization_name": "Nantucket Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "12",
         "ch667": "10",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "3 MANTA DR, NANTUCKET 02554",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "3 MANTA DR",
+        "town": "NANTUCKET",
+        "zip": "02554",
         "phone_numbers": "508-228-0296",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3159,14 +3732,18 @@
       "properties": {
         "organization_name": "Natick Housing Authority",
         "ch200": "52",
-        "ch705": "37",
+        "ch705": " 37",
         "ch667": "325",
         "ch167_189": "8",
         "mrvp": "7",
-        "ahvp": "null",
-        "address": "4 COTTAGE STREET, NATICK 01760",
+        "ahvp": "",
+        "address": "4 COTTAGE STREET",
+        "town": "NATICK",
+        "zip": "01760",
         "phone_numbers": "508-653-2971",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3175,20 +3752,24 @@
         "type": "Point",
         "coordinates": [
           -71.2347126,
-          42.312654
+          42.31265399999999
         ]
       },
       "properties": {
         "organization_name": "Needham Housing Authority",
         "ch200": "80",
-        "ch705": " null",
+        "ch705": "",
         "ch667": "152",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "28 ROBERT COOK DRIVE, NEEDHAM 02192",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "28 ROBERT COOK DRIVE",
+        "town": "NEEDHAM",
+        "zip": "02192",
         "phone_numbers": "781-444-3011",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3208,9 +3789,13 @@
         "ch167_189": "16",
         "mrvp": "128",
         "ahvp": "25",
-        "address": "P.O. BOX 2081, NEW BEDFORD 02741",
+        "address": "P.O. BOX 2081",
+        "town": "NEW BEDFORD",
+        "zip": "02741",
         "phone_numbers": "508-997-4800",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3218,21 +3803,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.86901,
+          -70.86901000000002,
           42.808571
         ]
       },
       "properties": {
         "organization_name": "Newburyport Housing Authority",
         "ch200": "42",
-        "ch705": " null",
+        "ch705": "",
         "ch667": "100",
         "ch167_189": "24",
         "mrvp": "10",
         "ahvp": "25",
-        "address": "25 TEMPLE STREET, NEWBURYPORT 01950",
+        "address": "25 TEMPLE STREET",
+        "town": "NEWBURYPORT",
+        "zip": "01950",
         "phone_numbers": "508-465-7216",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3246,15 +3835,19 @@
       },
       "properties": {
         "organization_name": "Newton Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "79",
         "ch667": "136",
         "ch167_189": "17",
         "mrvp": "41",
-        "ahvp": "null",
-        "address": "82 LINCOLN STREET, NEWTON 02160",
+        "ahvp": "",
+        "address": "82 LINCOLN STREET",
+        "town": "NEWTON",
+        "zip": "02160",
         "phone_numbers": "617-552-5501",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3268,15 +3861,19 @@
       },
       "properties": {
         "organization_name": "Norfolk Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "20",
         "ch667": "64",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "33 ROCKWOOD RD., BOX 293, NORFOLK 02056",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "33 ROCKWOOD RD., BOX 293",
+        "town": "NORFOLK",
+        "zip": "02056",
         "phone_numbers": "508-528-4800",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3285,20 +3882,24 @@
         "type": "Point",
         "coordinates": [
           -73.1087148,
-          42.700915
+          42.70091499999999
         ]
       },
       "properties": {
         "organization_name": "North Adams Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
-        "ch667": "null",
+        "ch200": "",
+        "ch705": "",
+        "ch667": "",
         "ch167_189": "9",
         "mrvp": "9",
-        "ahvp": "null",
-        "address": "150 ASHLAND ST. BOX 51, NORTH ADAMS 01247",
+        "ahvp": "",
+        "address": "150 ASHLAND ST. BOX 51",
+        "town": "NORTH ADAMS",
+        "zip": "01247",
         "phone_numbers": "413-663-5379",
-        "housing_types": "null, null, null, Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3317,10 +3918,14 @@
         "ch667": "383",
         "ch167_189": "27",
         "mrvp": "15",
-        "ahvp": "null",
-        "address": "49 OLD SOUTH STREET, NORTHAMPTON 01060",
+        "ahvp": "",
+        "address": "49 OLD SOUTH STREET",
+        "town": "NORTHAMPTON",
+        "zip": "01060",
         "phone_numbers": "413-584-4030  ",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3334,15 +3939,19 @@
       },
       "properties": {
         "organization_name": "Northborough Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "26",
         "ch667": "104",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "26 VILLAGE DRIVE, NORTHBOROUGH 01532",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "26 VILLAGE DRIVE",
+        "town": "NORTHBOROUGH",
+        "zip": "01532",
         "phone_numbers": "508-393-2408",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3356,15 +3965,19 @@
       },
       "properties": {
         "organization_name": "Northbridge Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "76",
         "ch167_189": "8",
         "mrvp": "4",
-        "ahvp": "null",
-        "address": "COLONIAL DRIVE, NORTHBRIDGE 01588",
+        "ahvp": "",
+        "address": "COLONIAL DRIVE",
+        "town": "NORTHBRIDGE",
+        "zip": "01588",
         "phone_numbers": "508-234-7736",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3378,15 +3991,19 @@
       },
       "properties": {
         "organization_name": "Norton Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "14",
         "ch667": "130",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "3",
-        "ahvp": "null",
-        "address": "120 WEST MAIN STREET, NORTON 02766",
+        "ahvp": "",
+        "address": "120 WEST MAIN STREET",
+        "town": "NORTON",
+        "zip": "02766",
         "phone_numbers": "508-285-3929",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3400,15 +4017,19 @@
       },
       "properties": {
         "organization_name": "Norwell Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "80",
         "ch167_189": "16",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "399 WASHINGTON STREET, NORWELL 02061",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "399 WASHINGTON STREET",
+        "town": "NORWELL",
+        "zip": "02061",
         "phone_numbers": "781-659-7690",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3416,21 +4037,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.204969,
+          -71.20496899999999,
           42.197798
         ]
       },
       "properties": {
         "organization_name": "Norwood Housing Authority",
         "ch200": "75",
-        "ch705": " null",
+        "ch705": "",
         "ch667": "293",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "11",
-        "ahvp": "null",
-        "address": "40 WILLIAM SHYNE CIRCLE, NORWOOD 02062",
+        "ahvp": "",
+        "address": "40 WILLIAM SHYNE CIRCLE",
+        "town": "NORWOOD",
+        "zip": "02062",
         "phone_numbers": "781-762-8115",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3444,15 +4069,19 @@
       },
       "properties": {
         "organization_name": "Orange Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "8",
         "ch667": "56",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "46",
-        "ahvp": "null",
-        "address": "200 EAST RIVER ST. BLDG #3, ORANGE 01364",
+        "ahvp": "",
+        "address": "200 EAST RIVER ST. BLDG #3",
+        "town": "ORANGE",
+        "zip": "01364",
         "phone_numbers": "978-544-6000",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3466,15 +4095,19 @@
       },
       "properties": {
         "organization_name": "Orleans Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "11",
         "ch667": "100",
         "ch167_189": "16",
         "mrvp": "19",
         "ahvp": "4",
-        "address": "94 HOPKINS LANE, ORLEANS 02653",
+        "address": "94 HOPKINS LANE",
+        "town": "ORLEANS",
+        "zip": "02653",
         "phone_numbers": "508-255-0064",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3488,15 +4121,19 @@
       },
       "properties": {
         "organization_name": "Oxford Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "14",
         "ch667": "166",
         "ch167_189": "8",
         "mrvp": "1",
-        "ahvp": "null",
-        "address": "23 WHEELOCK STREET, OXFORD 01540",
+        "ahvp": "",
+        "address": "23 WHEELOCK STREET",
+        "town": "OXFORD",
+        "zip": "01540",
         "phone_numbers": "508-987-5055",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3510,15 +4147,19 @@
       },
       "properties": {
         "organization_name": "Palmer Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "48",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "1",
-        "ahvp": "null",
-        "address": "13 FLETCHER STREET, PALMER 01069",
+        "ahvp": "",
+        "address": "13 FLETCHER STREET",
+        "town": "PALMER",
+        "zip": "01069",
         "phone_numbers": "413-283-9311",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3537,10 +4178,14 @@
         "ch667": "346",
         "ch167_189": "26",
         "mrvp": "150",
-        "ahvp": "null",
-        "address": "75-81 CENTRAL STREET, PEABODY 01960",
+        "ahvp": "",
+        "address": "75-81 CENTRAL STREET",
+        "town": "PEABODY",
+        "zip": "01960",
         "phone_numbers": "",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3554,15 +4199,19 @@
       },
       "properties": {
         "organization_name": "Pembroke Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "7",
         "ch667": "116",
         "ch167_189": "16",
         "mrvp": "9",
-        "ahvp": "null",
-        "address": "KILCOMMONS DR, PEMBROKE 02359",
+        "ahvp": "",
+        "address": "KILCOMMONS DR",
+        "town": "PEMBROKE",
+        "zip": "02359",
         "phone_numbers": "781-293-3088  ",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3576,15 +4225,19 @@
       },
       "properties": {
         "organization_name": "Pepperell Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "7",
         "ch667": "63",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "2",
-        "ahvp": "null",
-        "address": "4 FOSTER ST, E. PEPPERELL 01463",
+        "ahvp": "",
+        "address": "4 FOSTER ST",
+        "town": "E. PEPPERELL",
+        "zip": "01463",
         "phone_numbers": "978-433-9882",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3603,10 +4256,14 @@
         "ch667": "377",
         "ch167_189": "50",
         "mrvp": "6",
-        "ahvp": "null",
-        "address": "65 COLUMBUS AVE., PITTSFIELD 01201-",
+        "ahvp": "",
+        "address": "65 COLUMBUS AVE.",
+        "town": "PITTSFIELD",
+        "zip": "01201-",
         "phone_numbers": "413-443-5936",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3620,15 +4277,19 @@
       },
       "properties": {
         "organization_name": "Plainville Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "40",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "140 EAST BACON ST., PLAINVILLE 02762",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "140 EAST BACON ST.",
+        "town": "PLAINVILLE",
+        "zip": "02762",
         "phone_numbers": "508-699-4212",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3636,21 +4297,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.66392,
+          -70.66391999999999,
           41.95577
         ]
       },
       "properties": {
         "organization_name": "Plymouth Housing Authority",
         "ch200": "40",
-        "ch705": "5",
+        "ch705": " 5",
         "ch667": "191",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "69 ALLERTON ST., BOX 3537, PLYMOUTH 02361",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "69 ALLERTON ST., BOX 3537",
+        "town": "PLYMOUTH",
+        "zip": "02361",
         "phone_numbers": "508-746-2105",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3658,21 +4323,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.184886,
+          -70.18488599999999,
           42.058898
         ]
       },
       "properties": {
         "organization_name": "Provincetown Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "10",
         "ch667": "24",
-        "ch167_189": "null",
-        "mrvp": "null",
+        "ch167_189": "",
+        "mrvp": "",
         "ahvp": "10",
-        "address": "44 HARRY KEMP WAY, PROVINCETOWN 02657",
+        "address": "44 HARRY KEMP WAY",
+        "town": "PROVINCETOWN",
+        "zip": "02657",
         "phone_numbers": "508-487-0434",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3691,10 +4360,14 @@
         "ch667": "470",
         "ch167_189": "29",
         "mrvp": "108",
-        "ahvp": "null",
-        "address": "80 CLAY STREET, QUNICY 02170",
+        "ahvp": "",
+        "address": "80 CLAY STREET",
+        "town": "QUNICY",
+        "zip": "02170",
         "phone_numbers": "617-847-4350",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3702,21 +4375,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0372303,
+          -71.03723029999999,
           42.1686235
         ]
       },
       "properties": {
         "organization_name": "Randolph Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "236",
         "ch167_189": "8",
         "mrvp": "16",
-        "ahvp": "null",
-        "address": "ONE DECELLE DRIVE, RANDOLPH 02368",
+        "ahvp": "",
+        "address": "ONE DECELLE DRIVE",
+        "town": "RANDOLPH",
+        "zip": "02368",
         "phone_numbers": "781-963-1990",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3730,15 +4407,19 @@
       },
       "properties": {
         "organization_name": "Raynham Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "62",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "75 MILL STREET, RAYNHAM 02767",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "75 MILL STREET",
+        "town": "RAYNHAM",
+        "zip": "02767",
         "phone_numbers": "508-824-9404",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3752,15 +4433,19 @@
       },
       "properties": {
         "organization_name": "Reading Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "10",
         "ch667": "80",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "22 FRANK D. TANNER DRIVE, READING 01867",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "22 FRANK D. TANNER DRIVE",
+        "town": "READING",
+        "zip": "01867",
         "phone_numbers": "781-944-6755",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3777,12 +4462,16 @@
         "ch200": "286",
         "ch705": "69",
         "ch667": "351",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "90",
         "ahvp": "100",
-        "address": "70 COOLEDGE STREET, REVERE 02151",
+        "address": "70 COOLEDGE STREET",
+        "town": "REVERE",
+        "zip": "02151",
         "phone_numbers": "781-284-4394",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3796,15 +4485,19 @@
       },
       "properties": {
         "organization_name": "Rockland Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "42",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "22",
-        "ahvp": "null",
-        "address": "8 STUDLEY COURT, ROCKAND 02370",
+        "ahvp": "",
+        "address": "8 STUDLEY COURT",
+        "town": "ROCKAND",
+        "zip": "02370",
         "phone_numbers": "",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3818,15 +4511,19 @@
       },
       "properties": {
         "organization_name": "Rockport Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "24",
         "ch667": "80",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "13 MILLBROOK PARK, ROCKPORT 01966",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "13 MILLBROOK PARK",
+        "town": "ROCKPORT",
+        "zip": "01966",
         "phone_numbers": "978-546-3181",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3840,15 +4537,19 @@
       },
       "properties": {
         "organization_name": "Rowley Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "12",
         "ch667": "42",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "PLANTATION DRIVE, ROWLEY 01969",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "PLANTATION DRIVE",
+        "town": "ROWLEY",
+        "zip": "01969",
         "phone_numbers": "978-948-2371",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3865,12 +4566,16 @@
         "ch200": "168",
         "ch705": "42",
         "ch667": "465",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "103",
-        "ahvp": "null",
-        "address": "27 CHARTER STREET, SALEM 01970",
+        "ahvp": "",
+        "address": "27 CHARTER STREET",
+        "town": "SALEM",
+        "zip": "01970",
         "phone_numbers": "978-744-4432",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3884,15 +4589,19 @@
       },
       "properties": {
         "organization_name": "Salisbury Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "80",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "23 BEACH ROAD, SALISBURY 01950",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "23 BEACH ROAD",
+        "town": "SALISBURY",
+        "zip": "01950",
         "phone_numbers": "978-462-8600",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3901,20 +4610,24 @@
         "type": "Point",
         "coordinates": [
           -70.4897921,
-          41.7082215
+          41.70822150000001
         ]
       },
       "properties": {
         "organization_name": "Sandwich Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "13",
         "ch667": "36",
         "ch167_189": "12",
         "mrvp": "2",
         "ahvp": "10",
-        "address": "20 TOMS WAY, SANDWICH 02565",
+        "address": "20 TOMS WAY",
+        "town": "SANDWICH",
+        "zip": "02565",
         "phone_numbers": "508-833-4979",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3928,15 +4641,19 @@
       },
       "properties": {
         "organization_name": "Saugus Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "8",
         "ch667": "205",
         "ch167_189": "8",
         "mrvp": "4",
-        "ahvp": "null",
-        "address": "19 TALBOT STREET, SAUGUS 01906",
+        "ahvp": "",
+        "address": "19 TALBOT STREET",
+        "town": "SAUGUS",
+        "zip": "01906",
         "phone_numbers": "781-233-2116",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3945,20 +4662,24 @@
         "type": "Point",
         "coordinates": [
           -70.7885884,
-          42.2212078
+          42.22120779999999
         ]
       },
       "properties": {
         "organization_name": "Scituate Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "158",
         "ch167_189": "7",
         "mrvp": "3",
-        "ahvp": "null",
-        "address": "791 Country Way, SCITUATE 02066",
+        "ahvp": "",
+        "address": "791 Country Way",
+        "town": "SCITUATE",
+        "zip": "02066",
         "phone_numbers": "781-545-3375",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3972,15 +4693,19 @@
       },
       "properties": {
         "organization_name": "Seekonk Housing Authority",
-        "ch200": "null",
-        "ch705": "8",
+        "ch200": "",
+        "ch705": " 8",
         "ch667": "72",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "2",
         "ahvp": "2",
-        "address": "25 CHAPPELL, SUITE 10, SEEKONK 02771",
+        "address": "25 CHAPPELL, SUITE 10",
+        "town": "SEEKONK",
+        "zip": "02771",
         "phone_numbers": "508-336-6067",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3994,15 +4719,19 @@
       },
       "properties": {
         "organization_name": "Sharon Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "6",
         "ch667": "88",
         "ch167_189": "8",
         "mrvp": "2",
         "ahvp": "9",
-        "address": "18 HIXON FARM ROAD, SHARON 02067",
+        "address": "18 HIXON FARM ROAD",
+        "town": "SHARON",
+        "zip": "02067",
         "phone_numbers": "781-784-2733",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4016,15 +4745,19 @@
       },
       "properties": {
         "organization_name": "Shelburne Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "46",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "80 CANAL STREET, P.O. BOX 30, TURNER FALLS 01376",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "80 CANAL STREET, P.O. BOX 30",
+        "town": "TURNER FALLS",
+        "zip": "01376",
         "phone_numbers": "413-863-9530",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4038,15 +4771,19 @@
       },
       "properties": {
         "organization_name": "Shrewsbury Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "17",
         "ch667": "136",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "36 NO. QUINSINGAMOND AVE, SHREWSBURY 01545",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "36 NO. QUINSINGAMOND AVE",
+        "town": "SHREWSBURY",
+        "zip": "01545",
         "phone_numbers": "508-757-0323",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4060,15 +4797,19 @@
       },
       "properties": {
         "organization_name": "Somerset Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "135",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "75 JOHN KENNEDY TERRACE, SOMERSET 02726",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "75 JOHN KENNEDY TERRACE",
+        "town": "SOMERSET",
+        "zip": "02726",
         "phone_numbers": "508-672-3348  ",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4087,10 +4828,14 @@
         "ch667": "502",
         "ch167_189": "40",
         "mrvp": "12",
-        "ahvp": "null",
-        "address": "30 MEMORIAL ROAD, SOMERVILLE 02145",
+        "ahvp": "",
+        "address": "30 MEMORIAL ROAD",
+        "town": "SOMERVILLE",
+        "zip": "02145",
         "phone_numbers": "617-625-1152",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4104,15 +4849,19 @@
       },
       "properties": {
         "organization_name": "South Hadley Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "12",
         "ch667": "136",
         "ch167_189": "8",
         "mrvp": "10",
-        "ahvp": "null",
-        "address": "69 LATHROP STREET, SOUTH HADLEY 01075",
+        "ahvp": "",
+        "address": "69 LATHROP STREET",
+        "town": "SOUTH HADLEY",
+        "zip": "01075",
         "phone_numbers": "413-532-3194",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4126,15 +4875,19 @@
       },
       "properties": {
         "organization_name": "Southborough Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "2",
         "ch667": "56",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "49 BOSTON ROAD, SOUTHBOROUGH 01772",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "49 BOSTON ROAD",
+        "town": "SOUTHBOROUGH",
+        "zip": "01772",
         "phone_numbers": "508-481-2166",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4142,21 +4895,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.0276838,
+          -72.02768379999999,
           42.0785431
         ]
       },
       "properties": {
         "organization_name": "Southbridge Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "8",
         "ch667": "152",
         "ch167_189": "16",
         "mrvp": "79",
-        "ahvp": "null",
-        "address": "60 CHARLTON STREET, SOUTHBRIDGE 01550",
+        "ahvp": "",
+        "address": "60 CHARLTON STREET",
+        "town": "SOUTHBRIDGE",
+        "zip": "01550",
         "phone_numbers": "508-765-5858",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4164,21 +4921,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.7682388,
+          -72.76823879999999,
           42.0542388
         ]
       },
       "properties": {
         "organization_name": "Southwick Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "6",
         "ch667": "48",
         "ch167_189": "14",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "12 DEPOT STREET, SOUTHWICK 01077",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "12 DEPOT STREET",
+        "town": "SOUTHWICK",
+        "zip": "01077",
         "phone_numbers": "413-569-3161",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4186,21 +4947,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.988808,
+          -71.98880799999999,
           42.239069
         ]
       },
       "properties": {
         "organization_name": "Spencer Housing Authority",
-        "ch200": "null",
-        "ch705": "8",
+        "ch200": "",
+        "ch705": " 8",
         "ch667": "174",
         "ch167_189": "8",
         "mrvp": "18",
         "ahvp": "35",
-        "address": "HOWE VILLAGE, P.O. BOX 486, SPENCER 01562",
+        "address": "HOWE VILLAGE, P.O. BOX 486",
+        "town": "SPENCER",
+        "zip": "01562",
         "phone_numbers": "508-885-3904",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4209,7 +4974,7 @@
         "type": "Point",
         "coordinates": [
           -72.5923651,
-          42.1114616
+          42.11146160000001
         ]
       },
       "properties": {
@@ -4219,10 +4984,14 @@
         "ch667": "429",
         "ch167_189": "43",
         "mrvp": "249",
-        "ahvp": "null",
-        "address": "25 SAAB COURT, SPRINGFIELD 01101",
+        "ahvp": "",
+        "address": "25 SAAB COURT",
+        "town": "SPRINGFIELD",
+        "zip": "01101",
         "phone_numbers": "413-785-4517 or 413-785-4518",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4236,15 +5005,19 @@
       },
       "properties": {
         "organization_name": "Sterling Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "40",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "C/O Leominster Housing Authority 100 MAIN STREET, LEOMINSTER 01453",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "C/O Leominster Housing Authority 100 MAIN STREET",
+        "town": "LEOMINSTER",
+        "zip": "01453",
         "phone_numbers": "978-537-5300",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4253,20 +5026,24 @@
         "type": "Point",
         "coordinates": [
           -73.3105235,
-          42.2849202
+          42.28492019999999
         ]
       },
       "properties": {
         "organization_name": "Stockbridge Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "53",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "5 PINE STREET, STOCKBRIDGE 01262",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "5 PINE STREET",
+        "town": "STOCKBRIDGE",
+        "zip": "01262",
         "phone_numbers": "413-298-3222",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4281,14 +5058,18 @@
       "properties": {
         "organization_name": "Stoneham Housing Authority",
         "ch200": "72",
-        "ch705": " null",
+        "ch705": "",
         "ch667": "209",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "11 PARKER CHASE ROAD, STONEHAM 02180",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "11 PARKER CHASE ROAD",
+        "town": "STONEHAM",
+        "zip": "02180",
         "phone_numbers": "",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4296,21 +5077,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.099658,
+          -71.09965799999999,
           42.124922
         ]
       },
       "properties": {
         "organization_name": "Stoughton Housing Authority",
         "ch200": "26",
-        "ch705": "18",
+        "ch705": " 18",
         "ch667": "186",
         "ch167_189": "8",
         "mrvp": "31",
-        "ahvp": "null",
-        "address": "4 CAPEN STREET, STOUGHTON 02072",
+        "ahvp": "",
+        "address": "4 CAPEN STREET",
+        "town": "STOUGHTON",
+        "zip": "02072",
         "phone_numbers": "781-344-6599  ",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4324,15 +5109,19 @@
       },
       "properties": {
         "organization_name": "Sudbury Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "20",
         "ch667": "64",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "55 HUDSON ROAD, SUDBURY 01776",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "55 HUDSON ROAD",
+        "town": "SUDBURY",
+        "zip": "01776",
         "phone_numbers": "978-443-5112",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4340,21 +5129,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.722761,
+          -71.72276099999999,
           42.175751
         ]
       },
       "properties": {
         "organization_name": "Sutton Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "40",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "5 CHURCH STREET, WILKINSONVILLE 01590",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "5 CHURCH STREET",
+        "town": "WILKINSONVILLE",
+        "zip": "01590",
         "phone_numbers": "508-865-3821",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4369,14 +5162,18 @@
       "properties": {
         "organization_name": "Swampscott Housing Authority",
         "ch200": "36",
-        "ch705": " null",
+        "ch705": "",
         "ch667": "84",
         "ch167_189": "8",
         "mrvp": "2",
-        "ahvp": "null",
-        "address": "6 DUNCAN TERRACE, SWAMPSCOTT 01907",
+        "ahvp": "",
+        "address": "6 DUNCAN TERRACE",
+        "town": "SWAMPSCOTT",
+        "zip": "01907",
         "phone_numbers": "781-593-5516",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4390,15 +5187,19 @@
       },
       "properties": {
         "organization_name": "Swansea Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "64",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "100 GARDNER NECK ROAD, SWANSEA 02777",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "100 GARDNER NECK ROAD",
+        "town": "SWANSEA",
+        "zip": "02777",
         "phone_numbers": "508-679-5828",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4406,7 +5207,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.102303,
+          -71.10230299999999,
           41.900414
         ]
       },
@@ -4417,10 +5218,14 @@
         "ch667": "276",
         "ch167_189": "8",
         "mrvp": "24",
-        "ahvp": "null",
-        "address": "30 OLNEY STREET, TAUNTON 02780",
+        "ahvp": "",
+        "address": "30 OLNEY STREET",
+        "town": "TAUNTON",
+        "zip": "02780",
         "phone_numbers": "508-823-6308",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4434,15 +5239,19 @@
       },
       "properties": {
         "organization_name": "Templeton Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "8",
         "ch667": "52",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "99 BRIDGE ST., BALDWINVILLE 01436",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "99 BRIDGE ST.",
+        "town": "BALDWINVILLE",
+        "zip": "01436",
         "phone_numbers": "978-939-2374",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4456,15 +5265,19 @@
       },
       "properties": {
         "organization_name": "Tewksbury Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "19",
         "ch667": "140",
         "ch167_189": "24",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "SAUNDERS CIRCLE, TEWKSBURY 01876",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "SAUNDERS CIRCLE",
+        "town": "TEWKSBURY",
+        "zip": "01876",
         "phone_numbers": "978-851-7392",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4478,15 +5291,19 @@
       },
       "properties": {
         "organization_name": "Topsfield Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "60",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "69 WASHINGTON STREET, TOPSFIELD 01983",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "69 WASHINGTON STREET",
+        "town": "TOPSFIELD",
+        "zip": "01983",
         "phone_numbers": "978-887-8407",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4500,15 +5317,19 @@
       },
       "properties": {
         "organization_name": "Tyngsborough Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "14",
         "ch667": "94",
         "ch167_189": "8",
         "mrvp": "1",
-        "ahvp": "null",
-        "address": "198 MIDDLESEX RD. BRINLEY, TYNGSBOROUGH 01879",
+        "ahvp": "",
+        "address": "198 MIDDLESEX RD. BRINLEY",
+        "town": "TYNGSBOROUGH",
+        "zip": "01879",
         "phone_numbers": "508-649-9941",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4522,15 +5343,19 @@
       },
       "properties": {
         "organization_name": "Upton Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "40",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "7",
-        "ahvp": "null",
-        "address": "COACHROAD APTS. P.O. BOX 715, UPTON 01568",
+        "ahvp": "",
+        "address": "COACHROAD APTS. P.O. BOX 715",
+        "town": "UPTON",
+        "zip": "01568",
         "phone_numbers": "",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4539,20 +5364,24 @@
         "type": "Point",
         "coordinates": [
           -71.6302532,
-          42.0772429
+          42.07724289999999
         ]
       },
       "properties": {
         "organization_name": "Uxbridge Housing Authority",
         "ch200": "22",
-        "ch705": "12",
+        "ch705": " 12",
         "ch667": "86",
         "ch167_189": "16",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "CALUMET COURT, BOX 391, UXBRIDGE 01569",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "CALUMET COURT, BOX 391",
+        "town": "UXBRIDGE",
+        "zip": "01569",
         "phone_numbers": "508-278-3232  ",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4561,20 +5390,24 @@
         "type": "Point",
         "coordinates": [
           -71.785972,
-          42.3789736
+          42.37897359999999
         ]
       },
       "properties": {
         "organization_name": "West Boylston Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "18",
         "ch667": "36",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "87 MAPLE ST. ORCHARD KNOLL, WEST BOYLSTON 01583",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "87 MAPLE ST. ORCHARD KNOLL",
+        "town": "WEST BOYLSTON",
+        "zip": "01583",
         "phone_numbers": "508-835-6060",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4588,15 +5421,19 @@
       },
       "properties": {
         "organization_name": "West Bridgewater Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "48",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "7 ESTHER DRIVE, WEST BRIDGEWATER 02379",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "7 ESTHER DRIVE",
+        "town": "WEST BRIDGEWATER",
+        "zip": "02379",
         "phone_numbers": "588-2781",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4610,15 +5447,19 @@
       },
       "properties": {
         "organization_name": "West Brookfield Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "10",
         "ch667": "36",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "29 EAST MAIN ST., BLDG #7, WEST BROOKFIELD 01535-2936",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "29 EAST MAIN ST., BLDG #7",
+        "town": "WEST BROOKFIELD",
+        "zip": "01535-2936",
         "phone_numbers": "508-867-5891",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4626,21 +5467,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.9758596,
+          -70.97585959999999,
           42.8060142
         ]
       },
       "properties": {
         "organization_name": "West Newbury Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "12",
         "ch667": "14",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "379 MAIN ST., WEST NEWBURY 01985",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "379 MAIN ST.",
+        "town": "WEST NEWBURY",
+        "zip": "01985",
         "phone_numbers": "",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4655,14 +5500,18 @@
       "properties": {
         "organization_name": "West Springfield Housing Authority",
         "ch200": "90",
-        "ch705": "9",
+        "ch705": " 9",
         "ch667": "250",
         "ch167_189": "10",
         "mrvp": "7",
-        "ahvp": "null",
-        "address": "37 OXFORD PLACE, WEST SPRINGFIELD 01089",
+        "ahvp": "",
+        "address": "37 OXFORD PLACE",
+        "town": "WEST SPRINGFIELD",
+        "zip": "01089",
         "phone_numbers": "413-788-0988",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4676,15 +5525,19 @@
       },
       "properties": {
         "organization_name": "Wakefield Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "8",
         "ch667": "141",
         "ch167_189": "8",
         "mrvp": "14",
-        "ahvp": "null",
-        "address": "26 CRESCENT STREET, WAKEFIELD 01880",
+        "ahvp": "",
+        "address": "26 CRESCENT STREET",
+        "town": "WAKEFIELD",
+        "zip": "01880",
         "phone_numbers": "781-245-7328",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4698,15 +5551,19 @@
       },
       "properties": {
         "organization_name": "Walpole Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "12",
         "ch667": "118",
         "ch167_189": "8",
         "mrvp": "6",
-        "ahvp": "null",
-        "address": "8 DIAMOND POND TERRACE, WALPOLE 02081",
+        "ahvp": "",
+        "address": "8 DIAMOND POND TERRACE",
+        "town": "WALPOLE",
+        "zip": "02081",
         "phone_numbers": "508-668-7878",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4724,11 +5581,15 @@
         "ch705": "22",
         "ch667": "219",
         "ch167_189": "22",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "110 POND STREET, WALTHAM 02154",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "110 POND STREET",
+        "town": "WALTHAM",
+        "zip": "02154",
         "phone_numbers": "781-894-3357",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4736,21 +5597,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.2456,
+          -72.24560000000001,
           42.255983
         ]
       },
       "properties": {
         "organization_name": "Ware Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "25",
         "ch667": "86",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "20 VALLEY VIEW, WARE 01082",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "20 VALLEY VIEW",
+        "town": "WARE",
+        "zip": "01082",
         "phone_numbers": "413-967-4477",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4764,15 +5629,19 @@
       },
       "properties": {
         "organization_name": "Wareham Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "104",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "48",
-        "ahvp": "null",
-        "address": "57 SANDWICH ROAD, WAREHAM 02571",
+        "ahvp": "",
+        "address": "57 SANDWICH ROAD",
+        "town": "WAREHAM",
+        "zip": "02571",
         "phone_numbers": "508-295-8031",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4786,15 +5655,19 @@
       },
       "properties": {
         "organization_name": "Warren Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "10",
         "ch667": "60",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "14",
-        "ahvp": "null",
-        "address": "P.O. BOX 3021, WARREN 01083",
+        "ahvp": "",
+        "address": "P.O. BOX 3021",
+        "town": "WARREN",
+        "zip": "01083",
         "phone_numbers": "413-436-7184",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4802,7 +5675,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1031176,
+          -71.10311759999999,
           42.3581739
         ]
       },
@@ -4814,9 +5687,13 @@
         "ch167_189": "23",
         "mrvp": "18",
         "ahvp": "6",
-        "address": "55 WAVERLY AVENUE, WATERTOWN 02172",
+        "address": "55 WAVERLY AVENUE",
+        "town": "WATERTOWN",
+        "zip": "02172",
         "phone_numbers": "617-923-3950",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4830,15 +5707,19 @@
       },
       "properties": {
         "organization_name": "Wayland Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "56",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "106 MAIN STREET, WAYLAND 01778",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "106 MAIN STREET",
+        "town": "WAYLAND",
+        "zip": "01778",
         "phone_numbers": "508-655-6310",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4853,14 +5734,18 @@
       "properties": {
         "organization_name": "Webster Housing Authority",
         "ch200": "30",
-        "ch705": " null",
+        "ch705": "",
         "ch667": "72",
         "ch167_189": "16",
         "mrvp": "3",
-        "ahvp": "null",
-        "address": "10 GOLDEN HEIGHTS, WEBSTER 01570",
+        "ahvp": "",
+        "address": "10 GOLDEN HEIGHTS",
+        "town": "WEBSTER",
+        "zip": "01570",
         "phone_numbers": "508-943-1624",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4868,21 +5753,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.245529,
+          -71.24552899999999,
           42.3197818
         ]
       },
       "properties": {
         "organization_name": "Wellesley Housing Authority",
         "ch200": "90",
-        "ch705": "12",
+        "ch705": " 12",
         "ch667": "133",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "3",
-        "ahvp": "null",
-        "address": "109 BARTON ROAD, WELLESLEY 02181",
+        "ahvp": "",
+        "address": "109 BARTON ROAD",
+        "town": "WELLESLEY",
+        "zip": "02181",
         "phone_numbers": "781-235-0223",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4896,15 +5785,19 @@
       },
       "properties": {
         "organization_name": "Wenham Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "84",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "LARCH LANE, WENHAM 01984",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "LARCH LANE",
+        "town": "WENHAM",
+        "zip": "01984",
         "phone_numbers": "978-468-1532",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4919,14 +5812,18 @@
       "properties": {
         "organization_name": "Westborough Housing Authority",
         "ch200": "14",
-        "ch705": "12",
+        "ch705": " 12",
         "ch667": "76",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "2 ROGERS RD., WESTBOROUGH 01581",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "2 ROGERS RD.",
+        "town": "WESTBOROUGH",
+        "zip": "01581",
         "phone_numbers": "508-366-1225",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4934,21 +5831,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.7484311,
-          42.1142977
+          -72.74843109999999,
+          42.11429770000001
         ]
       },
       "properties": {
         "organization_name": "Westfield Housing Authority",
         "ch200": "62",
-        "ch705": "26",
+        "ch705": " 26",
         "ch667": "339",
         "ch167_189": "14",
         "mrvp": "65",
         "ahvp": "10",
-        "address": "P.O. BOX 99, WESTFIELD 01086",
+        "address": "P.O. BOX 99",
+        "town": "WESTFIELD",
+        "zip": "01086",
         "phone_numbers": "413-568-9283",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4956,21 +5857,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.4069254,
+          -71.40692539999999,
           42.5752135
         ]
       },
       "properties": {
         "organization_name": "Westford Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "6",
         "ch667": "73",
         "ch167_189": "8",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "65 TADMUCK ROAD, WESTFORD 01086",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "65 TADMUCK ROAD",
+        "town": "WESTFORD",
+        "zip": "01086",
         "phone_numbers": "978-568-9283",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4979,20 +5884,24 @@
         "type": "Point",
         "coordinates": [
           -71.0798339,
-          41.6583768
+          41.65837680000001
         ]
       },
       "properties": {
         "organization_name": "Westport Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "48",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "666 STATE RD., P.O. BOX 456, WESTPORT 02790",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "666 STATE RD., P.O. BOX 456",
+        "town": "WESTPORT",
+        "zip": "02790",
         "phone_numbers": "508-675-2039",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5007,14 +5916,18 @@
       "properties": {
         "organization_name": "Weymouth Housing Authority",
         "ch200": "189",
-        "ch705": "null",
+        "ch705": "",
         "ch667": "216",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "89",
-        "ahvp": "null",
-        "address": "402 ESSEX STREET, WEYMOUTH 02188",
+        "ahvp": "",
+        "address": "402 ESSEX STREET",
+        "town": "WEYMOUTH",
+        "zip": "02188",
         "phone_numbers": "617-331-2323",
-        "housing_types": "Veterans Family Housing (Ch. 200), null, Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5028,15 +5941,19 @@
       },
       "properties": {
         "organization_name": "Whitman Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "18",
         "ch667": "164",
-        "ch167_189": "null",
+        "ch167_189": "",
         "mrvp": "1",
         "ahvp": "4",
-        "address": "P.O. BOX 334, WHITMAN 02382",
+        "address": "P.O. BOX 334",
+        "town": "WHITMAN",
+        "zip": "02382",
         "phone_numbers": "781-447-6363",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5044,21 +5961,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.4573835,
+          -72.45738349999999,
           42.1121695
         ]
       },
       "properties": {
         "organization_name": "Wilbraham Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "9",
         "ch667": "75",
-        "ch167_189": "null",
-        "mrvp": "null",
+        "ch167_189": "",
+        "mrvp": "",
         "ahvp": "2",
-        "address": "88 STONY HILL ROAD, WILBRAHAM 01095",
+        "address": "88 STONY HILL ROAD",
+        "town": "WILBRAHAM",
+        "zip": "01095",
         "phone_numbers": "413-543-1700",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5066,21 +5987,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.1856534,
+          -73.18565339999999,
           42.7019361
         ]
       },
       "properties": {
         "organization_name": "Williamstown Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "8",
         "ch667": "30",
         "ch167_189": "8",
         "mrvp": "7",
-        "ahvp": "null",
-        "address": "35 ADAMS ROAD, WILLIAMSTOWN 01267",
+        "ahvp": "",
+        "address": "35 ADAMS ROAD",
+        "town": "WILLIAMSTOWN",
+        "zip": "01267",
         "phone_numbers": "413-458-8282",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5094,15 +6019,19 @@
       },
       "properties": {
         "organization_name": "Wilmington Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "13",
         "ch667": "72",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "41 DEMING WAY, WILMINGTON 01887",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "41 DEMING WAY",
+        "town": "WILMINGTON",
+        "zip": "01887",
         "phone_numbers": "978-658-8531",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5116,15 +6045,19 @@
       },
       "properties": {
         "organization_name": "Winchendon Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "24",
         "ch667": "87",
         "ch167_189": "8",
         "mrvp": "5",
-        "ahvp": "null",
-        "address": "108 IPSWICH DRIVE, WINCHENDON 01475",
+        "ahvp": "",
+        "address": "108 IPSWICH DRIVE",
+        "town": "WINCHENDON",
+        "zip": "01475",
         "phone_numbers": "978-297-2280",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5132,21 +6065,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1310892,
+          -71.13108919999999,
           42.4565458
         ]
       },
       "properties": {
         "organization_name": "Winchester Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "7",
         "ch667": "112",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "13 WESTLEY STREET, WINCHESTER 01890",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "13 WESTLEY STREET",
+        "town": "WINCHESTER",
+        "zip": "01890",
         "phone_numbers": "781-721-5718",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5161,14 +6098,18 @@
       "properties": {
         "organization_name": "Winthrop Housing Authority",
         "ch200": "73",
-        "ch705": "8",
+        "ch705": " 8",
         "ch667": "348",
         "ch167_189": "8",
         "mrvp": "3",
-        "ahvp": "null",
-        "address": "9 GOLDEN DRIVE, WINTHROP 02152",
+        "ahvp": "",
+        "address": "9 GOLDEN DRIVE",
+        "town": "WINTHROP",
+        "zip": "02152",
         "phone_numbers": "617-846-7100",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5183,14 +6124,18 @@
       "properties": {
         "organization_name": "Woburn Housing Authority",
         "ch200": "176",
-        "ch705": "null",
+        "ch705": "",
         "ch667": "239",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "59 CAMPBELL STREET, WOBURN 01801",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "59 CAMPBELL STREET",
+        "town": "WOBURN",
+        "zip": "01801",
         "phone_numbers": "781-935-0818",
-        "housing_types": "Veterans Family Housing (Ch. 200), null, Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5199,7 +6144,7 @@
         "type": "Point",
         "coordinates": [
           -71.795941,
-          42.271267
+          42.27126699999999
         ]
       },
       "properties": {
@@ -5210,9 +6155,13 @@
         "ch167_189": "40",
         "mrvp": "298",
         "ahvp": "23",
-        "address": "40 BELMONT STREET, WORCESTER 01605",
+        "address": "40 BELMONT STREET",
+        "town": "WORCESTER",
+        "zip": "01605",
         "phone_numbers": "508-798-4506",
-        "housing_types": "Veterans Family Housing (Ch. 200), Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, Alternative Housing Voucher Program Housing"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5226,15 +6175,19 @@
       },
       "properties": {
         "organization_name": "Wrentham Housing Authority",
-        "ch200": "null",
+        "ch200": "",
         "ch705": "15",
         "ch667": "66",
-        "ch167_189": "null",
-        "mrvp": "null",
-        "ahvp": "null",
-        "address": "P.O. BOX 312, WRENTHAM 02093",
+        "ch167_189": "",
+        "mrvp": "",
+        "ahvp": "",
+        "address": "P.O. BOX 312",
+        "town": "WRENTHAM",
+        "zip": "02093",
         "phone_numbers": "508-384-2054",
-        "housing_types": "null, Family Housing (Ch. 705), Elderly / Handicapped Housing (Ch. 667), null, null, null"
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5242,21 +6195,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.205851,
+          -70.20585100000001,
           41.6659319
         ]
       },
       "properties": {
         "organization_name": "Yarmouth Housing Authority",
-        "ch200": "null",
-        "ch705": "null",
+        "ch200": "",
+        "ch705": "",
         "ch667": "40",
         "ch167_189": "8",
         "mrvp": "10",
-        "ahvp": "null",
-        "address": "LONG POND PLAZA, SO. YARMOUTH 02644",
+        "ahvp": "",
+        "address": "LONG POND PLAZA",
+        "town": "SO. YARMOUTH",
+        "zip": "02644",
         "phone_numbers": "508-398-2920",
-        "housing_types": "null, null, Elderly / Handicapped Housing (Ch. 667), Special Needs Housing (Ch.167/189), Massachusetts Rental Voucher Program Housing, null"
+        "housing_types": [
+        	""
+        ]
       }
     }
   ]
