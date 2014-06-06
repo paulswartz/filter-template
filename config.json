@@ -32,7 +32,8 @@
         "geosearch": true
     },
     "facets": {
-        "ch200": {
+        "housing_types": {
+            "title": "Housing Types",
             "type": "single"
         }
     },

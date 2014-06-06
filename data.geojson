@@ -21,7 +21,15 @@
         "address": "71 SHAW AVENUE",
         "town": "ABINGTON",
         "zip": "02351",
-        "phone_numbers": "781-878-5219"
+        "phone_numbers": "781-878-5219",
+        "housing_types": [
+        	"Family Housing (Ch.200)",
+       		"Family Housing (Ch.705)",
+        	"Elderly / Handicapped Housing (Ch.667)",
+        	"Special Needs Housing (Ch.167/189)",
+        	"Massachusetts Rental Voucher Program Housing",
+        	"Alternative Housing Voucher Program Housing"
+        ]
       }
     },
     {
@@ -44,7 +52,10 @@
         "address": "68 WINDSOR AVE. BOX 681",
         "town": "ACTON",
         "zip": "01720",
-        "phone_numbers": "978-263-5339"
+        "phone_numbers": "978-263-5339",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -67,7 +78,10 @@
         "address": "23 MAIN STREET",
         "town": "ACUSHNET",
         "zip": "02743",
-        "phone_numbers": "508-998-3603"
+        "phone_numbers": "508-998-3603",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -90,7 +104,10 @@
         "address": "4 COLUMBIA STREET",
         "town": "ADAMS",
         "zip": "01220",
-        "phone_numbers": "413-743-5924"
+        "phone_numbers": "413-743-5924",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -113,7 +130,10 @@
         "address": "66 MEADOWBROOK MANOR",
         "town": "AGAWAM",
         "zip": "01001",
-        "phone_numbers": "413-786-1297"
+        "phone_numbers": "413-786-1297",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -136,7 +156,10 @@
         "address": "180 MAIN STREET",
         "town": "AMESBURY",
         "zip": "01913",
-        "phone_numbers": "978-388-2022"
+        "phone_numbers": "978-388-2022",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -159,7 +182,10 @@
         "address": "33 KELLOGG AVENUE",
         "town": "AMHERST",
         "zip": "01002",
-        "phone_numbers": "413-256-0206"
+        "phone_numbers": "413-256-0206",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -182,7 +208,10 @@
         "address": "100 MORTON STREET",
         "town": "ANDOVER",
         "zip": "01810",
-        "phone_numbers": "978-475-2365"
+        "phone_numbers": "978-475-2365",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -205,7 +234,10 @@
         "address": "4 WINSLOW STREET",
         "town": "ARLINGTON",
         "zip": "02174",
-        "phone_numbers": "781-646-3400"
+        "phone_numbers": "781-646-3400",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -228,7 +260,10 @@
         "address": "59 PARK ROAD",
         "town": "ASHLAND",
         "zip": "01721",
-        "phone_numbers": "508-881-2450"
+        "phone_numbers": "508-881-2450",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -251,7 +286,10 @@
         "address": "21 Morton Meadows",
         "town": "ATHOL",
         "zip": "01331",
-        "phone_numbers": "978-249-4848"
+        "phone_numbers": "978-249-4848",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -274,7 +312,10 @@
         "address": "37 CARLON STREET",
         "town": "ATTLEBORO",
         "zip": "02703",
-        "phone_numbers": "508-222-0151"
+        "phone_numbers": "508-222-0151",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -297,7 +338,10 @@
         "address": "200 OXFORD STREET",
         "town": "AUBURN",
         "zip": "01501",
-        "phone_numbers": "508-832-3852"
+        "phone_numbers": "508-832-3852",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -320,7 +364,10 @@
         "address": "ONE FELLOWSHIP CIRCLE",
         "town": "AVON",
         "zip": "02322",
-        "phone_numbers": "508-588-1847"
+        "phone_numbers": "508-588-1847",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -343,7 +390,10 @@
         "address": "18 POND STREET",
         "town": "AYER",
         "zip": "01432",
-        "phone_numbers": "978-772-2771"
+        "phone_numbers": "978-772-2771",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -366,7 +416,10 @@
         "address": "146 SOUTH STREET",
         "town": "HYANNIS",
         "zip": "02601",
-        "phone_numbers": "508-771-7222"
+        "phone_numbers": "508-771-7222",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -389,7 +442,10 @@
         "address": "49 GRANDVIEW TER.",
         "town": "BARRE",
         "zip": "01005",
-        "phone_numbers": "978-355-6643"
+        "phone_numbers": "978-355-6643",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -412,7 +468,10 @@
         "address": "ASHBY PLACE",
         "town": "BEDFORD",
         "zip": "01730",
-        "phone_numbers": "781-275-2428"
+        "phone_numbers": "781-275-2428",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -435,7 +494,10 @@
         "address": "41 EVERETT AVE",
         "town": "BELCHERTOWN",
         "zip": "01007",
-        "phone_numbers": "413-323-4064"
+        "phone_numbers": "413-323-4064",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -458,7 +520,10 @@
         "address": "10 WRENTHAM MANOR",
         "town": "BELLINGHAM",
         "zip": "02019",
-        "phone_numbers": "508-883-4999"
+        "phone_numbers": "508-883-4999",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -481,7 +546,10 @@
         "address": "59 PEARSON ROAD",
         "town": "BELMONT",
         "zip": "02478",
-        "phone_numbers": "617-484-2160"
+        "phone_numbers": "617-484-2160",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -504,7 +572,10 @@
         "address": "150 NORTH STREET",
         "town": "PITTSFIELD",
         "zip": "01201",
-        "phone_numbers": "800-248-9002"
+        "phone_numbers": "800-248-9002",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -527,7 +598,10 @@
         "address": "137 BRIDGE ST. BOX 503",
         "town": "BEVERLY",
         "zip": "01915",
-        "phone_numbers": "978-922-3100"
+        "phone_numbers": "978-922-3100",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -550,7 +624,10 @@
         "address": "16 RIVER STREET",
         "town": "BILLERCIA",
         "zip": "01821",
-        "phone_numbers": "978-667-1661"
+        "phone_numbers": "978-667-1661",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -573,7 +650,10 @@
         "address": "15 FOXBROOK MANOR, AUSTIN St.",
         "town": "BLACKSTONE",
         "zip": "01504",
-        "phone_numbers": "508-883-1515"
+        "phone_numbers": "508-883-1515",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -596,7 +676,10 @@
         "address": "52 CHAUNCY STREET",
         "town": "BOSTON",
         "zip": "02111",
-        "phone_numbers": "617-451-1250"
+        "phone_numbers": "617-451-1250",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -619,7 +702,10 @@
         "address": "871 SHORE ROAD",
         "town": "POCASSET",
         "zip": "02559",
-        "phone_numbers": "508-563-7485"
+        "phone_numbers": "508-563-7485",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -642,7 +728,10 @@
         "address": "25 ROOSEVELT STREET",
         "town": "BRAINTREE",
         "zip": "02184",
-        "phone_numbers": "781-848-1484"
+        "phone_numbers": "781-848-1484",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -665,7 +754,10 @@
         "address": "11 FREDERICK COURT",
         "town": "BREWSTER",
         "zip": "02631",
-        "phone_numbers": "508-896-9800"
+        "phone_numbers": "508-896-9800",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -688,7 +780,10 @@
         "address": "10 HERITAGE CIRCLE, PO BOX ",
         "town": "BRIDGEWATER",
         "zip": "02324",
-        "phone_numbers": "508-697-7405"
+        "phone_numbers": "508-697-7405",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -711,7 +806,10 @@
         "address": "20 COLONIAL PARK",
         "town": "BRIMFIELD",
         "zip": "01010",
-        "phone_numbers": "413-245-7506"
+        "phone_numbers": "413-245-7506",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -734,7 +832,10 @@
         "address": "45 GODDARD RD., BOX 340",
         "town": "BROCKTON",
         "zip": "02403",
-        "phone_numbers": "508-588-6880"
+        "phone_numbers": "508-588-6880",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -757,7 +858,10 @@
         "address": "271 NO. MAIN STREET",
         "town": "NORTH BROOKFIELD",
         "zip": "01535",
-        "phone_numbers": "508-867-2826"
+        "phone_numbers": "508-867-2826",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -780,7 +884,10 @@
         "address": "90 LONGWOOD AVENUE",
         "town": "BROOKLINE",
         "zip": "02146",
-        "phone_numbers": "277-2022"
+        "phone_numbers": "277-2022",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -803,7 +910,10 @@
         "address": "15 BIRCHCREST ST.",
         "town": "BURLINGTON",
         "zip": "01803",
-        "phone_numbers": "781-272-7786"
+        "phone_numbers": "781-272-7786",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -826,7 +936,10 @@
         "address": "675 MASSACHUSETTS AVE",
         "town": "CAMBRIDGE",
         "zip": "02139",
-        "phone_numbers": "617-864-3020"
+        "phone_numbers": "617-864-3020",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -849,7 +962,10 @@
         "address": "P.O. BOX 333",
         "town": "CANTON",
         "zip": "02021",
-        "phone_numbers": "781-828-5144"
+        "phone_numbers": "781-828-5144",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -872,7 +988,10 @@
         "address": "MEADOWBROOK WAY",
         "town": "CARVER",
         "zip": "02330",
-        "phone_numbers": "508-866-3115"
+        "phone_numbers": "508-866-3115",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -895,7 +1014,10 @@
         "address": "1 MEADOWVIEW DRIVE",
         "town": "CHARLTON",
         "zip": "01507",
-        "phone_numbers": "508-248-5067"
+        "phone_numbers": "508-248-5067",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -918,7 +1040,10 @@
         "address": "240 CROWELL ROAD",
         "town": "CHATHAM",
         "zip": "02633",
-        "phone_numbers": "508-945-0478"
+        "phone_numbers": "508-945-0478",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -941,7 +1066,10 @@
         "address": "10 WILSON STREET",
         "town": "CHELMSFORD",
         "zip": "01824",
-        "phone_numbers": "978-256-7425"
+        "phone_numbers": "978-256-7425",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -964,7 +1092,10 @@
         "address": "54 LOCKE STREET",
         "town": "CHELSEA",
         "zip": "02150",
-        "phone_numbers": "617-884-5617"
+        "phone_numbers": "617-884-5617",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -987,7 +1118,10 @@
         "address": "128 MEETINGHOUSE ROAD",
         "town": "CHICOPEE",
         "zip": "01013",
-        "phone_numbers": "413-592-6132"
+        "phone_numbers": "413-592-6132",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1010,7 +1144,10 @@
         "address": "58 FITCH ROAD",
         "town": "CLINTON",
         "zip": "01510",
-        "phone_numbers": "978-365-4150"
+        "phone_numbers": "978-365-4150",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1033,7 +1170,10 @@
         "address": "60 ELM STREET",
         "town": "COHASSET",
         "zip": "02025",
-        "phone_numbers": "781-383-1948"
+        "phone_numbers": "781-383-1948",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1056,7 +1196,10 @@
         "address": "115 STOW STREET",
         "town": "CONCORD",
         "zip": "01742",
-        "phone_numbers": "978-369-8435"
+        "phone_numbers": "978-369-8435",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1079,7 +1222,10 @@
         "address": "293 HIGH STREET, Pine Grove Manor",
         "town": "DALTON",
         "zip": "01226",
-        "phone_numbers": "413-684-2493"
+        "phone_numbers": "413-684-2493",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1102,7 +1248,10 @@
         "address": "14 STONE STREET",
         "town": "DANVERS",
         "zip": "01923",
-        "phone_numbers": "978-777-0909"
+        "phone_numbers": "978-777-0909",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1125,7 +1274,10 @@
         "address": "2 ANDERSON WAY",
         "town": "N. DARTMOUTH",
         "zip": "02747",
-        "phone_numbers": "508-994-1424"
+        "phone_numbers": "508-994-1424",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1148,7 +1300,10 @@
         "address": "163 DEDHAM BOULEVARD",
         "town": "DEDHAM",
         "zip": "02026",
-        "phone_numbers": "781-326-3543"
+        "phone_numbers": "781-326-3543",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1171,7 +1326,10 @@
         "address": "167 CENTRE STREET",
         "town": "SO. DENNIS",
         "zip": "02660",
-        "phone_numbers": "508-394-3120"
+        "phone_numbers": "508-394-3120",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1194,7 +1352,10 @@
         "address": "300 LINCOLN AVE. ",
         "town": "NO. DIGHTON",
         "zip": "02764",
-        "phone_numbers": "508-823-8361"
+        "phone_numbers": "508-823-8361",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1217,7 +1378,10 @@
         "address": "971 MAMMOTH ROAD",
         "town": "DRACUT",
         "zip": "01826",
-        "phone_numbers": "508-957-3515"
+        "phone_numbers": "508-957-3515",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1240,7 +1404,10 @@
         "address": "JOSHUA PLACE APARTMENTS",
         "town": "DUDLEY",
         "zip": "01570",
-        "phone_numbers": "508-949-0522"
+        "phone_numbers": "508-949-0522",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1263,7 +1430,10 @@
         "address": "PO BOX 190",
         "town": "EDGARTOWN",
         "zip": "02539",
-        "phone_numbers": "508-645-9274"
+        "phone_numbers": "508-645-9274",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1286,7 +1456,10 @@
         "address": "59 CHESTNUT STREET",
         "town": "DUXBURY",
         "zip": "02332",
-        "phone_numbers": "781-934-6618"
+        "phone_numbers": "781-934-6618",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1309,7 +1482,10 @@
         "address": "38 RIDDELL ROAD",
         "town": "EAST BRIDGEWATER",
         "zip": "02333",
-        "phone_numbers": "508-378-3838"
+        "phone_numbers": "508-378-3838",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1332,7 +1508,10 @@
         "address": "81 QUARRY HILL",
         "town": "EAST LONGMEADOW",
         "zip": "01028",
-        "phone_numbers": "413-525-7057"
+        "phone_numbers": "413-525-7057",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1355,7 +1534,10 @@
         "address": "112 HOLYOKE St.",
         "town": "EASTHAMPTON",
         "zip": "01027",
-        "phone_numbers": "413-527-1600"
+        "phone_numbers": "413-527-1600",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1378,7 +1560,10 @@
         "address": "PARKER TERRACE",
         "town": "NO. EASTON",
         "zip": "02356",
-        "phone_numbers": "508-238-4747"
+        "phone_numbers": "508-238-4747",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1401,7 +1586,10 @@
         "address": "P.O. BOX 934",
         "town": "ESSEX",
         "zip": "01929",
-        "phone_numbers": "978-768-6821"
+        "phone_numbers": "978-768-6821",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1424,7 +1612,10 @@
         "address": "393 FERRY STREET",
         "town": "EVERETT",
         "zip": "02149",
-        "phone_numbers": "617-387-6389"
+        "phone_numbers": "617-387-6389",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1447,7 +1638,10 @@
         "address": "275 MAIN STREET",
         "town": "FAIRHAVEN",
         "zip": "02719",
-        "phone_numbers": "508-993-1144"
+        "phone_numbers": "508-993-1144",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1470,7 +1664,10 @@
         "address": "85 MORGAN ST. BOX 989",
         "town": "FALL RIVER",
         "zip": "02722",
-        "phone_numbers": "508-675-3500"
+        "phone_numbers": "508-675-3500",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1493,7 +1690,10 @@
         "address": "115 SCRANTON AVENUE",
         "town": "FALMOUTH",
         "zip": "02540",
-        "phone_numbers": "508-548-1977"
+        "phone_numbers": "508-548-1977",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1516,7 +1716,10 @@
         "address": "50 DAY STREET",
         "town": "FITCHBURG",
         "zip": "01420",
-        "phone_numbers": "978-342-5222"
+        "phone_numbers": "978-342-5222",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1539,7 +1742,10 @@
         "address": "90 N. CARL-ANNON COURT",
         "town": "FOXBOROUGH",
         "zip": "02035",
-        "phone_numbers": "508-543-5960"
+        "phone_numbers": "508-543-5960",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1562,7 +1768,10 @@
         "address": "1 JOHN J. BRADY DRIVE",
         "town": "FRAMINGHAM",
         "zip": "01702",
-        "phone_numbers": "508-879-7562"
+        "phone_numbers": "508-879-7562",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1585,7 +1794,10 @@
         "address": "CENTRAL PARK TERRACE",
         "town": "FRANKLIN",
         "zip": "02038",
-        "phone_numbers": "508-528-2220"
+        "phone_numbers": "508-528-2220",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1608,7 +1820,10 @@
         "address": "42 CANAL ROAD, PO. BOX 30",
         "town": "TURNERS FALLS",
         "zip": "01376",
-        "phone_numbers": "413-863-9781"
+        "phone_numbers": "413-863-9781",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1631,7 +1846,10 @@
         "address": "116 CHURCH STREET",
         "town": "GARDNER",
         "zip": "01440",
-        "phone_numbers": "978-632-6627"
+        "phone_numbers": "978-632-6627",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1654,7 +1872,10 @@
         "address": "23 TRESTLE WAY",
         "town": "GEORGETOWN",
         "zip": "01833",
-        "phone_numbers": "978-352-6331"
+        "phone_numbers": "978-352-6331",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1677,7 +1898,10 @@
         "address": "257 WASHINGTON ST. P.O. BOX 1599",
         "town": "GLOUCESTER",
         "zip": "01931",
-        "phone_numbers": "978-283-1234"
+        "phone_numbers": "978-283-1234",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1700,7 +1924,10 @@
         "address": "10 MAXWELL DRIVE",
         "town": "NO. GRAFTON",
         "zip": "01536",
-        "phone_numbers": "508-839-6089"
+        "phone_numbers": "508-839-6089",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1723,7 +1950,10 @@
         "address": "50 PHIN'S HILL MANOR",
         "town": "GRANBY",
         "zip": "01033",
-        "phone_numbers": "413-467-9300"
+        "phone_numbers": "413-467-9300",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1746,7 +1976,10 @@
         "address": "ONE ELM TERRACE",
         "town": "GREENFIELD",
         "zip": "01301",
-        "phone_numbers": "413-774-2932"
+        "phone_numbers": "413-774-2932",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1769,7 +2002,10 @@
         "address": "19 LOWELL RD",
         "town": "GROTON",
         "zip": "01450",
-        "phone_numbers": "978-448-3962"
+        "phone_numbers": "978-448-3962",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1792,7 +2028,10 @@
         "address": "10 RIVER PINES",
         "town": "GROVELAND",
         "zip": "01834",
-        "phone_numbers": "978-374-0370"
+        "phone_numbers": "978-374-0370",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1815,7 +2054,10 @@
         "address": "2 BERRNARD GIBBONS DR",
         "town": "GREAT BARRINGTON",
         "zip": "01230",
-        "phone_numbers": "413-274-1142"
+        "phone_numbers": "413-274-1142",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1838,7 +2080,10 @@
         "address": "42 GOLDEN COURT",
         "town": "HADLEY",
         "zip": "01035",
-        "phone_numbers": "413-584-3868"
+        "phone_numbers": "413-584-3868",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1861,7 +2106,10 @@
         "address": "1 PARSON LANE",
         "town": "HALIFAX",
         "zip": "02338",
-        "phone_numbers": "781-294-4520"
+        "phone_numbers": "781-294-4520",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1884,7 +2132,10 @@
         "address": "121 RAILROAD AVENUE",
         "town": "SO. HAMILTON",
         "zip": "01982",
-        "phone_numbers": "978-468-3981"
+        "phone_numbers": "978-468-3981",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1907,7 +2158,10 @@
         "address": "26 SPRINGMEADOW LANE",
         "town": "HAMPDEN",
         "zip": "01036",
-        "phone_numbers": "413-566-8157"
+        "phone_numbers": "413-566-8157",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1930,7 +2184,10 @@
         "address": "RRI BOX A 15",
         "town": "CUMMINGTON",
         "zip": "01026",
-        "phone_numbers": "634-5000"
+        "phone_numbers": "634-5000",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1953,7 +2210,10 @@
         "address": "TOWN HALL",
         "town": "HANOVER",
         "zip": "02339",
-        "phone_numbers": "781-826-8431"
+        "phone_numbers": "781-826-8431",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1976,7 +2236,10 @@
         "address": "MEETINGHOUSE LANE",
         "town": "HANSON",
         "zip": "02341",
-        "phone_numbers": "781-293-7474"
+        "phone_numbers": "781-293-7474",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -1999,7 +2262,10 @@
         "address": "38 SISSON RD, P.O. BOX 714",
         "town": "HARWICHPORT",
         "zip": "02646",
-        "phone_numbers": "508-430-2390"
+        "phone_numbers": "508-430-2390",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2022,7 +2288,10 @@
         "address": "2 SCHOOL STREET",
         "town": "HATFIELD",
         "zip": "01038",
-        "phone_numbers": "413-247-9202"
+        "phone_numbers": "413-247-9202",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2045,7 +2314,10 @@
         "address": "P. O. BOX 751",
         "town": "HAVERHILL",
         "zip": "01831",
-        "phone_numbers": "508-372-6761"
+        "phone_numbers": "508-372-6761",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2068,7 +2340,10 @@
         "address": "30 THAXTER STREET",
         "town": "HINGHAM",
         "zip": "02043",
-        "phone_numbers": "781-741-1417"
+        "phone_numbers": "781-741-1417",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2091,7 +2366,10 @@
         "address": "ONE HOLBROOK COURT",
         "town": "HOLBROOK",
         "zip": "02343",
-        "phone_numbers": "781-767-0024"
+        "phone_numbers": "781-767-0024",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2114,7 +2392,10 @@
         "address": "9 FLAGLER DRIVE",
         "town": "HOLDEN",
         "zip": "01520",
-        "phone_numbers": "508-829-9182"
+        "phone_numbers": "508-829-9182",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2137,7 +2418,10 @@
         "address": "492 WASHINGTON ST. COLE COURT",
         "town": "HOLLISTON",
         "zip": "01746",
-        "phone_numbers": "508-429-6266"
+        "phone_numbers": "508-429-6266",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2160,7 +2444,10 @@
         "address": "475 MAPLE STREET",
         "town": "HOLYKOE",
         "zip": "01040",
-        "phone_numbers": "413-534-2220"
+        "phone_numbers": "413-534-2220",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2183,7 +2470,10 @@
         "address": "BOX 182",
         "town": "HOPEDALE",
         "zip": "01747",
-        "phone_numbers": "508-473-8120"
+        "phone_numbers": "508-473-8120",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2206,7 +2496,10 @@
         "address": "100 DAVIS ROAD",
         "town": "HOPKINTON",
         "zip": "01748",
-        "phone_numbers": "508-435-6022"
+        "phone_numbers": "508-435-6022",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2229,7 +2522,10 @@
         "address": "8 BRIGHAM CIRCLE",
         "town": "HUDSON",
         "zip": "01749",
-        "phone_numbers": "978-562-9268"
+        "phone_numbers": "978-562-9268",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2252,7 +2548,10 @@
         "address": "6 ATLANTIC HOUSE COURT",
         "town": "HULL",
         "zip": "02045",
-        "phone_numbers": "781-925-4544"
+        "phone_numbers": "781-925-4544",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2275,7 +2574,10 @@
         "address": "ONE AGAWAM VILLAGE",
         "town": "IPSWICH",
         "zip": "01938",
-        "phone_numbers": "356-2860"
+        "phone_numbers": "356-2860",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2298,7 +2600,10 @@
         "address": "15 HILLCREST ROAD",
         "town": "KINGSTON",
         "zip": "02364",
-        "phone_numbers": "781-585-8028"
+        "phone_numbers": "781-585-8028",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2321,7 +2626,10 @@
         "address": "MAIN STREET, P.O. BOX 507",
         "town": "SO. LANCASTER",
         "zip": "01561",
-        "phone_numbers": " 978-365-3923"
+        "phone_numbers": " 978-365-3923",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2344,7 +2652,10 @@
         "address": "353 ELM STREET",
         "town": "LAWRENCE",
         "zip": "01842",
-        "phone_numbers": "978-683-2751"
+        "phone_numbers": "978-683-2751",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2367,7 +2678,10 @@
         "address": "155 MARBLE STREET",
         "town": "LEE",
         "zip": "01238",
-        "phone_numbers": "413-243-3464"
+        "phone_numbers": "413-243-3464",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2390,7 +2704,10 @@
         "address": "1075 MAIN STREET",
         "town": "LEICESTER",
         "zip": "01524",
-        "phone_numbers": "508-892-4620"
+        "phone_numbers": "508-892-4620",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2413,7 +2730,10 @@
         "address": "6 MAIN STREET",
         "town": "LENOX",
         "zip": "01240",
-        "phone_numbers": ""
+        "phone_numbers": "",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2436,7 +2756,10 @@
         "address": "100 MAIN STREET",
         "town": "LEOMINSTER",
         "zip": "01453",
-        "phone_numbers": "978-537-5300"
+        "phone_numbers": "978-537-5300",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2459,7 +2782,10 @@
         "address": "ONE COUNTRYSIDE VILLAGE",
         "town": "LEXINGTON",
         "zip": "02420",
-        "phone_numbers": "781-861-0900"
+        "phone_numbers": "781-861-0900",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2482,7 +2808,10 @@
         "address": "19 SHATTUCK STREET",
         "town": "LITTLETON",
         "zip": "01460",
-        "phone_numbers": "978-486-8833"
+        "phone_numbers": "978-486-8833",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2505,7 +2834,10 @@
         "address": "P. O. BOX 60",
         "town": "LOWELL",
         "zip": "01853",
-        "phone_numbers": "978-937-3500"
+        "phone_numbers": "978-937-3500",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2528,7 +2860,10 @@
         "address": "114 WILSON STREET",
         "town": "LUDLOW",
         "zip": "01056",
-        "phone_numbers": "413-589-7272"
+        "phone_numbers": "413-589-7272",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2551,7 +2886,10 @@
         "address": "C/O Leominster Housing Authority 100 MAIN STREET",
         "town": "LEOMINSTER",
         "zip": "01453",
-        "phone_numbers": "978-537-5300"
+        "phone_numbers": "978-537-5300",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2574,7 +2912,10 @@
         "address": "10 CHURCH STREET",
         "town": "LYNN",
         "zip": "01902",
-        "phone_numbers": "781-477-2800"
+        "phone_numbers": "781-477-2800",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2597,7 +2938,10 @@
         "address": "600 ROSS DRIVE",
         "town": "LYNNFIELD",
         "zip": "01940",
-        "phone_numbers": "781-581-5783"
+        "phone_numbers": "781-581-5783",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2620,7 +2964,10 @@
         "address": "630 SALEM STREET",
         "town": "MALDEN",
         "zip": "02148",
-        "phone_numbers": "781-322-9460"
+        "phone_numbers": "781-322-9460",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2643,7 +2990,10 @@
         "address": "P.O.BOX  608",
         "town": "MANCHESTER",
         "zip": "01944",
-        "phone_numbers": "978-526-1850"
+        "phone_numbers": "978-526-1850",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2666,7 +3016,10 @@
         "address": "22 BICENTENNIAL COURT",
         "town": "MANSFIELD",
         "zip": "02048",
-        "phone_numbers": "508-339-6890"
+        "phone_numbers": "508-339-6890",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2689,7 +3042,10 @@
         "address": "26 ROWLAND STREET",
         "town": "MARBLEHEAD",
         "zip": "01945",
-        "phone_numbers": ""
+        "phone_numbers": "",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2712,7 +3068,10 @@
         "address": "240 MAIN STREET",
         "town": "MARLBOROUGH",
         "zip": "01752",
-        "phone_numbers": "508-624-6908  "
+        "phone_numbers": "508-624-6908  ",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2735,7 +3094,10 @@
         "address": "12 TEA ROCK GARDENS",
         "town": "MARSHFIELD",
         "zip": "02050",
-        "phone_numbers": "781-834-4333"
+        "phone_numbers": "781-834-4333",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2758,7 +3120,10 @@
         "address": "7 JOB'S FISHING RD",
         "town": "MASHPEE",
         "zip": "02649",
-        "phone_numbers": "508-477-6202"
+        "phone_numbers": "508-477-6202",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2781,7 +3146,10 @@
         "address": "ONE ACUSHNET RD. BOX 358",
         "town": "MATTAPOISETT",
         "zip": "02739",
-        "phone_numbers": "508-758-4664"
+        "phone_numbers": "508-758-4664",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2804,7 +3172,10 @@
         "address": "15 POWDERMILL CIRCLE",
         "town": "MAYNARD",
         "zip": "01754",
-        "phone_numbers": "508-897-8738"
+        "phone_numbers": "508-897-8738",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2827,7 +3198,10 @@
         "address": "TILDEN VILLAGE, 30 POUND ST.",
         "town": "MEDFIELD",
         "zip": "02052",
-        "phone_numbers": "508-359-6454"
+        "phone_numbers": "508-359-6454",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2850,7 +3224,10 @@
         "address": "121 RIVERSIDE AVENUE",
         "town": "MEDFORD",
         "zip": "02155",
-        "phone_numbers": "781-396-7200"
+        "phone_numbers": "781-396-7200",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2873,7 +3250,10 @@
         "address": "MAHAN CIRCLE",
         "town": "MEDWAY",
         "zip": "02053",
-        "phone_numbers": "508-533-2434"
+        "phone_numbers": "508-533-2434",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2896,7 +3276,10 @@
         "address": "910 MAIN STREET",
         "town": "MELROSE",
         "zip": "02176",
-        "phone_numbers": "781-665-1622"
+        "phone_numbers": "781-665-1622",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2919,7 +3302,10 @@
         "address": "9 BLACKSTONE ST. BOX 55",
         "town": "MENDON",
         "zip": "01756",
-        "phone_numbers": "508-473-9130"
+        "phone_numbers": "508-473-9130",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2942,7 +3328,10 @@
         "address": "52 MERRI VILLAGE",
         "town": "MERRIMAC",
         "zip": "01860",
-        "phone_numbers": ""
+        "phone_numbers": "",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2965,7 +3354,10 @@
         "address": "24 MYSTIC STREET",
         "town": "METHUEN",
         "zip": "01844",
-        "phone_numbers": "978-682-8607  "
+        "phone_numbers": "978-682-8607  ",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -2988,7 +3380,10 @@
         "address": "P.O. BOX 502",
         "town": "MIDDLEBOROUGH",
         "zip": "02346",
-        "phone_numbers": "508-947-3824"
+        "phone_numbers": "508-947-3824",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3011,7 +3406,10 @@
         "address": "ORCHARD CIRCLE",
         "town": "MIDDLETON",
         "zip": "01949",
-        "phone_numbers": "978-774-4333"
+        "phone_numbers": "978-774-4333",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3034,7 +3432,10 @@
         "address": "45 BIRMINGHAM COURT",
         "town": "MILFORD",
         "zip": "01757",
-        "phone_numbers": "508-473-9521"
+        "phone_numbers": "508-473-9521",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3057,7 +3458,10 @@
         "address": "89 ELM STREET",
         "town": "MILLBURY",
         "zip": "01527",
-        "phone_numbers": "508-865-2660"
+        "phone_numbers": "508-865-2660",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3080,7 +3484,10 @@
         "address": "KENNEDY TERRACE",
         "town": "MILLIS",
         "zip": "02054",
-        "phone_numbers": "508-376-8181"
+        "phone_numbers": "508-376-8181",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3103,7 +3510,10 @@
         "address": "65 MILLER AVENUE",
         "town": "MILTON",
         "zip": "02186",
-        "phone_numbers": "617-698-2169"
+        "phone_numbers": "617-698-2169",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3126,7 +3536,10 @@
         "address": "50 COLONIAL VILLAGE",
         "town": "MONSON",
         "zip": "01057",
-        "phone_numbers": "413-267-4047"
+        "phone_numbers": "413-267-4047",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3149,7 +3562,10 @@
         "address": "41 SUNRISE TERRACE",
         "town": "TURNER FALLS",
         "zip": "01376",
-        "phone_numbers": "413-863-8445"
+        "phone_numbers": "413-863-8445",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3172,7 +3588,10 @@
         "address": "P. O. BOX 66",
         "town": "NORTH ATTLEBORO",
         "zip": "02761",
-        "phone_numbers": "695-5142"
+        "phone_numbers": "695-5142",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3195,7 +3614,10 @@
         "address": "P. O. BOX 66",
         "town": "NORTH ATTLEBORO",
         "zip": "02761",
-        "phone_numbers": "695-5142"
+        "phone_numbers": "695-5142",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3218,7 +3640,10 @@
         "address": "271 NORTH MAIN STREET",
         "town": "NORTH BROOKFIELD",
         "zip": "01535",
-        "phone_numbers": "508-867-2826  "
+        "phone_numbers": "508-867-2826  ",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3241,7 +3666,10 @@
         "address": "PEABODY COURT",
         "town": "NORTH READING",
         "zip": "01864",
-        "phone_numbers": "978-664-2982"
+        "phone_numbers": "978-664-2982",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3264,7 +3692,10 @@
         "address": "P.O. BOX 40",
         "town": "NAHANT",
         "zip": "01908",
-        "phone_numbers": "781-581-9623"
+        "phone_numbers": "781-581-9623",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3287,7 +3718,10 @@
         "address": "3 MANTA DR",
         "town": "NANTUCKET",
         "zip": "02554",
-        "phone_numbers": "508-228-0296"
+        "phone_numbers": "508-228-0296",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3310,7 +3744,10 @@
         "address": "4 COTTAGE STREET",
         "town": "NATICK",
         "zip": "01760",
-        "phone_numbers": "508-653-2971"
+        "phone_numbers": "508-653-2971",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3333,7 +3770,10 @@
         "address": "28 ROBERT COOK DRIVE",
         "town": "NEEDHAM",
         "zip": "02192",
-        "phone_numbers": "781-444-3011"
+        "phone_numbers": "781-444-3011",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3356,7 +3796,10 @@
         "address": "P.O. BOX 2081",
         "town": "NEW BEDFORD",
         "zip": "02741",
-        "phone_numbers": "508-997-4800"
+        "phone_numbers": "508-997-4800",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3379,7 +3822,10 @@
         "address": "25 TEMPLE STREET",
         "town": "NEWBURYPORT",
         "zip": "01950",
-        "phone_numbers": "508-465-7216"
+        "phone_numbers": "508-465-7216",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3402,7 +3848,10 @@
         "address": "82 LINCOLN STREET",
         "town": "NEWTON",
         "zip": "02160",
-        "phone_numbers": "617-552-5501"
+        "phone_numbers": "617-552-5501",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3425,7 +3874,10 @@
         "address": "33 ROCKWOOD RD., BOX 293",
         "town": "NORFOLK",
         "zip": "02056",
-        "phone_numbers": "508-528-4800"
+        "phone_numbers": "508-528-4800",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3448,7 +3900,10 @@
         "address": "150 ASHLAND ST. BOX 51",
         "town": "NORTH ADAMS",
         "zip": "01247",
-        "phone_numbers": "413-663-5379"
+        "phone_numbers": "413-663-5379",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3471,7 +3926,10 @@
         "address": "49 OLD SOUTH STREET",
         "town": "NORTHAMPTON",
         "zip": "01060",
-        "phone_numbers": "413-584-4030  "
+        "phone_numbers": "413-584-4030  ",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3494,7 +3952,10 @@
         "address": "26 VILLAGE DRIVE",
         "town": "NORTHBOROUGH",
         "zip": "01532",
-        "phone_numbers": "508-393-2408"
+        "phone_numbers": "508-393-2408",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3517,7 +3978,10 @@
         "address": "COLONIAL DRIVE",
         "town": "NORTHBRIDGE",
         "zip": "01588",
-        "phone_numbers": "508-234-7736"
+        "phone_numbers": "508-234-7736",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3540,7 +4004,10 @@
         "address": "120 WEST MAIN STREET",
         "town": "NORTON",
         "zip": "02766",
-        "phone_numbers": "508-285-3929"
+        "phone_numbers": "508-285-3929",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3563,7 +4030,10 @@
         "address": "399 WASHINGTON STREET",
         "town": "NORWELL",
         "zip": "02061",
-        "phone_numbers": "781-659-7690"
+        "phone_numbers": "781-659-7690",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3586,7 +4056,10 @@
         "address": "40 WILLIAM SHYNE CIRCLE",
         "town": "NORWOOD",
         "zip": "02062",
-        "phone_numbers": "781-762-8115"
+        "phone_numbers": "781-762-8115",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3609,7 +4082,10 @@
         "address": "200 EAST RIVER ST. BLDG #3",
         "town": "ORANGE",
         "zip": "01364",
-        "phone_numbers": "978-544-6000"
+        "phone_numbers": "978-544-6000",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3632,7 +4108,10 @@
         "address": "94 HOPKINS LANE",
         "town": "ORLEANS",
         "zip": "02653",
-        "phone_numbers": "508-255-0064"
+        "phone_numbers": "508-255-0064",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3655,7 +4134,10 @@
         "address": "23 WHEELOCK STREET",
         "town": "OXFORD",
         "zip": "01540",
-        "phone_numbers": "508-987-5055"
+        "phone_numbers": "508-987-5055",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3678,7 +4160,10 @@
         "address": "13 FLETCHER STREET",
         "town": "PALMER",
         "zip": "01069",
-        "phone_numbers": "413-283-9311"
+        "phone_numbers": "413-283-9311",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3701,7 +4186,10 @@
         "address": "75-81 CENTRAL STREET",
         "town": "PEABODY",
         "zip": "01960",
-        "phone_numbers": ""
+        "phone_numbers": "",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3724,7 +4212,10 @@
         "address": "KILCOMMONS DR",
         "town": "PEMBROKE",
         "zip": "02359",
-        "phone_numbers": "781-293-3088  "
+        "phone_numbers": "781-293-3088  ",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3747,7 +4238,10 @@
         "address": "4 FOSTER ST",
         "town": "E. PEPPERELL",
         "zip": "01463",
-        "phone_numbers": "978-433-9882"
+        "phone_numbers": "978-433-9882",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3770,7 +4264,10 @@
         "address": "65 COLUMBUS AVE.",
         "town": "PITTSFIELD",
         "zip": "01201-",
-        "phone_numbers": "413-443-5936"
+        "phone_numbers": "413-443-5936",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3793,7 +4290,10 @@
         "address": "140 EAST BACON ST.",
         "town": "PLAINVILLE",
         "zip": "02762",
-        "phone_numbers": "508-699-4212"
+        "phone_numbers": "508-699-4212",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3816,7 +4316,10 @@
         "address": "69 ALLERTON ST., BOX 3537",
         "town": "PLYMOUTH",
         "zip": "02361",
-        "phone_numbers": "508-746-2105"
+        "phone_numbers": "508-746-2105",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3839,7 +4342,10 @@
         "address": "44 HARRY KEMP WAY",
         "town": "PROVINCETOWN",
         "zip": "02657",
-        "phone_numbers": "508-487-0434"
+        "phone_numbers": "508-487-0434",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3862,7 +4368,10 @@
         "address": "80 CLAY STREET",
         "town": "QUNICY",
         "zip": "02170",
-        "phone_numbers": "617-847-4350"
+        "phone_numbers": "617-847-4350",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3885,7 +4394,10 @@
         "address": "ONE DECELLE DRIVE",
         "town": "RANDOLPH",
         "zip": "02368",
-        "phone_numbers": "781-963-1990"
+        "phone_numbers": "781-963-1990",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3908,7 +4420,10 @@
         "address": "75 MILL STREET",
         "town": "RAYNHAM",
         "zip": "02767",
-        "phone_numbers": "508-824-9404"
+        "phone_numbers": "508-824-9404",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3931,7 +4446,10 @@
         "address": "22 FRANK D. TANNER DRIVE",
         "town": "READING",
         "zip": "01867",
-        "phone_numbers": "781-944-6755"
+        "phone_numbers": "781-944-6755",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3954,7 +4472,10 @@
         "address": "70 COOLEDGE STREET",
         "town": "REVERE",
         "zip": "02151",
-        "phone_numbers": "781-284-4394"
+        "phone_numbers": "781-284-4394",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -3977,7 +4498,10 @@
         "address": "8 STUDLEY COURT",
         "town": "ROCKAND",
         "zip": "02370",
-        "phone_numbers": ""
+        "phone_numbers": "",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4000,7 +4524,10 @@
         "address": "13 MILLBROOK PARK",
         "town": "ROCKPORT",
         "zip": "01966",
-        "phone_numbers": "978-546-3181"
+        "phone_numbers": "978-546-3181",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4023,7 +4550,10 @@
         "address": "PLANTATION DRIVE",
         "town": "ROWLEY",
         "zip": "01969",
-        "phone_numbers": "978-948-2371"
+        "phone_numbers": "978-948-2371",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4046,7 +4576,10 @@
         "address": "27 CHARTER STREET",
         "town": "SALEM",
         "zip": "01970",
-        "phone_numbers": "978-744-4432"
+        "phone_numbers": "978-744-4432",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4069,7 +4602,10 @@
         "address": "23 BEACH ROAD",
         "town": "SALISBURY",
         "zip": "01950",
-        "phone_numbers": "978-462-8600"
+        "phone_numbers": "978-462-8600",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4092,7 +4628,10 @@
         "address": "20 TOMS WAY",
         "town": "SANDWICH",
         "zip": "02565",
-        "phone_numbers": "508-833-4979"
+        "phone_numbers": "508-833-4979",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4115,7 +4654,10 @@
         "address": "19 TALBOT STREET",
         "town": "SAUGUS",
         "zip": "01906",
-        "phone_numbers": "781-233-2116"
+        "phone_numbers": "781-233-2116",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4138,7 +4680,10 @@
         "address": "791 Country Way",
         "town": "SCITUATE",
         "zip": "02066",
-        "phone_numbers": "781-545-3375"
+        "phone_numbers": "781-545-3375",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4161,7 +4706,10 @@
         "address": "25 CHAPPELL, SUITE 10",
         "town": "SEEKONK",
         "zip": "02771",
-        "phone_numbers": "508-336-6067"
+        "phone_numbers": "508-336-6067",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4184,7 +4732,10 @@
         "address": "18 HIXON FARM ROAD",
         "town": "SHARON",
         "zip": "02067",
-        "phone_numbers": "781-784-2733"
+        "phone_numbers": "781-784-2733",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4207,7 +4758,10 @@
         "address": "80 CANAL STREET, P.O. BOX 30",
         "town": "TURNER FALLS",
         "zip": "01376",
-        "phone_numbers": "413-863-9530"
+        "phone_numbers": "413-863-9530",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4230,7 +4784,10 @@
         "address": "36 NO. QUINSINGAMOND AVE",
         "town": "SHREWSBURY",
         "zip": "01545",
-        "phone_numbers": "508-757-0323"
+        "phone_numbers": "508-757-0323",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4253,7 +4810,10 @@
         "address": "75 JOHN KENNEDY TERRACE",
         "town": "SOMERSET",
         "zip": "02726",
-        "phone_numbers": "508-672-3348  "
+        "phone_numbers": "508-672-3348  ",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4276,7 +4836,10 @@
         "address": "30 MEMORIAL ROAD",
         "town": "SOMERVILLE",
         "zip": "02145",
-        "phone_numbers": "617-625-1152"
+        "phone_numbers": "617-625-1152",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4299,7 +4862,10 @@
         "address": "69 LATHROP STREET",
         "town": "SOUTH HADLEY",
         "zip": "01075",
-        "phone_numbers": "413-532-3194"
+        "phone_numbers": "413-532-3194",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4322,7 +4888,10 @@
         "address": "49 BOSTON ROAD",
         "town": "SOUTHBOROUGH",
         "zip": "01772",
-        "phone_numbers": "508-481-2166"
+        "phone_numbers": "508-481-2166",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4345,7 +4914,10 @@
         "address": "60 CHARLTON STREET",
         "town": "SOUTHBRIDGE",
         "zip": "01550",
-        "phone_numbers": "508-765-5858"
+        "phone_numbers": "508-765-5858",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4368,7 +4940,10 @@
         "address": "12 DEPOT STREET",
         "town": "SOUTHWICK",
         "zip": "01077",
-        "phone_numbers": "413-569-3161"
+        "phone_numbers": "413-569-3161",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4391,7 +4966,10 @@
         "address": "HOWE VILLAGE, P.O. BOX 486",
         "town": "SPENCER",
         "zip": "01562",
-        "phone_numbers": "508-885-3904"
+        "phone_numbers": "508-885-3904",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4414,7 +4992,10 @@
         "address": "25 SAAB COURT",
         "town": "SPRINGFIELD",
         "zip": "01101",
-        "phone_numbers": "413-785-4517 or 413-785-4518"
+        "phone_numbers": "413-785-4517 or 413-785-4518",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4437,7 +5018,10 @@
         "address": "C/O Leominster Housing Authority 100 MAIN STREET",
         "town": "LEOMINSTER",
         "zip": "01453",
-        "phone_numbers": "978-537-5300"
+        "phone_numbers": "978-537-5300",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4460,7 +5044,10 @@
         "address": "5 PINE STREET",
         "town": "STOCKBRIDGE",
         "zip": "01262",
-        "phone_numbers": "413-298-3222"
+        "phone_numbers": "413-298-3222",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4483,7 +5070,10 @@
         "address": "11 PARKER CHASE ROAD",
         "town": "STONEHAM",
         "zip": "02180",
-        "phone_numbers": ""
+        "phone_numbers": "",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4506,7 +5096,10 @@
         "address": "4 CAPEN STREET",
         "town": "STOUGHTON",
         "zip": "02072",
-        "phone_numbers": "781-344-6599  "
+        "phone_numbers": "781-344-6599  ",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4529,7 +5122,10 @@
         "address": "55 HUDSON ROAD",
         "town": "SUDBURY",
         "zip": "01776",
-        "phone_numbers": "978-443-5112"
+        "phone_numbers": "978-443-5112",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4552,7 +5148,10 @@
         "address": "5 CHURCH STREET",
         "town": "WILKINSONVILLE",
         "zip": "01590",
-        "phone_numbers": "508-865-3821"
+        "phone_numbers": "508-865-3821",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4575,7 +5174,10 @@
         "address": "6 DUNCAN TERRACE",
         "town": "SWAMPSCOTT",
         "zip": "01907",
-        "phone_numbers": "781-593-5516"
+        "phone_numbers": "781-593-5516",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4598,7 +5200,10 @@
         "address": "100 GARDNER NECK ROAD",
         "town": "SWANSEA",
         "zip": "02777",
-        "phone_numbers": "508-679-5828"
+        "phone_numbers": "508-679-5828",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4621,7 +5226,10 @@
         "address": "30 OLNEY STREET",
         "town": "TAUNTON",
         "zip": "02780",
-        "phone_numbers": "508-823-6308"
+        "phone_numbers": "508-823-6308",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4644,7 +5252,10 @@
         "address": "99 BRIDGE ST.",
         "town": "BALDWINVILLE",
         "zip": "01436",
-        "phone_numbers": "978-939-2374"
+        "phone_numbers": "978-939-2374",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4667,7 +5278,10 @@
         "address": "SAUNDERS CIRCLE",
         "town": "TEWKSBURY",
         "zip": "01876",
-        "phone_numbers": "978-851-7392"
+        "phone_numbers": "978-851-7392",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4690,7 +5304,10 @@
         "address": "69 WASHINGTON STREET",
         "town": "TOPSFIELD",
         "zip": "01983",
-        "phone_numbers": "978-887-8407"
+        "phone_numbers": "978-887-8407",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4713,7 +5330,10 @@
         "address": "198 MIDDLESEX RD. BRINLEY",
         "town": "TYNGSBOROUGH",
         "zip": "01879",
-        "phone_numbers": "508-649-9941"
+        "phone_numbers": "508-649-9941",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4736,7 +5356,10 @@
         "address": "COACHROAD APTS. P.O. BOX 715",
         "town": "UPTON",
         "zip": "01568",
-        "phone_numbers": ""
+        "phone_numbers": "",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4759,7 +5382,10 @@
         "address": "CALUMET COURT, BOX 391",
         "town": "UXBRIDGE",
         "zip": "01569",
-        "phone_numbers": "508-278-3232  "
+        "phone_numbers": "508-278-3232  ",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4782,7 +5408,10 @@
         "address": "87 MAPLE ST. ORCHARD KNOLL",
         "town": "WEST BOYLSTON",
         "zip": "01583",
-        "phone_numbers": "508-835-6060"
+        "phone_numbers": "508-835-6060",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4805,7 +5434,10 @@
         "address": "7 ESTHER DRIVE",
         "town": "WEST BRIDGEWATER",
         "zip": "02379",
-        "phone_numbers": "588-2781"
+        "phone_numbers": "588-2781",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4828,7 +5460,10 @@
         "address": "29 EAST MAIN ST., BLDG #7",
         "town": "WEST BROOKFIELD",
         "zip": "01535-2936",
-        "phone_numbers": "508-867-5891"
+        "phone_numbers": "508-867-5891",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4851,7 +5486,10 @@
         "address": "379 MAIN ST.",
         "town": "WEST NEWBURY",
         "zip": "01985",
-        "phone_numbers": ""
+        "phone_numbers": "",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4874,7 +5512,10 @@
         "address": "37 OXFORD PLACE",
         "town": "WEST SPRINGFIELD",
         "zip": "01089",
-        "phone_numbers": "413-788-0988"
+        "phone_numbers": "413-788-0988",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4897,7 +5538,10 @@
         "address": "26 CRESCENT STREET",
         "town": "WAKEFIELD",
         "zip": "01880",
-        "phone_numbers": "781-245-7328"
+        "phone_numbers": "781-245-7328",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4920,7 +5564,10 @@
         "address": "8 DIAMOND POND TERRACE",
         "town": "WALPOLE",
         "zip": "02081",
-        "phone_numbers": "508-668-7878"
+        "phone_numbers": "508-668-7878",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4943,7 +5590,10 @@
         "address": "110 POND STREET",
         "town": "WALTHAM",
         "zip": "02154",
-        "phone_numbers": "781-894-3357"
+        "phone_numbers": "781-894-3357",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4966,7 +5616,10 @@
         "address": "20 VALLEY VIEW",
         "town": "WARE",
         "zip": "01082",
-        "phone_numbers": "413-967-4477"
+        "phone_numbers": "413-967-4477",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -4989,7 +5642,10 @@
         "address": "57 SANDWICH ROAD",
         "town": "WAREHAM",
         "zip": "02571",
-        "phone_numbers": "508-295-8031"
+        "phone_numbers": "508-295-8031",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5012,7 +5668,10 @@
         "address": "P.O. BOX 3021",
         "town": "WARREN",
         "zip": "01083",
-        "phone_numbers": "413-436-7184"
+        "phone_numbers": "413-436-7184",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5035,7 +5694,10 @@
         "address": "55 WAVERLY AVENUE",
         "town": "WATERTOWN",
         "zip": "02172",
-        "phone_numbers": "617-923-3950"
+        "phone_numbers": "617-923-3950",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5058,7 +5720,10 @@
         "address": "106 MAIN STREET",
         "town": "WAYLAND",
         "zip": "01778",
-        "phone_numbers": "508-655-6310"
+        "phone_numbers": "508-655-6310",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5081,7 +5746,10 @@
         "address": "10 GOLDEN HEIGHTS",
         "town": "WEBSTER",
         "zip": "01570",
-        "phone_numbers": "508-943-1624"
+        "phone_numbers": "508-943-1624",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5104,7 +5772,10 @@
         "address": "109 BARTON ROAD",
         "town": "WELLESLEY",
         "zip": "02181",
-        "phone_numbers": "781-235-0223"
+        "phone_numbers": "781-235-0223",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5127,7 +5798,10 @@
         "address": "LARCH LANE",
         "town": "WENHAM",
         "zip": "01984",
-        "phone_numbers": "978-468-1532"
+        "phone_numbers": "978-468-1532",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5150,7 +5824,10 @@
         "address": "2 ROGERS RD.",
         "town": "WESTBOROUGH",
         "zip": "01581",
-        "phone_numbers": "508-366-1225"
+        "phone_numbers": "508-366-1225",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5173,7 +5850,10 @@
         "address": "P.O. BOX 99",
         "town": "WESTFIELD",
         "zip": "01086",
-        "phone_numbers": "413-568-9283"
+        "phone_numbers": "413-568-9283",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5196,7 +5876,10 @@
         "address": "65 TADMUCK ROAD",
         "town": "WESTFORD",
         "zip": "01086",
-        "phone_numbers": "978-568-9283"
+        "phone_numbers": "978-568-9283",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5219,7 +5902,10 @@
         "address": "666 STATE RD., P.O. BOX 456",
         "town": "WESTPORT",
         "zip": "02790",
-        "phone_numbers": "508-675-2039"
+        "phone_numbers": "508-675-2039",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5242,7 +5928,10 @@
         "address": "402 ESSEX STREET",
         "town": "WEYMOUTH",
         "zip": "02188",
-        "phone_numbers": "617-331-2323"
+        "phone_numbers": "617-331-2323",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5265,7 +5954,10 @@
         "address": "P.O. BOX 334",
         "town": "WHITMAN",
         "zip": "02382",
-        "phone_numbers": "781-447-6363"
+        "phone_numbers": "781-447-6363",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5288,7 +5980,10 @@
         "address": "88 STONY HILL ROAD",
         "town": "WILBRAHAM",
         "zip": "01095",
-        "phone_numbers": "413-543-1700"
+        "phone_numbers": "413-543-1700",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5311,7 +6006,10 @@
         "address": "35 ADAMS ROAD",
         "town": "WILLIAMSTOWN",
         "zip": "01267",
-        "phone_numbers": "413-458-8282"
+        "phone_numbers": "413-458-8282",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5334,7 +6032,10 @@
         "address": "41 DEMING WAY",
         "town": "WILMINGTON",
         "zip": "01887",
-        "phone_numbers": "978-658-8531"
+        "phone_numbers": "978-658-8531",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5357,7 +6058,10 @@
         "address": "108 IPSWICH DRIVE",
         "town": "WINCHENDON",
         "zip": "01475",
-        "phone_numbers": "978-297-2280"
+        "phone_numbers": "978-297-2280",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5380,7 +6084,10 @@
         "address": "13 WESTLEY STREET",
         "town": "WINCHESTER",
         "zip": "01890",
-        "phone_numbers": "781-721-5718"
+        "phone_numbers": "781-721-5718",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5403,7 +6110,10 @@
         "address": "9 GOLDEN DRIVE",
         "town": "WINTHROP",
         "zip": "02152",
-        "phone_numbers": "617-846-7100"
+        "phone_numbers": "617-846-7100",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5426,7 +6136,10 @@
         "address": "59 CAMPBELL STREET",
         "town": "WOBURN",
         "zip": "01801",
-        "phone_numbers": "781-935-0818"
+        "phone_numbers": "781-935-0818",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5449,7 +6162,10 @@
         "address": "40 BELMONT STREET",
         "town": "WORCESTER",
         "zip": "01605",
-        "phone_numbers": "508-798-4506"
+        "phone_numbers": "508-798-4506",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5472,7 +6188,10 @@
         "address": "P.O. BOX 312",
         "town": "WRENTHAM",
         "zip": "02093",
-        "phone_numbers": "508-384-2054"
+        "phone_numbers": "508-384-2054",
+        "housing_types": [
+        	""
+        ]
       }
     },
     {
@@ -5495,7 +6214,10 @@
         "address": "LONG POND PLAZA",
         "town": "SO. YARMOUTH",
         "zip": "02644",
-        "phone_numbers": "508-398-2920"
+        "phone_numbers": "508-398-2920",
+        "housing_types": [
+        	""
+        ]
       }
     }
   ]
