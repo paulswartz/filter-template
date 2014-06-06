@@ -20,7 +20,7 @@
         "ahvp": "null",
         "address": "71 SHAW AVENUE, ABINGTON 02351",
         "phone_numbers": "781-878-5219",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -42,7 +42,7 @@
         "ahvp": "20",
         "address": "68 WINDSOR AVE. BOX 681, ACTON 01720",
         "phone_numbers": "978-263-5339",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -64,7 +64,7 @@
         "ahvp": "null",
         "address": "23 MAIN STREET, ACUSHNET 02743",
         "phone_numbers": "508-998-3603",
-        "housing_types": "['Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -86,7 +86,7 @@
         "ahvp": "null",
         "address": "4 COLUMBIA STREET, ADAMS 01220",
         "phone_numbers": "413-743-5924",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -108,7 +108,7 @@
         "ahvp": "null",
         "address": "66 MEADOWBROOK MANOR, AGAWAM 01001",
         "phone_numbers": "413-786-1297",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -130,7 +130,7 @@
         "ahvp": "null",
         "address": "180 MAIN STREET, AMESBURY 01913",
         "phone_numbers": "978-388-2022",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -152,7 +152,7 @@
         "ahvp": "null",
         "address": "33 KELLOGG AVENUE, AMHERST 01002",
         "phone_numbers": "413-256-0206",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -174,7 +174,7 @@
         "ahvp": "10",
         "address": "100 MORTON STREET, ANDOVER 01810",
         "phone_numbers": "978-475-2365",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -196,7 +196,7 @@
         "ahvp": "null",
         "address": "4 WINSLOW STREET, ARLINGTON 02174",
         "phone_numbers": "781-646-3400",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -218,7 +218,7 @@
         "ahvp": "null",
         "address": "59 PARK ROAD, ASHLAND 01721",
         "phone_numbers": "508-881-2450",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -240,7 +240,7 @@
         "ahvp": "null",
         "address": "21 Morton Meadows, ATHOL 01331",
         "phone_numbers": "978-249-4848",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -262,7 +262,7 @@
         "ahvp": "null",
         "address": "37 CARLON STREET, ATTLEBORO 02703",
         "phone_numbers": "508-222-0151",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -284,7 +284,7 @@
         "ahvp": "null",
         "address": "200 OXFORD STREET, AUBURN 01501",
         "phone_numbers": "508-832-3852",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -306,7 +306,7 @@
         "ahvp": "null",
         "address": "ONE FELLOWSHIP CIRCLE, AVON 02322",
         "phone_numbers": "508-588-1847",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -328,7 +328,7 @@
         "ahvp": "null",
         "address": "18 POND STREET, AYER 01432",
         "phone_numbers": "978-772-2771",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -350,7 +350,7 @@
         "ahvp": "15",
         "address": "146 SOUTH STREET, HYANNIS 02601",
         "phone_numbers": "508-771-7222",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -372,7 +372,7 @@
         "ahvp": "null",
         "address": "49 GRANDVIEW TER., BARRE 01005",
         "phone_numbers": "978-355-6643",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -394,7 +394,7 @@
         "ahvp": "null",
         "address": "ASHBY PLACE, BEDFORD 01730",
         "phone_numbers": "781-275-2428",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -416,7 +416,7 @@
         "ahvp": "null",
         "address": "41 EVERETT AVE, BELCHERTOWN 01007",
         "phone_numbers": "413-323-4064",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -438,7 +438,7 @@
         "ahvp": "null",
         "address": "10 WRENTHAM MANOR, BELLINGHAM 02019",
         "phone_numbers": "508-883-4999",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -460,7 +460,7 @@
         "ahvp": "null",
         "address": "59 PEARSON ROAD, BELMONT 02478",
         "phone_numbers": "617-484-2160",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -482,7 +482,7 @@
         "ahvp": "null",
         "address": "150 NORTH STREET, PITTSFIELD 01201",
         "phone_numbers": "800-248-9002",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -504,7 +504,7 @@
         "ahvp": "null",
         "address": "137 BRIDGE ST. BOX 503, BEVERLY 01915",
         "phone_numbers": "978-922-3100",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -526,7 +526,7 @@
         "ahvp": "null",
         "address": "16 RIVER STREET, BILLERCIA 01821",
         "phone_numbers": "978-667-1661",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -548,7 +548,7 @@
         "ahvp": "null",
         "address": "15 FOXBROOK MANOR, AUSTIN St., BLACKSTONE 01504",
         "phone_numbers": "508-883-1515",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -570,7 +570,7 @@
         "ahvp": "null",
         "address": "52 CHAUNCY STREET, BOSTON 02111",
         "phone_numbers": "617-451-1250",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -592,7 +592,7 @@
         "ahvp": "null",
         "address": "871 SHORE ROAD, POCASSET 02559",
         "phone_numbers": "508-563-7485",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -614,7 +614,7 @@
         "ahvp": "null",
         "address": "25 ROOSEVELT STREET, BRAINTREE 02184",
         "phone_numbers": "781-848-1484",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -636,7 +636,7 @@
         "ahvp": "null",
         "address": "11 FREDERICK COURT, BREWSTER 02631",
         "phone_numbers": "508-896-9800",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -658,7 +658,7 @@
         "ahvp": "null",
         "address": "10 HERITAGE CIRCLE, PO BOX , BRIDGEWATER 02324",
         "phone_numbers": "508-697-7405",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -680,7 +680,7 @@
         "ahvp": "null",
         "address": "20 COLONIAL PARK, BRIMFIELD 01010",
         "phone_numbers": "413-245-7506",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -702,7 +702,7 @@
         "ahvp": "40",
         "address": "45 GODDARD RD., BOX 340, BROCKTON 02403",
         "phone_numbers": "508-588-6880",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -724,7 +724,7 @@
         "ahvp": "null",
         "address": "271 NO. MAIN STREET, NORTH BROOKFIELD 01535",
         "phone_numbers": "508-867-2826",
-        "housing_types": "['Family Housing (Ch. 705)']"
+        "housing_types": ['Family Housing (Ch. 705)']
       }
     },
     {
@@ -746,7 +746,7 @@
         "ahvp": "null",
         "address": "90 LONGWOOD AVENUE, BROOKLINE 02146",
         "phone_numbers": "277-2022",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -768,7 +768,7 @@
         "ahvp": "null",
         "address": "15 BIRCHCREST ST., BURLINGTON 01803",
         "phone_numbers": "781-272-7786",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -790,7 +790,7 @@
         "ahvp": "63",
         "address": "675 MASSACHUSETTS AVE, CAMBRIDGE 02139",
         "phone_numbers": "617-864-3020",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -812,7 +812,7 @@
         "ahvp": "null",
         "address": "P.O. BOX 333, CANTON 02021",
         "phone_numbers": "781-828-5144",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -834,7 +834,7 @@
         "ahvp": "null",
         "address": "MEADOWBROOK WAY, CARVER 02330",
         "phone_numbers": "508-866-3115",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -856,7 +856,7 @@
         "ahvp": "10",
         "address": "1 MEADOWVIEW DRIVE, CHARLTON 01507",
         "phone_numbers": "508-248-5067",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -878,7 +878,7 @@
         "ahvp": "null",
         "address": "240 CROWELL ROAD, CHATHAM 02633",
         "phone_numbers": "508-945-0478",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -900,7 +900,7 @@
         "ahvp": "null",
         "address": "10 WILSON STREET, CHELMSFORD 01824",
         "phone_numbers": "978-256-7425",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -922,7 +922,7 @@
         "ahvp": "10",
         "address": "54 LOCKE STREET, CHELSEA 02150",
         "phone_numbers": "617-884-5617",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -944,7 +944,7 @@
         "ahvp": "null",
         "address": "128 MEETINGHOUSE ROAD, CHICOPEE 01013",
         "phone_numbers": "413-592-6132",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -966,7 +966,7 @@
         "ahvp": "null",
         "address": "58 FITCH ROAD, CLINTON 01510",
         "phone_numbers": "978-365-4150",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -988,7 +988,7 @@
         "ahvp": "null",
         "address": "60 ELM STREET, COHASSET 02025",
         "phone_numbers": "781-383-1948",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -1010,7 +1010,7 @@
         "ahvp": "null",
         "address": "115 STOW STREET, CONCORD 01742",
         "phone_numbers": "978-369-8435",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -1032,7 +1032,7 @@
         "ahvp": "null",
         "address": "293 HIGH STREET, Pine Grove Manor, DALTON 01226",
         "phone_numbers": "413-684-2493",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -1054,7 +1054,7 @@
         "ahvp": "null",
         "address": "14 STONE STREET, DANVERS 01923",
         "phone_numbers": "978-777-0909",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -1076,7 +1076,7 @@
         "ahvp": "null",
         "address": "2 ANDERSON WAY, N. DARTMOUTH 02747",
         "phone_numbers": "508-994-1424",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -1098,7 +1098,7 @@
         "ahvp": "null",
         "address": "163 DEDHAM BOULEVARD, DEDHAM 02026",
         "phone_numbers": "781-326-3543",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -1120,7 +1120,7 @@
         "ahvp": "null",
         "address": "167 CENTRE STREET, SO. DENNIS 02660",
         "phone_numbers": "508-394-3120",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -1142,7 +1142,7 @@
         "ahvp": "null",
         "address": "300 LINCOLN AVE. , NO. DIGHTON 02764",
         "phone_numbers": "508-823-8361",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -1164,7 +1164,7 @@
         "ahvp": "null",
         "address": "971 MAMMOTH ROAD, DRACUT 01826",
         "phone_numbers": "508-957-3515",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -1186,7 +1186,7 @@
         "ahvp": "null",
         "address": "JOSHUA PLACE APARTMENTS, DUDLEY 01570",
         "phone_numbers": "508-949-0522",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -1208,7 +1208,7 @@
         "ahvp": "null",
         "address": "PO BOX 190, EDGARTOWN 02539",
         "phone_numbers": "508-645-9274",
-        "housing_types": "['Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -1230,7 +1230,7 @@
         "ahvp": "null",
         "address": "59 CHESTNUT STREET, DUXBURY 02332",
         "phone_numbers": "781-934-6618",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -1252,7 +1252,7 @@
         "ahvp": "null",
         "address": "38 RIDDELL ROAD, EAST BRIDGEWATER 02333",
         "phone_numbers": "508-378-3838",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -1274,7 +1274,7 @@
         "ahvp": "null",
         "address": "81 QUARRY HILL, EAST LONGMEADOW 01028",
         "phone_numbers": "413-525-7057",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -1296,7 +1296,7 @@
         "ahvp": "null",
         "address": "112 HOLYOKE St., EASTHAMPTON 01027",
         "phone_numbers": "413-527-1600",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -1318,7 +1318,7 @@
         "ahvp": "null",
         "address": "PARKER TERRACE, NO. EASTON 02356",
         "phone_numbers": "508-238-4747",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -1340,7 +1340,7 @@
         "ahvp": "null",
         "address": "P.O. BOX 934, ESSEX 01929",
         "phone_numbers": "978-768-6821",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -1362,7 +1362,7 @@
         "ahvp": "null",
         "address": "393 FERRY STREET, EVERETT 02149",
         "phone_numbers": "617-387-6389",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -1384,7 +1384,7 @@
         "ahvp": "null",
         "address": "275 MAIN STREET, FAIRHAVEN 02719",
         "phone_numbers": "508-993-1144",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -1406,7 +1406,7 @@
         "ahvp": "17",
         "address": "85 MORGAN ST. BOX 989, FALL RIVER 02722",
         "phone_numbers": "508-675-3500",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -1428,7 +1428,7 @@
         "ahvp": "null",
         "address": "115 SCRANTON AVENUE, FALMOUTH 02540",
         "phone_numbers": "508-548-1977",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -1450,7 +1450,7 @@
         "ahvp": "10",
         "address": "50 DAY STREET, FITCHBURG 01420",
         "phone_numbers": "978-342-5222",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -1472,7 +1472,7 @@
         "ahvp": "6",
         "address": "90 N. CARL-ANNON COURT, FOXBOROUGH 02035",
         "phone_numbers": "508-543-5960",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -1494,7 +1494,7 @@
         "ahvp": "null",
         "address": "1 JOHN J. BRADY DRIVE, FRAMINGHAM 01702",
         "phone_numbers": "508-879-7562",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -1516,7 +1516,7 @@
         "ahvp": "null",
         "address": "CENTRAL PARK TERRACE, FRANKLIN 02038",
         "phone_numbers": "508-528-2220",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -1538,7 +1538,7 @@
         "ahvp": "null",
         "address": "42 CANAL ROAD, PO. BOX 30, TURNERS FALLS 01376",
         "phone_numbers": "413-863-9781",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -1560,7 +1560,7 @@
         "ahvp": "null",
         "address": "116 CHURCH STREET, GARDNER 01440",
         "phone_numbers": "978-632-6627",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -1582,7 +1582,7 @@
         "ahvp": "null",
         "address": "23 TRESTLE WAY, GEORGETOWN 01833",
         "phone_numbers": "978-352-6331",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -1604,7 +1604,7 @@
         "ahvp": "null",
         "address": "257 WASHINGTON ST. P.O. BOX 1599, GLOUCESTER 01931",
         "phone_numbers": "978-283-1234",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -1626,7 +1626,7 @@
         "ahvp": "null",
         "address": "10 MAXWELL DRIVE, NO. GRAFTON 01536",
         "phone_numbers": "508-839-6089",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -1648,7 +1648,7 @@
         "ahvp": "null",
         "address": "50 PHIN'S HILL MANOR, GRANBY 01033",
         "phone_numbers": "413-467-9300",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -1670,7 +1670,7 @@
         "ahvp": "null",
         "address": "ONE ELM TERRACE, GREENFIELD 01301",
         "phone_numbers": "413-774-2932",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -1692,7 +1692,7 @@
         "ahvp": "null",
         "address": "19 LOWELL RD, GROTON 01450",
         "phone_numbers": "978-448-3962",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -1714,7 +1714,7 @@
         "ahvp": "null",
         "address": "10 RIVER PINES, GROVELAND 01834",
         "phone_numbers": "978-374-0370",
-        "housing_types": "['Family Housing (Ch. 705)']"
+        "housing_types": ['Family Housing (Ch. 705)']
       }
     },
     {
@@ -1736,7 +1736,7 @@
         "ahvp": "null",
         "address": "2 BERRNARD GIBBONS DR, GREAT BARRINGTON 01230",
         "phone_numbers": "413-274-1142",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -1758,7 +1758,7 @@
         "ahvp": "null",
         "address": "42 GOLDEN COURT, HADLEY 01035",
         "phone_numbers": "413-584-3868",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -1780,7 +1780,7 @@
         "ahvp": "null",
         "address": "1 PARSON LANE, HALIFAX 02338",
         "phone_numbers": "781-294-4520",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -1802,7 +1802,7 @@
         "ahvp": "null",
         "address": "121 RAILROAD AVENUE, SO. HAMILTON 01982",
         "phone_numbers": "978-468-3981",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -1824,7 +1824,7 @@
         "ahvp": "null",
         "address": "26 SPRINGMEADOW LANE, HAMPDEN 01036",
         "phone_numbers": "413-566-8157",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -1846,7 +1846,7 @@
         "ahvp": "null",
         "address": "RRI BOX A 15, CUMMINGTON 01026",
         "phone_numbers": "634-5000",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -1868,7 +1868,7 @@
         "ahvp": "null",
         "address": "TOWN HALL, HANOVER 02339",
         "phone_numbers": "781-826-8431",
-        "housing_types": "['Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -1890,7 +1890,7 @@
         "ahvp": "null",
         "address": "MEETINGHOUSE LANE, HANSON 02341",
         "phone_numbers": "781-293-7474",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -1912,7 +1912,7 @@
         "ahvp": "null",
         "address": "38 SISSON RD, P.O. BOX 714, HARWICHPORT 02646",
         "phone_numbers": "508-430-2390",
-        "housing_types": "['Family Housing (Ch. 705)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -1934,7 +1934,7 @@
         "ahvp": "null",
         "address": "2 SCHOOL STREET, HATFIELD 01038",
         "phone_numbers": "413-247-9202",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -1956,7 +1956,7 @@
         "ahvp": "null",
         "address": "P. O. BOX 751, HAVERHILL 01831",
         "phone_numbers": "508-372-6761",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -1978,7 +1978,7 @@
         "ahvp": "null",
         "address": "30 THAXTER STREET, HINGHAM 02043",
         "phone_numbers": "781-741-1417",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2000,7 +2000,7 @@
         "ahvp": "null",
         "address": "ONE HOLBROOK COURT, HOLBROOK 02343",
         "phone_numbers": "781-767-0024",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2022,7 +2022,7 @@
         "ahvp": "null",
         "address": "9 FLAGLER DRIVE, HOLDEN 01520",
         "phone_numbers": "508-829-9182",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2044,7 +2044,7 @@
         "ahvp": "null",
         "address": "492 WASHINGTON ST. COLE COURT, HOLLISTON 01746",
         "phone_numbers": "508-429-6266",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -2066,7 +2066,7 @@
         "ahvp": "null",
         "address": "475 MAPLE STREET, HOLYKOE 01040",
         "phone_numbers": "413-534-2220",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2088,7 +2088,7 @@
         "ahvp": "null",
         "address": "BOX 182, HOPEDALE 01747",
         "phone_numbers": "508-473-8120",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -2110,7 +2110,7 @@
         "ahvp": "null",
         "address": "100 DAVIS ROAD, HOPKINTON 01748",
         "phone_numbers": "508-435-6022",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2132,7 +2132,7 @@
         "ahvp": "11",
         "address": "8 BRIGHAM CIRCLE, HUDSON 01749",
         "phone_numbers": "978-562-9268",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -2154,7 +2154,7 @@
         "ahvp": "null",
         "address": "6 ATLANTIC HOUSE COURT, HULL 02045",
         "phone_numbers": "781-925-4544",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -2176,7 +2176,7 @@
         "ahvp": "9",
         "address": "ONE AGAWAM VILLAGE, IPSWICH 01938",
         "phone_numbers": "356-2860",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -2198,7 +2198,7 @@
         "ahvp": "null",
         "address": "15 HILLCREST ROAD, KINGSTON 02364",
         "phone_numbers": "781-585-8028",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -2220,7 +2220,7 @@
         "ahvp": "null",
         "address": "MAIN STREET, P.O. BOX 507, SO. LANCASTER 01561",
         "phone_numbers": " 978-365-3923",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -2242,7 +2242,7 @@
         "ahvp": "null",
         "address": "353 ELM STREET, LAWRENCE 01842",
         "phone_numbers": "978-683-2751",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2264,7 +2264,7 @@
         "ahvp": "null",
         "address": "155 MARBLE STREET, LEE 01238",
         "phone_numbers": "413-243-3464",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -2286,7 +2286,7 @@
         "ahvp": "null",
         "address": "1075 MAIN STREET, LEICESTER 01524",
         "phone_numbers": "508-892-4620",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -2308,7 +2308,7 @@
         "ahvp": "null",
         "address": "6 MAIN STREET, LENOX 01240",
         "phone_numbers": "",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -2330,7 +2330,7 @@
         "ahvp": "null",
         "address": "100 MAIN STREET, LEOMINSTER 01453",
         "phone_numbers": "978-537-5300",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2352,7 +2352,7 @@
         "ahvp": "null",
         "address": "ONE COUNTRYSIDE VILLAGE, LEXINGTON 02420",
         "phone_numbers": "781-861-0900",
-        "housing_types": "['Family Housing (Ch. 705)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2374,7 +2374,7 @@
         "ahvp": "null",
         "address": "19 SHATTUCK STREET, LITTLETON 01460",
         "phone_numbers": "978-486-8833",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2396,7 +2396,7 @@
         "ahvp": "null",
         "address": "P. O. BOX 60, LOWELL 01853",
         "phone_numbers": "978-937-3500",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2418,7 +2418,7 @@
         "ahvp": "null",
         "address": "114 WILSON STREET, LUDLOW 01056",
         "phone_numbers": "413-589-7272",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -2440,7 +2440,7 @@
         "ahvp": "null",
         "address": "C/O Leominster Housing Authority 100 MAIN STREET, LEOMINSTER 01453",
         "phone_numbers": "978-537-5300",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -2462,7 +2462,7 @@
         "ahvp": "20",
         "address": "10 CHURCH STREET, LYNN 01902",
         "phone_numbers": "781-477-2800",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -2484,7 +2484,7 @@
         "ahvp": "null",
         "address": "600 ROSS DRIVE, LYNNFIELD 01940",
         "phone_numbers": "781-581-5783",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -2506,7 +2506,7 @@
         "ahvp": "null",
         "address": "630 SALEM STREET, MALDEN 02148",
         "phone_numbers": "781-322-9460",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2528,7 +2528,7 @@
         "ahvp": "null",
         "address": "P.O.BOX  608, MANCHESTER 01944",
         "phone_numbers": "978-526-1850",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -2550,7 +2550,7 @@
         "ahvp": "null",
         "address": "22 BICENTENNIAL COURT, MANSFIELD 02048",
         "phone_numbers": "508-339-6890",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2572,7 +2572,7 @@
         "ahvp": "null",
         "address": "26 ROWLAND STREET, MARBLEHEAD 01945",
         "phone_numbers": "",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -2594,7 +2594,7 @@
         "ahvp": "6",
         "address": "240 MAIN STREET, MARLBOROUGH 01752",
         "phone_numbers": "508-624-6908  ",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -2616,7 +2616,7 @@
         "ahvp": "null",
         "address": "12 TEA ROCK GARDENS, MARSHFIELD 02050",
         "phone_numbers": "781-834-4333",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2638,7 +2638,7 @@
         "ahvp": "null",
         "address": "7 JOB'S FISHING RD, MASHPEE 02649",
         "phone_numbers": "508-477-6202",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2660,7 +2660,7 @@
         "ahvp": "null",
         "address": "ONE ACUSHNET RD. BOX 358, MATTAPOISETT 02739",
         "phone_numbers": "508-758-4664",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -2682,7 +2682,7 @@
         "ahvp": "null",
         "address": "15 POWDERMILL CIRCLE, MAYNARD 01754",
         "phone_numbers": "508-897-8738",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2704,7 +2704,7 @@
         "ahvp": "null",
         "address": "TILDEN VILLAGE, 30 POUND ST., MEDFIELD 02052",
         "phone_numbers": "508-359-6454",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2726,7 +2726,7 @@
         "ahvp": "null",
         "address": "121 RIVERSIDE AVENUE, MEDFORD 02155",
         "phone_numbers": "781-396-7200",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2748,7 +2748,7 @@
         "ahvp": "null",
         "address": "MAHAN CIRCLE, MEDWAY 02053",
         "phone_numbers": "508-533-2434",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2770,7 +2770,7 @@
         "ahvp": "9",
         "address": "910 MAIN STREET, MELROSE 02176",
         "phone_numbers": "781-665-1622",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -2792,7 +2792,7 @@
         "ahvp": "null",
         "address": "9 BLACKSTONE ST. BOX 55, MENDON 01756",
         "phone_numbers": "508-473-9130",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -2814,7 +2814,7 @@
         "ahvp": "null",
         "address": "52 MERRI VILLAGE, MERRIMAC 01860",
         "phone_numbers": "",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -2836,7 +2836,7 @@
         "ahvp": "null",
         "address": "24 MYSTIC STREET, METHUEN 01844",
         "phone_numbers": "978-682-8607  ",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2858,7 +2858,7 @@
         "ahvp": "null",
         "address": "P.O. BOX 502, MIDDLEBOROUGH 02346",
         "phone_numbers": "508-947-3824",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2880,7 +2880,7 @@
         "ahvp": "null",
         "address": "ORCHARD CIRCLE, MIDDLETON 01949",
         "phone_numbers": "978-774-4333",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -2902,7 +2902,7 @@
         "ahvp": "null",
         "address": "45 BIRMINGHAM COURT, MILFORD 01757",
         "phone_numbers": "508-473-9521",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2924,7 +2924,7 @@
         "ahvp": "null",
         "address": "89 ELM STREET, MILLBURY 01527",
         "phone_numbers": "508-865-2660",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2946,7 +2946,7 @@
         "ahvp": "null",
         "address": "KENNEDY TERRACE, MILLIS 02054",
         "phone_numbers": "508-376-8181",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2968,7 +2968,7 @@
         "ahvp": "null",
         "address": "65 MILLER AVENUE, MILTON 02186",
         "phone_numbers": "617-698-2169",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -2990,7 +2990,7 @@
         "ahvp": "null",
         "address": "50 COLONIAL VILLAGE, MONSON 01057",
         "phone_numbers": "413-267-4047",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3012,7 +3012,7 @@
         "ahvp": "null",
         "address": "41 SUNRISE TERRACE, TURNER FALLS 01376",
         "phone_numbers": "413-863-8445",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -3034,7 +3034,7 @@
         "ahvp": "null",
         "address": "P. O. BOX 66, NORTH ATTLEBORO 02761",
         "phone_numbers": "695-5142",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3056,7 +3056,7 @@
         "ahvp": "null",
         "address": "P. O. BOX 66, NORTH ATTLEBORO 02761",
         "phone_numbers": "695-5142",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3078,7 +3078,7 @@
         "ahvp": "null",
         "address": "271 NORTH MAIN STREET, NORTH BROOKFIELD 01535",
         "phone_numbers": "508-867-2826  ",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3100,7 +3100,7 @@
         "ahvp": "null",
         "address": "PEABODY COURT, NORTH READING 01864",
         "phone_numbers": "978-664-2982",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -3122,7 +3122,7 @@
         "ahvp": "null",
         "address": "P.O. BOX 40, NAHANT 01908",
         "phone_numbers": "781-581-9623",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -3144,7 +3144,7 @@
         "ahvp": "null",
         "address": "3 MANTA DR, NANTUCKET 02554",
         "phone_numbers": "508-228-0296",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -3166,7 +3166,7 @@
         "ahvp": "null",
         "address": "4 COTTAGE STREET, NATICK 01760",
         "phone_numbers": "508-653-2971",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3188,7 +3188,7 @@
         "ahvp": "null",
         "address": "28 ROBERT COOK DRIVE, NEEDHAM 02192",
         "phone_numbers": "781-444-3011",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -3210,7 +3210,7 @@
         "ahvp": "25",
         "address": "P.O. BOX 2081, NEW BEDFORD 02741",
         "phone_numbers": "508-997-4800",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -3232,7 +3232,7 @@
         "ahvp": "25",
         "address": "25 TEMPLE STREET, NEWBURYPORT 01950",
         "phone_numbers": "508-465-7216",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -3254,7 +3254,7 @@
         "ahvp": "null",
         "address": "82 LINCOLN STREET, NEWTON 02160",
         "phone_numbers": "617-552-5501",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3276,7 +3276,7 @@
         "ahvp": "null",
         "address": "33 ROCKWOOD RD., BOX 293, NORFOLK 02056",
         "phone_numbers": "508-528-4800",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -3298,7 +3298,7 @@
         "ahvp": "null",
         "address": "150 ASHLAND ST. BOX 51, NORTH ADAMS 01247",
         "phone_numbers": "413-663-5379",
-        "housing_types": "['Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3320,7 +3320,7 @@
         "ahvp": "null",
         "address": "49 OLD SOUTH STREET, NORTHAMPTON 01060",
         "phone_numbers": "413-584-4030  ",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3342,7 +3342,7 @@
         "ahvp": "null",
         "address": "26 VILLAGE DRIVE, NORTHBOROUGH 01532",
         "phone_numbers": "508-393-2408",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -3364,7 +3364,7 @@
         "ahvp": "null",
         "address": "COLONIAL DRIVE, NORTHBRIDGE 01588",
         "phone_numbers": "508-234-7736",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3386,7 +3386,7 @@
         "ahvp": "null",
         "address": "120 WEST MAIN STREET, NORTON 02766",
         "phone_numbers": "508-285-3929",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3408,7 +3408,7 @@
         "ahvp": "null",
         "address": "399 WASHINGTON STREET, NORWELL 02061",
         "phone_numbers": "781-659-7690",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -3430,7 +3430,7 @@
         "ahvp": "null",
         "address": "40 WILLIAM SHYNE CIRCLE, NORWOOD 02062",
         "phone_numbers": "781-762-8115",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3452,7 +3452,7 @@
         "ahvp": "null",
         "address": "200 EAST RIVER ST. BLDG #3, ORANGE 01364",
         "phone_numbers": "978-544-6000",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3474,7 +3474,7 @@
         "ahvp": "4",
         "address": "94 HOPKINS LANE, ORLEANS 02653",
         "phone_numbers": "508-255-0064",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -3496,7 +3496,7 @@
         "ahvp": "null",
         "address": "23 WHEELOCK STREET, OXFORD 01540",
         "phone_numbers": "508-987-5055",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3518,7 +3518,7 @@
         "ahvp": "null",
         "address": "13 FLETCHER STREET, PALMER 01069",
         "phone_numbers": "413-283-9311",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3540,7 +3540,7 @@
         "ahvp": "null",
         "address": "75-81 CENTRAL STREET, PEABODY 01960",
         "phone_numbers": "",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3562,7 +3562,7 @@
         "ahvp": "null",
         "address": "KILCOMMONS DR, PEMBROKE 02359",
         "phone_numbers": "781-293-3088  ",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3584,7 +3584,7 @@
         "ahvp": "null",
         "address": "4 FOSTER ST, E. PEPPERELL 01463",
         "phone_numbers": "978-433-9882",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3606,7 +3606,7 @@
         "ahvp": "null",
         "address": "65 COLUMBUS AVE., PITTSFIELD 01201-",
         "phone_numbers": "413-443-5936",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3628,7 +3628,7 @@
         "ahvp": "null",
         "address": "140 EAST BACON ST., PLAINVILLE 02762",
         "phone_numbers": "508-699-4212",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -3650,7 +3650,7 @@
         "ahvp": "null",
         "address": "69 ALLERTON ST., BOX 3537, PLYMOUTH 02361",
         "phone_numbers": "508-746-2105",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -3672,7 +3672,7 @@
         "ahvp": "10",
         "address": "44 HARRY KEMP WAY, PROVINCETOWN 02657",
         "phone_numbers": "508-487-0434",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -3694,7 +3694,7 @@
         "ahvp": "null",
         "address": "80 CLAY STREET, QUNICY 02170",
         "phone_numbers": "617-847-4350",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3716,7 +3716,7 @@
         "ahvp": "null",
         "address": "ONE DECELLE DRIVE, RANDOLPH 02368",
         "phone_numbers": "781-963-1990",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3738,7 +3738,7 @@
         "ahvp": "null",
         "address": "75 MILL STREET, RAYNHAM 02767",
         "phone_numbers": "508-824-9404",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -3760,7 +3760,7 @@
         "ahvp": "null",
         "address": "22 FRANK D. TANNER DRIVE, READING 01867",
         "phone_numbers": "781-944-6755",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -3782,7 +3782,7 @@
         "ahvp": "100",
         "address": "70 COOLEDGE STREET, REVERE 02151",
         "phone_numbers": "781-284-4394",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -3804,7 +3804,7 @@
         "ahvp": "null",
         "address": "8 STUDLEY COURT, ROCKAND 02370",
         "phone_numbers": "",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3826,7 +3826,7 @@
         "ahvp": "null",
         "address": "13 MILLBROOK PARK, ROCKPORT 01966",
         "phone_numbers": "978-546-3181",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -3848,7 +3848,7 @@
         "ahvp": "null",
         "address": "PLANTATION DRIVE, ROWLEY 01969",
         "phone_numbers": "978-948-2371",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -3870,7 +3870,7 @@
         "ahvp": "null",
         "address": "27 CHARTER STREET, SALEM 01970",
         "phone_numbers": "978-744-4432",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3892,7 +3892,7 @@
         "ahvp": "null",
         "address": "23 BEACH ROAD, SALISBURY 01950",
         "phone_numbers": "978-462-8600",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -3914,7 +3914,7 @@
         "ahvp": "10",
         "address": "20 TOMS WAY, SANDWICH 02565",
         "phone_numbers": "508-833-4979",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -3936,7 +3936,7 @@
         "ahvp": "null",
         "address": "19 TALBOT STREET, SAUGUS 01906",
         "phone_numbers": "781-233-2116",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3958,7 +3958,7 @@
         "ahvp": "null",
         "address": "791 Country Way, SCITUATE 02066",
         "phone_numbers": "781-545-3375",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -3980,7 +3980,7 @@
         "ahvp": "2",
         "address": "25 CHAPPELL, SUITE 10, SEEKONK 02771",
         "phone_numbers": "508-336-6067",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -4002,7 +4002,7 @@
         "ahvp": "9",
         "address": "18 HIXON FARM ROAD, SHARON 02067",
         "phone_numbers": "781-784-2733",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -4024,7 +4024,7 @@
         "ahvp": "null",
         "address": "80 CANAL STREET, P.O. BOX 30, TURNER FALLS 01376",
         "phone_numbers": "413-863-9530",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -4046,7 +4046,7 @@
         "ahvp": "null",
         "address": "36 NO. QUINSINGAMOND AVE, SHREWSBURY 01545",
         "phone_numbers": "508-757-0323",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -4068,7 +4068,7 @@
         "ahvp": "null",
         "address": "75 JOHN KENNEDY TERRACE, SOMERSET 02726",
         "phone_numbers": "508-672-3348  ",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -4090,7 +4090,7 @@
         "ahvp": "null",
         "address": "30 MEMORIAL ROAD, SOMERVILLE 02145",
         "phone_numbers": "617-625-1152",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -4112,7 +4112,7 @@
         "ahvp": "null",
         "address": "69 LATHROP STREET, SOUTH HADLEY 01075",
         "phone_numbers": "413-532-3194",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -4134,7 +4134,7 @@
         "ahvp": "null",
         "address": "49 BOSTON ROAD, SOUTHBOROUGH 01772",
         "phone_numbers": "508-481-2166",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -4156,7 +4156,7 @@
         "ahvp": "null",
         "address": "60 CHARLTON STREET, SOUTHBRIDGE 01550",
         "phone_numbers": "508-765-5858",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -4178,7 +4178,7 @@
         "ahvp": "null",
         "address": "12 DEPOT STREET, SOUTHWICK 01077",
         "phone_numbers": "413-569-3161",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -4200,7 +4200,7 @@
         "ahvp": "35",
         "address": "HOWE VILLAGE, P.O. BOX 486, SPENCER 01562",
         "phone_numbers": "508-885-3904",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -4222,7 +4222,7 @@
         "ahvp": "null",
         "address": "25 SAAB COURT, SPRINGFIELD 01101",
         "phone_numbers": "413-785-4517 or 413-785-4518",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -4244,7 +4244,7 @@
         "ahvp": "null",
         "address": "C/O Leominster Housing Authority 100 MAIN STREET, LEOMINSTER 01453",
         "phone_numbers": "978-537-5300",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -4266,7 +4266,7 @@
         "ahvp": "null",
         "address": "5 PINE STREET, STOCKBRIDGE 01262",
         "phone_numbers": "413-298-3222",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -4288,7 +4288,7 @@
         "ahvp": "null",
         "address": "11 PARKER CHASE ROAD, STONEHAM 02180",
         "phone_numbers": "",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -4310,7 +4310,7 @@
         "ahvp": "null",
         "address": "4 CAPEN STREET, STOUGHTON 02072",
         "phone_numbers": "781-344-6599  ",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -4332,7 +4332,7 @@
         "ahvp": "null",
         "address": "55 HUDSON ROAD, SUDBURY 01776",
         "phone_numbers": "978-443-5112",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -4354,7 +4354,7 @@
         "ahvp": "null",
         "address": "5 CHURCH STREET, WILKINSONVILLE 01590",
         "phone_numbers": "508-865-3821",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -4376,7 +4376,7 @@
         "ahvp": "null",
         "address": "6 DUNCAN TERRACE, SWAMPSCOTT 01907",
         "phone_numbers": "781-593-5516",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -4398,7 +4398,7 @@
         "ahvp": "null",
         "address": "100 GARDNER NECK ROAD, SWANSEA 02777",
         "phone_numbers": "508-679-5828",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -4420,7 +4420,7 @@
         "ahvp": "null",
         "address": "30 OLNEY STREET, TAUNTON 02780",
         "phone_numbers": "508-823-6308",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -4442,7 +4442,7 @@
         "ahvp": "null",
         "address": "99 BRIDGE ST., BALDWINVILLE 01436",
         "phone_numbers": "978-939-2374",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -4464,7 +4464,7 @@
         "ahvp": "null",
         "address": "SAUNDERS CIRCLE, TEWKSBURY 01876",
         "phone_numbers": "978-851-7392",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -4486,7 +4486,7 @@
         "ahvp": "null",
         "address": "69 WASHINGTON STREET, TOPSFIELD 01983",
         "phone_numbers": "978-887-8407",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -4508,7 +4508,7 @@
         "ahvp": "null",
         "address": "198 MIDDLESEX RD. BRINLEY, TYNGSBOROUGH 01879",
         "phone_numbers": "508-649-9941",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -4530,7 +4530,7 @@
         "ahvp": "null",
         "address": "COACHROAD APTS. P.O. BOX 715, UPTON 01568",
         "phone_numbers": "",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -4552,7 +4552,7 @@
         "ahvp": "null",
         "address": "CALUMET COURT, BOX 391, UXBRIDGE 01569",
         "phone_numbers": "508-278-3232  ",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -4574,7 +4574,7 @@
         "ahvp": "null",
         "address": "87 MAPLE ST. ORCHARD KNOLL, WEST BOYLSTON 01583",
         "phone_numbers": "508-835-6060",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -4596,7 +4596,7 @@
         "ahvp": "null",
         "address": "7 ESTHER DRIVE, WEST BRIDGEWATER 02379",
         "phone_numbers": "588-2781",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -4618,7 +4618,7 @@
         "ahvp": "null",
         "address": "29 EAST MAIN ST., BLDG #7, WEST BROOKFIELD 01535-2936",
         "phone_numbers": "508-867-5891",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -4640,7 +4640,7 @@
         "ahvp": "null",
         "address": "379 MAIN ST., WEST NEWBURY 01985",
         "phone_numbers": "",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -4662,7 +4662,7 @@
         "ahvp": "null",
         "address": "37 OXFORD PLACE, WEST SPRINGFIELD 01089",
         "phone_numbers": "413-788-0988",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -4684,7 +4684,7 @@
         "ahvp": "null",
         "address": "26 CRESCENT STREET, WAKEFIELD 01880",
         "phone_numbers": "781-245-7328",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -4706,7 +4706,7 @@
         "ahvp": "null",
         "address": "8 DIAMOND POND TERRACE, WALPOLE 02081",
         "phone_numbers": "508-668-7878",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -4728,7 +4728,7 @@
         "ahvp": "null",
         "address": "110 POND STREET, WALTHAM 02154",
         "phone_numbers": "781-894-3357",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -4750,7 +4750,7 @@
         "ahvp": "null",
         "address": "20 VALLEY VIEW, WARE 01082",
         "phone_numbers": "413-967-4477",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -4772,7 +4772,7 @@
         "ahvp": "null",
         "address": "57 SANDWICH ROAD, WAREHAM 02571",
         "phone_numbers": "508-295-8031",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -4794,7 +4794,7 @@
         "ahvp": "null",
         "address": "P.O. BOX 3021, WARREN 01083",
         "phone_numbers": "413-436-7184",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -4816,7 +4816,7 @@
         "ahvp": "6",
         "address": "55 WAVERLY AVENUE, WATERTOWN 02172",
         "phone_numbers": "617-923-3950",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -4838,7 +4838,7 @@
         "ahvp": "null",
         "address": "106 MAIN STREET, WAYLAND 01778",
         "phone_numbers": "508-655-6310",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -4860,7 +4860,7 @@
         "ahvp": "null",
         "address": "10 GOLDEN HEIGHTS, WEBSTER 01570",
         "phone_numbers": "508-943-1624",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -4882,7 +4882,7 @@
         "ahvp": "null",
         "address": "109 BARTON ROAD, WELLESLEY 02181",
         "phone_numbers": "781-235-0223",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -4904,7 +4904,7 @@
         "ahvp": "null",
         "address": "LARCH LANE, WENHAM 01984",
         "phone_numbers": "978-468-1532",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -4926,7 +4926,7 @@
         "ahvp": "null",
         "address": "2 ROGERS RD., WESTBOROUGH 01581",
         "phone_numbers": "508-366-1225",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -4948,7 +4948,7 @@
         "ahvp": "10",
         "address": "P.O. BOX 99, WESTFIELD 01086",
         "phone_numbers": "413-568-9283",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -4970,7 +4970,7 @@
         "ahvp": "null",
         "address": "65 TADMUCK ROAD, WESTFORD 01086",
         "phone_numbers": "978-568-9283",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)']
       }
     },
     {
@@ -4992,7 +4992,7 @@
         "ahvp": "null",
         "address": "666 STATE RD., P.O. BOX 456, WESTPORT 02790",
         "phone_numbers": "508-675-2039",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -5014,7 +5014,7 @@
         "ahvp": "null",
         "address": "402 ESSEX STREET, WEYMOUTH 02188",
         "phone_numbers": "617-331-2323",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -5036,7 +5036,7 @@
         "ahvp": "4",
         "address": "P.O. BOX 334, WHITMAN 02382",
         "phone_numbers": "781-447-6363",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -5058,7 +5058,7 @@
         "ahvp": "2",
         "address": "88 STONY HILL ROAD, WILBRAHAM 01095",
         "phone_numbers": "413-543-1700",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -5080,7 +5080,7 @@
         "ahvp": "null",
         "address": "35 ADAMS ROAD, WILLIAMSTOWN 01267",
         "phone_numbers": "413-458-8282",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -5102,7 +5102,7 @@
         "ahvp": "null",
         "address": "41 DEMING WAY, WILMINGTON 01887",
         "phone_numbers": "978-658-8531",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -5124,7 +5124,7 @@
         "ahvp": "null",
         "address": "108 IPSWICH DRIVE, WINCHENDON 01475",
         "phone_numbers": "978-297-2280",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -5146,7 +5146,7 @@
         "ahvp": "null",
         "address": "13 WESTLEY STREET, WINCHESTER 01890",
         "phone_numbers": "781-721-5718",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -5168,7 +5168,7 @@
         "ahvp": "null",
         "address": "9 GOLDEN DRIVE, WINTHROP 02152",
         "phone_numbers": "617-846-7100",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     },
     {
@@ -5190,7 +5190,7 @@
         "ahvp": "null",
         "address": "59 CAMPBELL STREET, WOBURN 01801",
         "phone_numbers": "781-935-0818",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -5212,7 +5212,7 @@
         "ahvp": "23",
         "address": "40 BELMONT STREET, WORCESTER 01605",
         "phone_numbers": "508-798-4506",
-        "housing_types": "['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']"
+        "housing_types": ['Veterans Family Housing (Ch. 200)','Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing','Alternative Housing Voucher Program Housing']
       }
     },
     {
@@ -5234,7 +5234,7 @@
         "ahvp": "null",
         "address": "P.O. BOX 312, WRENTHAM 02093",
         "phone_numbers": "508-384-2054",
-        "housing_types": "['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']"
+        "housing_types": ['Family Housing (Ch. 705)','Elderly / Handicapped Housing (Ch. 667)']
       }
     },
     {
@@ -5256,7 +5256,7 @@
         "ahvp": "null",
         "address": "LONG POND PLAZA, SO. YARMOUTH 02644",
         "phone_numbers": "508-398-2920",
-        "housing_types": "['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']"
+        "housing_types": ['Elderly / Handicapped Housing (Ch. 667)','Special Needs Housing (Ch.167/189)','Massachusetts Rental Voucher Program Housing']
       }
     }
   ]
