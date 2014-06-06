@@ -26,7 +26,7 @@
         "ch667": { "title": "Elderly / Handicapped Housing (Ch.667)"},
         "ch167_189": { "title": "Special Needs Housing (Ch.167/189)"},
         "mrvp": { "title": "Massachusetts Rental Voucher Program Housing"},
-        "ahvp": { "title": "Alternative Housing Voucher Program Housing"},
+        "ahvp": { "title": "Alternative Housing Voucher Program Housing"}
     },
     "search": {
         "geosearch": true
