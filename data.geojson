@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "Name": "Abington Housing Authority",
+        "organization_name": "Abington Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "2",
         "Elderly / Handicapped Housing (Ch.667)": "110",
@@ -21,7 +21,7 @@
         "address": "71 SHAW AVENUE",
         "town": "ABINGTON",
         "zip": "02351",
-        "phone": "781-878-5219"
+        "phone_numbers": "781-878-5219"
       }
     },
     {
@@ -34,7 +34,7 @@
         ]
       },
       "properties": {
-        "Name": "Acton Housing Authority",
+        "organization_name": "Acton Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "39",
         "Elderly / Handicapped Housing (Ch.667)": "91",
@@ -44,7 +44,7 @@
         "address": "68 WINDSOR AVE. BOX 681",
         "town": "ACTON",
         "zip": "01720",
-        "phone": "978-263-5339"
+        "phone_numbers": "978-263-5339"
       }
     },
     {
@@ -57,7 +57,7 @@
         ]
       },
       "properties": {
-        "Name": "Acushnet Housing Authority",
+        "organization_name": "Acushnet Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "NULL",
@@ -67,7 +67,7 @@
         "address": "23 MAIN STREET",
         "town": "ACUSHNET",
         "zip": "02743",
-        "phone": "508-998-3603"
+        "phone_numbers": "508-998-3603"
       }
     },
     {
@@ -80,7 +80,7 @@
         ]
       },
       "properties": {
-        "Name": "Adams Housing Authority",
+        "organization_name": "Adams Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "25",
         "Elderly / Handicapped Housing (Ch.667)": "64",
@@ -90,7 +90,7 @@
         "address": "4 COLUMBIA STREET",
         "town": "ADAMS",
         "zip": "01220",
-        "phone": "413-743-5924"
+        "phone_numbers": "413-743-5924"
       }
     },
     {
@@ -103,7 +103,7 @@
         ]
       },
       "properties": {
-        "Name": "Agawam Housing Authority",
+        "organization_name": "Agawam Housing Authority",
         "Family Housing (Ch.200)": "44",
         "Family Housing (Ch.705)": " 7",
         "Elderly / Handicapped Housing (Ch.667)": "191",
@@ -113,7 +113,7 @@
         "address": "66 MEADOWBROOK MANOR",
         "town": "AGAWAM",
         "zip": "01001",
-        "phone": "413-786-1297"
+        "phone_numbers": "413-786-1297"
       }
     },
     {
@@ -126,7 +126,7 @@
         ]
       },
       "properties": {
-        "Name": "Amesbury Housing Authority",
+        "organization_name": "Amesbury Housing Authority",
         "Family Housing (Ch.200)": "27",
         "Family Housing (Ch.705)": " 23",
         "Elderly / Handicapped Housing (Ch.667)": "205",
@@ -136,7 +136,7 @@
         "address": "180 MAIN STREET",
         "town": "AMESBURY",
         "zip": "01913",
-        "phone": "978-388-2022"
+        "phone_numbers": "978-388-2022"
       }
     },
     {
@@ -149,7 +149,7 @@
         ]
       },
       "properties": {
-        "Name": "Amherst Housing Authority",
+        "organization_name": "Amherst Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "22",
         "Elderly / Handicapped Housing (Ch.667)": "116",
@@ -159,7 +159,7 @@
         "address": "33 KELLOGG AVENUE",
         "town": "AMHERST",
         "zip": "01002",
-        "phone": "413-256-0206"
+        "phone_numbers": "413-256-0206"
       }
     },
     {
@@ -172,7 +172,7 @@
         ]
       },
       "properties": {
-        "Name": "Andover Housing Authority",
+        "organization_name": "Andover Housing Authority",
         "Family Housing (Ch.200)": "56",
         "Family Housing (Ch.705)": " NULL",
         "Elderly / Handicapped Housing (Ch.667)": "218",
@@ -182,7 +182,7 @@
         "address": "100 MORTON STREET",
         "town": "ANDOVER",
         "zip": "01810",
-        "phone": "978-475-2365"
+        "phone_numbers": "978-475-2365"
       }
     },
     {
@@ -195,7 +195,7 @@
         ]
       },
       "properties": {
-        "Name": "Arlington Housing Authority",
+        "organization_name": "Arlington Housing Authority",
         "Family Housing (Ch.200)": "176",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "520",
@@ -205,7 +205,7 @@
         "address": "4 WINSLOW STREET",
         "town": "ARLINGTON",
         "zip": "02174",
-        "phone": "781-646-3400"
+        "phone_numbers": "781-646-3400"
       }
     },
     {
@@ -218,7 +218,7 @@
         ]
       },
       "properties": {
-        "Name": "Ashland Housing Authority",
+        "organization_name": "Ashland Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "40",
@@ -228,7 +228,7 @@
         "address": "59 PARK ROAD",
         "town": "ASHLAND",
         "zip": "01721",
-        "phone": "508-881-2450"
+        "phone_numbers": "508-881-2450"
       }
     },
     {
@@ -241,7 +241,7 @@
         ]
       },
       "properties": {
-        "Name": "Athol Housing Authority",
+        "organization_name": "Athol Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "16",
         "Elderly / Handicapped Housing (Ch.667)": "78",
@@ -251,7 +251,7 @@
         "address": "21 Morton Meadows",
         "town": "ATHOL",
         "zip": "01331",
-        "phone": "978-249-4848"
+        "phone_numbers": "978-249-4848"
       }
     },
     {
@@ -264,7 +264,7 @@
         ]
       },
       "properties": {
-        "Name": "Attleboro Housing Authority",
+        "organization_name": "Attleboro Housing Authority",
         "Family Housing (Ch.200)": "91",
         "Family Housing (Ch.705)": " 21",
         "Elderly / Handicapped Housing (Ch.667)": "319",
@@ -274,7 +274,7 @@
         "address": "37 CARLON STREET",
         "town": "ATTLEBORO",
         "zip": "02703",
-        "phone": "508-222-0151"
+        "phone_numbers": "508-222-0151"
       }
     },
     {
@@ -287,7 +287,7 @@
         ]
       },
       "properties": {
-        "Name": "Auburn Housing Authority",
+        "organization_name": "Auburn Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "32",
         "Elderly / Handicapped Housing (Ch.667)": "90",
@@ -297,7 +297,7 @@
         "address": "200 OXFORD STREET",
         "town": "AUBURN",
         "zip": "01501",
-        "phone": "508-832-3852"
+        "phone_numbers": "508-832-3852"
       }
     },
     {
@@ -310,7 +310,7 @@
         ]
       },
       "properties": {
-        "Name": "Avon Housing Authority",
+        "organization_name": "Avon Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "70",
@@ -320,7 +320,7 @@
         "address": "ONE FELLOWSHIP CIRCLE",
         "town": "AVON",
         "zip": "02322",
-        "phone": "508-588-1847"
+        "phone_numbers": "508-588-1847"
       }
     },
     {
@@ -333,7 +333,7 @@
         ]
       },
       "properties": {
-        "Name": "Ayer Housing Authority",
+        "organization_name": "Ayer Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "13",
         "Elderly / Handicapped Housing (Ch.667)": "61",
@@ -343,7 +343,7 @@
         "address": "18 POND STREET",
         "town": "AYER",
         "zip": "01432",
-        "phone": "978-772-2771"
+        "phone_numbers": "978-772-2771"
       }
     },
     {
@@ -356,7 +356,7 @@
         ]
       },
       "properties": {
-        "Name": "Barnstable Housing Authority",
+        "organization_name": "Barnstable Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "52",
         "Elderly / Handicapped Housing (Ch.667)": "153",
@@ -366,7 +366,7 @@
         "address": "146 SOUTH STREET",
         "town": "HYANNIS",
         "zip": "02601",
-        "phone": "508-771-7222"
+        "phone_numbers": "508-771-7222"
       }
     },
     {
@@ -379,7 +379,7 @@
         ]
       },
       "properties": {
-        "Name": "Barre Housing Authority",
+        "organization_name": "Barre Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "10",
         "Elderly / Handicapped Housing (Ch.667)": "56",
@@ -389,7 +389,7 @@
         "address": "49 GRANDVIEW TER.",
         "town": "BARRE",
         "zip": "01005",
-        "phone": "978-355-6643"
+        "phone_numbers": "978-355-6643"
       }
     },
     {
@@ -402,7 +402,7 @@
         ]
       },
       "properties": {
-        "Name": "Bedford Housing Authority",
+        "organization_name": "Bedford Housing Authority",
         "Family Housing (Ch.200)": "12",
         "Family Housing (Ch.705)": " NULL",
         "Elderly / Handicapped Housing (Ch.667)": "80",
@@ -412,7 +412,7 @@
         "address": "ASHBY PLACE",
         "town": "BEDFORD",
         "zip": "01730",
-        "phone": "781-275-2428"
+        "phone_numbers": "781-275-2428"
       }
     },
     {
@@ -425,7 +425,7 @@
         ]
       },
       "properties": {
-        "Name": "Belchertown Housing Authority",
+        "organization_name": "Belchertown Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "12",
         "Elderly / Handicapped Housing (Ch.667)": "48",
@@ -435,7 +435,7 @@
         "address": "41 EVERETT AVE",
         "town": "BELCHERTOWN",
         "zip": "01007",
-        "phone": "413-323-4064"
+        "phone_numbers": "413-323-4064"
       }
     },
     {
@@ -448,7 +448,7 @@
         ]
       },
       "properties": {
-        "Name": "Bellingham Housing Authority",
+        "organization_name": "Bellingham Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "3",
         "Elderly / Handicapped Housing (Ch.667)": "120",
@@ -458,7 +458,7 @@
         "address": "10 WRENTHAM MANOR",
         "town": "BELLINGHAM",
         "zip": "02019",
-        "phone": "508-883-4999"
+        "phone_numbers": "508-883-4999"
       }
     },
     {
@@ -471,7 +471,7 @@
         ]
       },
       "properties": {
-        "Name": "Belmont Housing Authority",
+        "organization_name": "Belmont Housing Authority",
         "Family Housing (Ch.200)": "100",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "154",
@@ -481,7 +481,7 @@
         "address": "59 PEARSON ROAD",
         "town": "BELMONT",
         "zip": "02478",
-        "phone": "617-484-2160"
+        "phone_numbers": "617-484-2160"
       }
     },
     {
@@ -494,7 +494,7 @@
         ]
       },
       "properties": {
-        "Name": "Berkshire County Regional Housing",
+        "organization_name": "Berkshire County Regional Housing",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "8",
         "Elderly / Handicapped Housing (Ch.667)": "22",
@@ -504,7 +504,7 @@
         "address": "150 NORTH STREET",
         "town": "PITTSFIELD",
         "zip": "01201",
-        "phone": "800-248-9002"
+        "phone_numbers": "800-248-9002"
       }
     },
     {
@@ -517,7 +517,7 @@
         ]
       },
       "properties": {
-        "Name": "Beverly Housing Authority",
+        "organization_name": "Beverly Housing Authority",
         "Family Housing (Ch.200)": "117",
         "Family Housing (Ch.705)": "15",
         "Elderly / Handicapped Housing (Ch.667)": "345",
@@ -527,7 +527,7 @@
         "address": "137 BRIDGE ST. BOX 503",
         "town": "BEVERLY",
         "zip": "01915",
-        "phone": "978-922-3100"
+        "phone_numbers": "978-922-3100"
       }
     },
     {
@@ -540,7 +540,7 @@
         ]
       },
       "properties": {
-        "Name": "Billerica Housing Authority",
+        "organization_name": "Billerica Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "11",
         "Elderly / Handicapped Housing (Ch.667)": "177",
@@ -550,7 +550,7 @@
         "address": "16 RIVER STREET",
         "town": "BILLERCIA",
         "zip": "01821",
-        "phone": "978-667-1661"
+        "phone_numbers": "978-667-1661"
       }
     },
     {
@@ -563,7 +563,7 @@
         ]
       },
       "properties": {
-        "Name": "Blackstone Housing Authority",
+        "organization_name": "Blackstone Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "56",
@@ -573,7 +573,7 @@
         "address": "15 FOXBROOK MANOR, AUSTIN St.",
         "town": "BLACKSTONE",
         "zip": "01504",
-        "phone": "508-883-1515"
+        "phone_numbers": "508-883-1515"
       }
     },
     {
@@ -586,7 +586,7 @@
         ]
       },
       "properties": {
-        "Name": "Boston Housing Authority",
+        "organization_name": "Boston Housing Authority",
         "Family Housing (Ch.200)": "2470",
         "Family Housing (Ch.705)": " 141",
         "Elderly / Handicapped Housing (Ch.667)": "193",
@@ -596,7 +596,7 @@
         "address": "52 CHAUNCY STREET",
         "town": "BOSTON",
         "zip": "02111",
-        "phone": "617-451-1250"
+        "phone_numbers": "617-451-1250"
       }
     },
     {
@@ -609,7 +609,7 @@
         ]
       },
       "properties": {
-        "Name": "Bourne Housing Authority",
+        "organization_name": "Bourne Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "14",
         "Elderly / Handicapped Housing (Ch.667)": "36",
@@ -619,7 +619,7 @@
         "address": "871 SHORE ROAD",
         "town": "POCASSET",
         "zip": "02559",
-        "phone": "508-563-7485"
+        "phone_numbers": "508-563-7485"
       }
     },
     {
@@ -632,7 +632,7 @@
         ]
       },
       "properties": {
-        "Name": "Braintree Housing Authority",
+        "organization_name": "Braintree Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "7",
         "Elderly / Handicapped Housing (Ch.667)": "105",
@@ -642,7 +642,7 @@
         "address": "25 ROOSEVELT STREET",
         "town": "BRAINTREE",
         "zip": "02184",
-        "phone": "781-848-1484"
+        "phone_numbers": "781-848-1484"
       }
     },
     {
@@ -655,7 +655,7 @@
         ]
       },
       "properties": {
-        "Name": "Brewster Housing Authority",
+        "organization_name": "Brewster Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "24",
         "Elderly / Handicapped Housing (Ch.667)": "32",
@@ -665,7 +665,7 @@
         "address": "11 FREDERICK COURT",
         "town": "BREWSTER",
         "zip": "02631",
-        "phone": "508-896-9800"
+        "phone_numbers": "508-896-9800"
       }
     },
     {
@@ -678,7 +678,7 @@
         ]
       },
       "properties": {
-        "Name": "Bridgewater Housing Authority",
+        "organization_name": "Bridgewater Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": " 12",
         "Elderly / Handicapped Housing (Ch.667)": "146",
@@ -688,7 +688,7 @@
         "address": "10 HERITAGE CIRCLE, PO BOX ",
         "town": "BRIDGEWATER",
         "zip": "02324",
-        "phone": "508-697-7405"
+        "phone_numbers": "508-697-7405"
       }
     },
     {
@@ -701,7 +701,7 @@
         ]
       },
       "properties": {
-        "Name": "Brimfield Housing Authority",
+        "organization_name": "Brimfield Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "56",
@@ -711,7 +711,7 @@
         "address": "20 COLONIAL PARK",
         "town": "BRIMFIELD",
         "zip": "01010",
-        "phone": "413-245-7506"
+        "phone_numbers": "413-245-7506"
       }
     },
     {
@@ -724,7 +724,7 @@
         ]
       },
       "properties": {
-        "Name": "Brockton Housing Authority",
+        "organization_name": "Brockton Housing Authority",
         "Family Housing (Ch.200)": "152",
         "Family Housing (Ch.705)": "  43",
         "Elderly / Handicapped Housing (Ch.667)": "550",
@@ -734,7 +734,7 @@
         "address": "45 GODDARD RD., BOX 340",
         "town": "BROCKTON",
         "zip": "02403",
-        "phone": "508-588-6880"
+        "phone_numbers": "508-588-6880"
       }
     },
     {
@@ -747,7 +747,7 @@
         ]
       },
       "properties": {
-        "Name": "Brookfield Housing Authority",
+        "organization_name": "Brookfield Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "2",
         "Elderly / Handicapped Housing (Ch.667)": "NULL",
@@ -757,7 +757,7 @@
         "address": "271 NO. MAIN STREET",
         "town": "NORTH BROOKFIELD",
         "zip": "01535",
-        "phone": "508-867-2826"
+        "phone_numbers": "508-867-2826"
       }
     },
     {
@@ -770,7 +770,7 @@
         ]
       },
       "properties": {
-        "Name": "Brookline Housing Authority",
+        "organization_name": "Brookline Housing Authority",
         "Family Housing (Ch.200)": "291",
         "Family Housing (Ch.705)": "84",
         "Elderly / Handicapped Housing (Ch.667)": "77",
@@ -780,7 +780,7 @@
         "address": "90 LONGWOOD AVENUE",
         "town": "BROOKLINE",
         "zip": "02146",
-        "phone": "277-2022"
+        "phone_numbers": "277-2022"
       }
     },
     {
@@ -793,7 +793,7 @@
         ]
       },
       "properties": {
-        "Name": "Burlington Housing Authority",
+        "organization_name": "Burlington Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "2",
         "Elderly / Handicapped Housing (Ch.667)": "105",
@@ -803,7 +803,7 @@
         "address": "15 BIRCHCREST ST.",
         "town": "BURLINGTON",
         "zip": "01803",
-        "phone": "781-272-7786"
+        "phone_numbers": "781-272-7786"
       }
     },
     {
@@ -816,7 +816,7 @@
         ]
       },
       "properties": {
-        "Name": "Cambridge Housing Authority",
+        "organization_name": "Cambridge Housing Authority",
         "Family Housing (Ch.200)": "361",
         "Family Housing (Ch.705)": "42",
         "Elderly / Handicapped Housing (Ch.667)": "370",
@@ -826,7 +826,7 @@
         "address": "675 MASSACHUSETTS AVE",
         "town": "CAMBRIDGE",
         "zip": "02139",
-        "phone": "617-864-3020"
+        "phone_numbers": "617-864-3020"
       }
     },
     {
@@ -839,7 +839,7 @@
         ]
       },
       "properties": {
-        "Name": "Canton Housing Authority",
+        "organization_name": "Canton Housing Authority",
         "Family Housing (Ch.200)": "26",
         "Family Housing (Ch.705)": " 7",
         "Elderly / Handicapped Housing (Ch.667)": "204",
@@ -849,7 +849,7 @@
         "address": "P.O. BOX 333",
         "town": "CANTON",
         "zip": "02021",
-        "phone": "781-828-5144"
+        "phone_numbers": "781-828-5144"
       }
     },
     {
@@ -862,7 +862,7 @@
         ]
       },
       "properties": {
-        "Name": "Carver Housing Authority",
+        "organization_name": "Carver Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "8",
         "Elderly / Handicapped Housing (Ch.667)": "20",
@@ -872,7 +872,7 @@
         "address": "MEADOWBROOK WAY",
         "town": "CARVER",
         "zip": "02330",
-        "phone": "508-866-3115"
+        "phone_numbers": "508-866-3115"
       }
     },
     {
@@ -885,7 +885,7 @@
         ]
       },
       "properties": {
-        "Name": "Charlton Housing Authority",
+        "organization_name": "Charlton Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "6",
         "Elderly / Handicapped Housing (Ch.667)": "30",
@@ -895,7 +895,7 @@
         "address": "1 MEADOWVIEW DRIVE",
         "town": "CHARLTON",
         "zip": "01507",
-        "phone": "508-248-5067"
+        "phone_numbers": "508-248-5067"
       }
     },
     {
@@ -908,7 +908,7 @@
         ]
       },
       "properties": {
-        "Name": "Chatham Housing Authority",
+        "organization_name": "Chatham Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "12",
         "Elderly / Handicapped Housing (Ch.667)": "59",
@@ -918,7 +918,7 @@
         "address": "240 CROWELL ROAD",
         "town": "CHATHAM",
         "zip": "02633",
-        "phone": "508-945-0478"
+        "phone_numbers": "508-945-0478"
       }
     },
     {
@@ -931,7 +931,7 @@
         ]
       },
       "properties": {
-        "Name": "Chelmsford Housing Authority",
+        "organization_name": "Chelmsford Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "11",
         "Elderly / Handicapped Housing (Ch.667)": "176",
@@ -941,7 +941,7 @@
         "address": "10 WILSON STREET",
         "town": "CHELMSFORD",
         "zip": "01824",
-        "phone": "978-256-7425"
+        "phone_numbers": "978-256-7425"
       }
     },
     {
@@ -954,7 +954,7 @@
         ]
       },
       "properties": {
-        "Name": "Chelsea Housing Authority",
+        "organization_name": "Chelsea Housing Authority",
         "Family Housing (Ch.200)": "294",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "266",
@@ -964,7 +964,7 @@
         "address": "54 LOCKE STREET",
         "town": "CHELSEA",
         "zip": "02150",
-        "phone": "617-884-5617"
+        "phone_numbers": "617-884-5617"
       }
     },
     {
@@ -977,7 +977,7 @@
         ]
       },
       "properties": {
-        "Name": "Chicopee Housing Authority",
+        "organization_name": "Chicopee Housing Authority",
         "Family Housing (Ch.200)": "226",
         "Family Housing (Ch.705)": "80",
         "Elderly / Handicapped Housing (Ch.667)": "510",
@@ -987,7 +987,7 @@
         "address": "128 MEETINGHOUSE ROAD",
         "town": "CHICOPEE",
         "zip": "01013",
-        "phone": "413-592-6132"
+        "phone_numbers": "413-592-6132"
       }
     },
     {
@@ -1000,7 +1000,7 @@
         ]
       },
       "properties": {
-        "Name": "Clinton Housing Authority",
+        "organization_name": "Clinton Housing Authority",
         "Family Housing (Ch.200)": "34",
         "Family Housing (Ch.705)": " NULL",
         "Elderly / Handicapped Housing (Ch.667)": "135",
@@ -1010,7 +1010,7 @@
         "address": "58 FITCH ROAD",
         "town": "CLINTON",
         "zip": "01510",
-        "phone": "978-365-4150"
+        "phone_numbers": "978-365-4150"
       }
     },
     {
@@ -1023,7 +1023,7 @@
         ]
       },
       "properties": {
-        "Name": "Cohasset Housing Authority",
+        "organization_name": "Cohasset Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "64",
@@ -1033,7 +1033,7 @@
         "address": "60 ELM STREET",
         "town": "COHASSET",
         "zip": "02025",
-        "phone": "781-383-1948"
+        "phone_numbers": "781-383-1948"
       }
     },
     {
@@ -1046,7 +1046,7 @@
         ]
       },
       "properties": {
-        "Name": "Concord Housing Authority",
+        "organization_name": "Concord Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "28",
         "Elderly / Handicapped Housing (Ch.667)": "88",
@@ -1056,7 +1056,7 @@
         "address": "115 STOW STREET",
         "town": "CONCORD",
         "zip": "01742",
-        "phone": "978-369-8435"
+        "phone_numbers": "978-369-8435"
       }
     },
     {
@@ -1069,7 +1069,7 @@
         ]
       },
       "properties": {
-        "Name": "Dalton Housing Authority",
+        "organization_name": "Dalton Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "6",
         "Elderly / Handicapped Housing (Ch.667)": "72",
@@ -1079,7 +1079,7 @@
         "address": "293 HIGH STREET, Pine Grove Manor",
         "town": "DALTON",
         "zip": "01226",
-        "phone": "413-684-2493"
+        "phone_numbers": "413-684-2493"
       }
     },
     {
@@ -1092,7 +1092,7 @@
         ]
       },
       "properties": {
-        "Name": "Danvers Housing Authority",
+        "organization_name": "Danvers Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "16",
         "Elderly / Handicapped Housing (Ch.667)": "165",
@@ -1102,7 +1102,7 @@
         "address": "14 STONE STREET",
         "town": "DANVERS",
         "zip": "01923",
-        "phone": "978-777-0909"
+        "phone_numbers": "978-777-0909"
       }
     },
     {
@@ -1115,7 +1115,7 @@
         ]
       },
       "properties": {
-        "Name": "Dartmouth Housing Authority",
+        "organization_name": "Dartmouth Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "124",
@@ -1125,7 +1125,7 @@
         "address": "2 ANDERSON WAY",
         "town": "N. DARTMOUTH",
         "zip": "02747",
-        "phone": "508-994-1424"
+        "phone_numbers": "508-994-1424"
       }
     },
     {
@@ -1138,7 +1138,7 @@
         ]
       },
       "properties": {
-        "Name": "Dedham Housing Authority",
+        "organization_name": "Dedham Housing Authority",
         "Family Housing (Ch.200)": "106",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "205",
@@ -1148,7 +1148,7 @@
         "address": "163 DEDHAM BOULEVARD",
         "town": "DEDHAM",
         "zip": "02026",
-        "phone": "781-326-3543"
+        "phone_numbers": "781-326-3543"
       }
     },
     {
@@ -1161,7 +1161,7 @@
         ]
       },
       "properties": {
-        "Name": "Dennis Housing Authority",
+        "organization_name": "Dennis Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "20",
         "Elderly / Handicapped Housing (Ch.667)": "124",
@@ -1171,7 +1171,7 @@
         "address": "167 CENTRE STREET",
         "town": "SO. DENNIS",
         "zip": "02660",
-        "phone": "508-394-3120"
+        "phone_numbers": "508-394-3120"
       }
     },
     {
@@ -1184,7 +1184,7 @@
         ]
       },
       "properties": {
-        "Name": "Dighton Housing Authority",
+        "organization_name": "Dighton Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "64",
@@ -1194,7 +1194,7 @@
         "address": "300 LINCOLN AVE. ",
         "town": "NO. DIGHTON",
         "zip": "02764",
-        "phone": "508-823-8361"
+        "phone_numbers": "508-823-8361"
       }
     },
     {
@@ -1207,7 +1207,7 @@
         ]
       },
       "properties": {
-        "Name": "Dracut Housing Authority",
+        "organization_name": "Dracut Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "36",
         "Elderly / Handicapped Housing (Ch.667)": "133",
@@ -1217,7 +1217,7 @@
         "address": "971 MAMMOTH ROAD",
         "town": "DRACUT",
         "zip": "01826",
-        "phone": "508-957-3515"
+        "phone_numbers": "508-957-3515"
       }
     },
     {
@@ -1230,7 +1230,7 @@
         ]
       },
       "properties": {
-        "Name": "Dudley Housing Authority",
+        "organization_name": "Dudley Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "80",
@@ -1240,7 +1240,7 @@
         "address": "JOSHUA PLACE APARTMENTS",
         "town": "DUDLEY",
         "zip": "01570",
-        "phone": "508-949-0522"
+        "phone_numbers": "508-949-0522"
       }
     },
     {
@@ -1253,7 +1253,7 @@
         ]
       },
       "properties": {
-        "Name": "Dukes County Regional Housing",
+        "organization_name": "Dukes County Regional Housing",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "NULL",
@@ -1263,7 +1263,7 @@
         "address": "PO BOX 190",
         "town": "EDGARTOWN",
         "zip": "02539",
-        "phone": "508-645-9274"
+        "phone_numbers": "508-645-9274"
       }
     },
     {
@@ -1276,7 +1276,7 @@
         ]
       },
       "properties": {
-        "Name": "Duxbury Housing Authority",
+        "organization_name": "Duxbury Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "6",
         "Elderly / Handicapped Housing (Ch.667)": "52",
@@ -1286,7 +1286,7 @@
         "address": "59 CHESTNUT STREET",
         "town": "DUXBURY",
         "zip": "02332",
-        "phone": "781-934-6618"
+        "phone_numbers": "781-934-6618"
       }
     },
     {
@@ -1299,7 +1299,7 @@
         ]
       },
       "properties": {
-        "Name": "East Bridgewater Housing Authority",
+        "organization_name": "East Bridgewater Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "8",
         "Elderly / Handicapped Housing (Ch.667)": "129",
@@ -1309,7 +1309,7 @@
         "address": "38 RIDDELL ROAD",
         "town": "EAST BRIDGEWATER",
         "zip": "02333",
-        "phone": "508-378-3838"
+        "phone_numbers": "508-378-3838"
       }
     },
     {
@@ -1322,7 +1322,7 @@
         ]
       },
       "properties": {
-        "Name": "East Longmeadow Housing Authority",
+        "organization_name": "East Longmeadow Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "6",
         "Elderly / Handicapped Housing (Ch.667)": "188",
@@ -1332,7 +1332,7 @@
         "address": "81 QUARRY HILL",
         "town": "EAST LONGMEADOW",
         "zip": "01028",
-        "phone": "413-525-7057"
+        "phone_numbers": "413-525-7057"
       }
     },
     {
@@ -1345,7 +1345,7 @@
         ]
       },
       "properties": {
-        "Name": "Easthampton Housing Authority",
+        "organization_name": "Easthampton Housing Authority",
         "Family Housing (Ch.200)": "31",
         "Family Housing (Ch.705)": " 4",
         "Elderly / Handicapped Housing (Ch.667)": "151",
@@ -1355,7 +1355,7 @@
         "address": "112 HOLYOKE St.",
         "town": "EASTHAMPTON",
         "zip": "01027",
-        "phone": "413-527-1600"
+        "phone_numbers": "413-527-1600"
       }
     },
     {
@@ -1368,7 +1368,7 @@
         ]
       },
       "properties": {
-        "Name": "Easton Housing Authority",
+        "organization_name": "Easton Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "10",
         "Elderly / Handicapped Housing (Ch.667)": "184",
@@ -1378,7 +1378,7 @@
         "address": "PARKER TERRACE",
         "town": "NO. EASTON",
         "zip": "02356",
-        "phone": "508-238-4747"
+        "phone_numbers": "508-238-4747"
       }
     },
     {
@@ -1391,7 +1391,7 @@
         ]
       },
       "properties": {
-        "Name": "Essex Housing Authority",
+        "organization_name": "Essex Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "40",
@@ -1401,7 +1401,7 @@
         "address": "P.O. BOX 934",
         "town": "ESSEX",
         "zip": "01929",
-        "phone": "978-768-6821"
+        "phone_numbers": "978-768-6821"
       }
     },
     {
@@ -1414,7 +1414,7 @@
         ]
       },
       "properties": {
-        "Name": "Everett Housing Authority",
+        "organization_name": "Everett Housing Authority",
         "Family Housing (Ch.200)": "392",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "279",
@@ -1424,7 +1424,7 @@
         "address": "393 FERRY STREET",
         "town": "EVERETT",
         "zip": "02149",
-        "phone": "617-387-6389"
+        "phone_numbers": "617-387-6389"
       }
     },
     {
@@ -1437,7 +1437,7 @@
         ]
       },
       "properties": {
-        "Name": "Fairhaven Housing Authority",
+        "organization_name": "Fairhaven Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "6",
         "Elderly / Handicapped Housing (Ch.667)": "279",
@@ -1447,7 +1447,7 @@
         "address": "275 MAIN STREET",
         "town": "FAIRHAVEN",
         "zip": "02719",
-        "phone": "508-993-1144"
+        "phone_numbers": "508-993-1144"
       }
     },
     {
@@ -1460,7 +1460,7 @@
         ]
       },
       "properties": {
-        "Name": "Fall River Housing Authority",
+        "organization_name": "Fall River Housing Authority",
         "Family Housing (Ch.200)": "427",
         "Family Housing (Ch.705)": "33",
         "Elderly / Handicapped Housing (Ch.667)": "422",
@@ -1470,7 +1470,7 @@
         "address": "85 MORGAN ST. BOX 989",
         "town": "FALL RIVER",
         "zip": "02722",
-        "phone": "508-675-3500"
+        "phone_numbers": "508-675-3500"
       }
     },
     {
@@ -1483,7 +1483,7 @@
         ]
       },
       "properties": {
-        "Name": "Falmouth Housing Authority",
+        "organization_name": "Falmouth Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "25",
         "Elderly / Handicapped Housing (Ch.667)": "114",
@@ -1493,7 +1493,7 @@
         "address": "115 SCRANTON AVENUE",
         "town": "FALMOUTH",
         "zip": "02540",
-        "phone": "508-548-1977"
+        "phone_numbers": "508-548-1977"
       }
     },
     {
@@ -1506,7 +1506,7 @@
         ]
       },
       "properties": {
-        "Name": "Fitchburg Housing Authority",
+        "organization_name": "Fitchburg Housing Authority",
         "Family Housing (Ch.200)": "160",
         "Family Housing (Ch.705)": "15",
         "Elderly / Handicapped Housing (Ch.667)": "369",
@@ -1516,7 +1516,7 @@
         "address": "50 DAY STREET",
         "town": "FITCHBURG",
         "zip": "01420",
-        "phone": "978-342-5222"
+        "phone_numbers": "978-342-5222"
       }
     },
     {
@@ -1529,7 +1529,7 @@
         ]
       },
       "properties": {
-        "Name": "Foxborough Housing Authority",
+        "organization_name": "Foxborough Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "41",
         "Elderly / Handicapped Housing (Ch.667)": "104",
@@ -1539,7 +1539,7 @@
         "address": "90 N. CARL-ANNON COURT",
         "town": "FOXBOROUGH",
         "zip": "02035",
-        "phone": "508-543-5960"
+        "phone_numbers": "508-543-5960"
       }
     },
     {
@@ -1552,7 +1552,7 @@
         ]
       },
       "properties": {
-        "Name": "Framingham Housing Authority",
+        "organization_name": "Framingham Housing Authority",
         "Family Housing (Ch.200)": "185",
         "Family Housing (Ch.705)": "64",
         "Elderly / Handicapped Housing (Ch.667)": "561",
@@ -1562,7 +1562,7 @@
         "address": "1 JOHN J. BRADY DRIVE",
         "town": "FRAMINGHAM",
         "zip": "01702",
-        "phone": "508-879-7562"
+        "phone_numbers": "508-879-7562"
       }
     },
     {
@@ -1575,7 +1575,7 @@
         ]
       },
       "properties": {
-        "Name": "Franklin Housing Authority",
+        "organization_name": "Franklin Housing Authority",
         "Family Housing (Ch.200)": "28",
         "Family Housing (Ch.705)": " 5",
         "Elderly / Handicapped Housing (Ch.667)": "165",
@@ -1585,7 +1585,7 @@
         "address": "CENTRAL PARK TERRACE",
         "town": "FRANKLIN",
         "zip": "02038",
-        "phone": "508-528-2220"
+        "phone_numbers": "508-528-2220"
       }
     },
     {
@@ -1598,7 +1598,7 @@
         ]
       },
       "properties": {
-        "Name": "Franklin County Regional Housing",
+        "organization_name": "Franklin County Regional Housing",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "27",
         "Elderly / Handicapped Housing (Ch.667)": "71",
@@ -1608,7 +1608,7 @@
         "address": "42 CANAL ROAD, PO. BOX 30",
         "town": "TURNERS FALLS",
         "zip": "01376",
-        "phone": "413-863-9781"
+        "phone_numbers": "413-863-9781"
       }
     },
     {
@@ -1621,7 +1621,7 @@
         ]
       },
       "properties": {
-        "Name": "Gardner Housing Authority",
+        "organization_name": "Gardner Housing Authority",
         "Family Housing (Ch.200)": "67",
         "Family Housing (Ch.705)": " 13",
         "Elderly / Handicapped Housing (Ch.667)": "261",
@@ -1631,7 +1631,7 @@
         "address": "116 CHURCH STREET",
         "town": "GARDNER",
         "zip": "01440",
-        "phone": "978-632-6627"
+        "phone_numbers": "978-632-6627"
       }
     },
     {
@@ -1644,7 +1644,7 @@
         ]
       },
       "properties": {
-        "Name": "Georgetown Housing Authority",
+        "organization_name": "Georgetown Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "10",
         "Elderly / Handicapped Housing (Ch.667)": "126",
@@ -1654,7 +1654,7 @@
         "address": "23 TRESTLE WAY",
         "town": "GEORGETOWN",
         "zip": "01833",
-        "phone": "978-352-6331"
+        "phone_numbers": "978-352-6331"
       }
     },
     {
@@ -1667,7 +1667,7 @@
         ]
       },
       "properties": {
-        "Name": "Gloucester Housing Authority",
+        "organization_name": "Gloucester Housing Authority",
         "Family Housing (Ch.200)": "160",
         "Family Housing (Ch.705)": "15",
         "Elderly / Handicapped Housing (Ch.667)": "362",
@@ -1677,7 +1677,7 @@
         "address": "257 WASHINGTON ST. P.O. BOX 1599",
         "town": "GLOUCESTER",
         "zip": "01931",
-        "phone": "978-283-1234"
+        "phone_numbers": "978-283-1234"
       }
     },
     {
@@ -1690,7 +1690,7 @@
         ]
       },
       "properties": {
-        "Name": "Grafton Housing Authority",
+        "organization_name": "Grafton Housing Authority",
         "Family Housing (Ch.200)": "16",
         "Family Housing (Ch.705)": " 6",
         "Elderly / Handicapped Housing (Ch.667)": "128",
@@ -1700,7 +1700,7 @@
         "address": "10 MAXWELL DRIVE",
         "town": "NO. GRAFTON",
         "zip": "01536",
-        "phone": "508-839-6089"
+        "phone_numbers": "508-839-6089"
       }
     },
     {
@@ -1713,7 +1713,7 @@
         ]
       },
       "properties": {
-        "Name": "Granby Housing Authority",
+        "organization_name": "Granby Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "2",
         "Elderly / Handicapped Housing (Ch.667)": "56",
@@ -1723,7 +1723,7 @@
         "address": "50 PHIN'S HILL MANOR",
         "town": "GRANBY",
         "zip": "01033",
-        "phone": "413-467-9300"
+        "phone_numbers": "413-467-9300"
       }
     },
     {
@@ -1736,7 +1736,7 @@
         ]
       },
       "properties": {
-        "Name": "Greenfield Housing Authority",
+        "organization_name": "Greenfield Housing Authority",
         "Family Housing (Ch.200)": "72",
         "Family Housing (Ch.705)": " 40",
         "Elderly / Handicapped Housing (Ch.667)": "128",
@@ -1746,7 +1746,7 @@
         "address": "ONE ELM TERRACE",
         "town": "GREENFIELD",
         "zip": "01301",
-        "phone": "413-774-2932"
+        "phone_numbers": "413-774-2932"
       }
     },
     {
@@ -1759,7 +1759,7 @@
         ]
       },
       "properties": {
-        "Name": "Groton Housing Authority",
+        "organization_name": "Groton Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "7",
         "Elderly / Handicapped Housing (Ch.667)": "27",
@@ -1769,7 +1769,7 @@
         "address": "19 LOWELL RD",
         "town": "GROTON",
         "zip": "01450",
-        "phone": "978-448-3962"
+        "phone_numbers": "978-448-3962"
       }
     },
     {
@@ -1782,7 +1782,7 @@
         ]
       },
       "properties": {
-        "Name": "Groveland Housing Authority",
+        "organization_name": "Groveland Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "2",
         "Elderly / Handicapped Housing (Ch.667)": "NULL",
@@ -1792,7 +1792,7 @@
         "address": "10 RIVER PINES",
         "town": "GROVELAND",
         "zip": "01834",
-        "phone": "978-374-0370"
+        "phone_numbers": "978-374-0370"
       }
     },
     {
@@ -1805,7 +1805,7 @@
         ]
       },
       "properties": {
-        "Name": "Great Barrington Housing Authority",
+        "organization_name": "Great Barrington Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "16",
         "Elderly / Handicapped Housing (Ch.667)": "64",
@@ -1815,7 +1815,7 @@
         "address": "2 BERRNARD GIBBONS DR",
         "town": "GREAT BARRINGTON",
         "zip": "01230",
-        "phone": "413-274-1142"
+        "phone_numbers": "413-274-1142"
       }
     },
     {
@@ -1828,7 +1828,7 @@
         ]
       },
       "properties": {
-        "Name": "Hadley Housing Authority",
+        "organization_name": "Hadley Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "12",
         "Elderly / Handicapped Housing (Ch.667)": "40",
@@ -1838,7 +1838,7 @@
         "address": "42 GOLDEN COURT",
         "town": "HADLEY",
         "zip": "01035",
-        "phone": "413-584-3868"
+        "phone_numbers": "413-584-3868"
       }
     },
     {
@@ -1851,7 +1851,7 @@
         ]
       },
       "properties": {
-        "Name": "Halifax Housing Authority",
+        "organization_name": "Halifax Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "8",
         "Elderly / Handicapped Housing (Ch.667)": "20",
@@ -1861,7 +1861,7 @@
         "address": "1 PARSON LANE",
         "town": "HALIFAX",
         "zip": "02338",
-        "phone": "781-294-4520"
+        "phone_numbers": "781-294-4520"
       }
     },
     {
@@ -1874,7 +1874,7 @@
         ]
       },
       "properties": {
-        "Name": "Hamilton Housing Authority",
+        "organization_name": "Hamilton Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "7",
         "Elderly / Handicapped Housing (Ch.667)": "52",
@@ -1884,7 +1884,7 @@
         "address": "121 RAILROAD AVENUE",
         "town": "SO. HAMILTON",
         "zip": "01982",
-        "phone": "978-468-3981"
+        "phone_numbers": "978-468-3981"
       }
     },
     {
@@ -1897,7 +1897,7 @@
         ]
       },
       "properties": {
-        "Name": "Hampden Housing Authority",
+        "organization_name": "Hampden Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "56",
@@ -1907,7 +1907,7 @@
         "address": "26 SPRINGMEADOW LANE",
         "town": "HAMPDEN",
         "zip": "01036",
-        "phone": "413-566-8157"
+        "phone_numbers": "413-566-8157"
       }
     },
     {
@@ -1920,7 +1920,7 @@
         ]
       },
       "properties": {
-        "Name": "Hampshire County Regional Housing",
+        "organization_name": "Hampshire County Regional Housing",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "4",
         "Elderly / Handicapped Housing (Ch.667)": "36",
@@ -1930,7 +1930,7 @@
         "address": "RRI BOX A 15",
         "town": "CUMMINGTON",
         "zip": "01026",
-        "phone": "634-5000"
+        "phone_numbers": "634-5000"
       }
     },
     {
@@ -1943,7 +1943,7 @@
         ]
       },
       "properties": {
-        "Name": "Hanover Housing Authority",
+        "organization_name": "Hanover Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "NULL",
@@ -1953,7 +1953,7 @@
         "address": "TOWN HALL",
         "town": "HANOVER",
         "zip": "02339",
-        "phone": "781-826-8431"
+        "phone_numbers": "781-826-8431"
       }
     },
     {
@@ -1966,7 +1966,7 @@
         ]
       },
       "properties": {
-        "Name": "Hanson Housing Authority",
+        "organization_name": "Hanson Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "68",
@@ -1976,7 +1976,7 @@
         "address": "MEETINGHOUSE LANE",
         "town": "HANSON",
         "zip": "02341",
-        "phone": "781-293-7474"
+        "phone_numbers": "781-293-7474"
       }
     },
     {
@@ -1989,7 +1989,7 @@
         ]
       },
       "properties": {
-        "Name": "Harwich Housing Authority",
+        "organization_name": "Harwich Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "12",
         "Elderly / Handicapped Housing (Ch.667)": "NULL",
@@ -1999,7 +1999,7 @@
         "address": "38 SISSON RD, P.O. BOX 714",
         "town": "HARWICHPORT",
         "zip": "02646",
-        "phone": "508-430-2390"
+        "phone_numbers": "508-430-2390"
       }
     },
     {
@@ -2012,7 +2012,7 @@
         ]
       },
       "properties": {
-        "Name": "Hatfield Housing Authority",
+        "organization_name": "Hatfield Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "44",
@@ -2022,7 +2022,7 @@
         "address": "2 SCHOOL STREET",
         "town": "HATFIELD",
         "zip": "01038",
-        "phone": "413-247-9202"
+        "phone_numbers": "413-247-9202"
       }
     },
     {
@@ -2035,7 +2035,7 @@
         ]
       },
       "properties": {
-        "Name": "Haverhill Housing Authority",
+        "organization_name": "Haverhill Housing Authority",
         "Family Housing (Ch.200)": "104",
         "Family Housing (Ch.705)": "34",
         "Elderly / Handicapped Housing (Ch.667)": "302",
@@ -2045,7 +2045,7 @@
         "address": "P. O. BOX 751",
         "town": "HAVERHILL",
         "zip": "01831",
-        "phone": "508-372-6761"
+        "phone_numbers": "508-372-6761"
       }
     },
     {
@@ -2058,7 +2058,7 @@
         ]
       },
       "properties": {
-        "Name": "Hingham Housing Authority",
+        "organization_name": "Hingham Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "8",
         "Elderly / Handicapped Housing (Ch.667)": "84",
@@ -2068,7 +2068,7 @@
         "address": "30 THAXTER STREET",
         "town": "HINGHAM",
         "zip": "02043",
-        "phone": "781-741-1417"
+        "phone_numbers": "781-741-1417"
       }
     },
     {
@@ -2081,7 +2081,7 @@
         ]
       },
       "properties": {
-        "Name": "Holbrook Housing Authority",
+        "organization_name": "Holbrook Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "10",
         "Elderly / Handicapped Housing (Ch.667)": "74",
@@ -2091,7 +2091,7 @@
         "address": "ONE HOLBROOK COURT",
         "town": "HOLBROOK",
         "zip": "02343",
-        "phone": "781-767-0024"
+        "phone_numbers": "781-767-0024"
       }
     },
     {
@@ -2104,7 +2104,7 @@
         ]
       },
       "properties": {
-        "Name": "Holden Housing Authority",
+        "organization_name": "Holden Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "8",
         "Elderly / Handicapped Housing (Ch.667)": "48",
@@ -2114,7 +2114,7 @@
         "address": "9 FLAGLER DRIVE",
         "town": "HOLDEN",
         "zip": "01520",
-        "phone": "508-829-9182"
+        "phone_numbers": "508-829-9182"
       }
     },
     {
@@ -2127,7 +2127,7 @@
         ]
       },
       "properties": {
-        "Name": "Holliston Housing Authority",
+        "organization_name": "Holliston Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "6",
         "Elderly / Handicapped Housing (Ch.667)": "72",
@@ -2137,7 +2137,7 @@
         "address": "492 WASHINGTON ST. COLE COURT",
         "town": "HOLLISTON",
         "zip": "01746",
-        "phone": "508-429-6266"
+        "phone_numbers": "508-429-6266"
       }
     },
     {
@@ -2150,7 +2150,7 @@
         ]
       },
       "properties": {
-        "Name": "Holyoke Housing Authority",
+        "organization_name": "Holyoke Housing Authority",
         "Family Housing (Ch.200)": "217",
         "Family Housing (Ch.705)": "12",
         "Elderly / Handicapped Housing (Ch.667)": "60",
@@ -2160,7 +2160,7 @@
         "address": "475 MAPLE STREET",
         "town": "HOLYKOE",
         "zip": "01040",
-        "phone": "413-534-2220"
+        "phone_numbers": "413-534-2220"
       }
     },
     {
@@ -2173,7 +2173,7 @@
         ]
       },
       "properties": {
-        "Name": "Hopedale Housing Authority",
+        "organization_name": "Hopedale Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "80",
@@ -2183,7 +2183,7 @@
         "address": "BOX 182",
         "town": "HOPEDALE",
         "zip": "01747",
-        "phone": "508-473-8120"
+        "phone_numbers": "508-473-8120"
       }
     },
     {
@@ -2196,7 +2196,7 @@
         ]
       },
       "properties": {
-        "Name": "Hopkinton Housing Authority",
+        "organization_name": "Hopkinton Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "6",
         "Elderly / Handicapped Housing (Ch.667)": "92",
@@ -2206,7 +2206,7 @@
         "address": "100 DAVIS ROAD",
         "town": "HOPKINTON",
         "zip": "01748",
-        "phone": "508-435-6022"
+        "phone_numbers": "508-435-6022"
       }
     },
     {
@@ -2219,7 +2219,7 @@
         ]
       },
       "properties": {
-        "Name": "Hudson Housing Authority",
+        "organization_name": "Hudson Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "126",
@@ -2229,7 +2229,7 @@
         "address": "8 BRIGHAM CIRCLE",
         "town": "HUDSON",
         "zip": "01749",
-        "phone": "978-562-9268"
+        "phone_numbers": "978-562-9268"
       }
     },
     {
@@ -2242,7 +2242,7 @@
         ]
       },
       "properties": {
-        "Name": "Hull Housing Authority",
+        "organization_name": "Hull Housing Authority",
         "Family Housing (Ch.200)": "28",
         "Family Housing (Ch.705)": " NULL",
         "Elderly / Handicapped Housing (Ch.667)": "40",
@@ -2252,7 +2252,7 @@
         "address": "6 ATLANTIC HOUSE COURT",
         "town": "HULL",
         "zip": "02045",
-        "phone": "781-925-4544"
+        "phone_numbers": "781-925-4544"
       }
     },
     {
@@ -2265,7 +2265,7 @@
         ]
       },
       "properties": {
-        "Name": "Ipswich Housing Authority",
+        "organization_name": "Ipswich Housing Authority",
         "Family Housing (Ch.200)": "24",
         "Family Housing (Ch.705)": " 14",
         "Elderly / Handicapped Housing (Ch.667)": "200",
@@ -2275,7 +2275,7 @@
         "address": "ONE AGAWAM VILLAGE",
         "town": "IPSWICH",
         "zip": "01938",
-        "phone": "356-2860"
+        "phone_numbers": "356-2860"
       }
     },
     {
@@ -2288,7 +2288,7 @@
         ]
       },
       "properties": {
-        "Name": "Kingston Housing Authority",
+        "organization_name": "Kingston Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "48",
@@ -2298,7 +2298,7 @@
         "address": "15 HILLCREST ROAD",
         "town": "KINGSTON",
         "zip": "02364",
-        "phone": "781-585-8028"
+        "phone_numbers": "781-585-8028"
       }
     },
     {
@@ -2311,7 +2311,7 @@
         ]
       },
       "properties": {
-        "Name": "Lancaster Housing Authority",
+        "organization_name": "Lancaster Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "70",
@@ -2321,7 +2321,7 @@
         "address": "MAIN STREET, P.O. BOX 507",
         "town": "SO. LANCASTER",
         "zip": "01561",
-        "phone": " 978-365-3923"
+        "phone_numbers": " 978-365-3923"
       }
     },
     {
@@ -2334,7 +2334,7 @@
         ]
       },
       "properties": {
-        "Name": "Lawrence Housing Authority",
+        "organization_name": "Lawrence Housing Authority",
         "Family Housing (Ch.200)": "451",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "71",
@@ -2344,7 +2344,7 @@
         "address": "353 ELM STREET",
         "town": "LAWRENCE",
         "zip": "01842",
-        "phone": "978-683-2751"
+        "phone_numbers": "978-683-2751"
       }
     },
     {
@@ -2357,7 +2357,7 @@
         ]
       },
       "properties": {
-        "Name": "Lee Housing Authority",
+        "organization_name": "Lee Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "16",
         "Elderly / Handicapped Housing (Ch.667)": "48",
@@ -2367,7 +2367,7 @@
         "address": "155 MARBLE STREET",
         "town": "LEE",
         "zip": "01238",
-        "phone": "413-243-3464"
+        "phone_numbers": "413-243-3464"
       }
     },
     {
@@ -2380,7 +2380,7 @@
         ]
       },
       "properties": {
-        "Name": "Leicester Housing Authority",
+        "organization_name": "Leicester Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "124",
@@ -2390,7 +2390,7 @@
         "address": "1075 MAIN STREET",
         "town": "LEICESTER",
         "zip": "01524",
-        "phone": "508-892-4620"
+        "phone_numbers": "508-892-4620"
       }
     },
     {
@@ -2403,7 +2403,7 @@
         ]
       },
       "properties": {
-        "Name": "Lenox Housing Authority",
+        "organization_name": "Lenox Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "8",
         "Elderly / Handicapped Housing (Ch.667)": "102",
@@ -2413,7 +2413,7 @@
         "address": "6 MAIN STREET",
         "town": "LENOX",
         "zip": "01240",
-        "phone": ""
+        "phone_numbers": ""
       }
     },
     {
@@ -2426,7 +2426,7 @@
         ]
       },
       "properties": {
-        "Name": "Leominster Housing Authority",
+        "organization_name": "Leominster Housing Authority",
         "Family Housing (Ch.200)": "73",
         "Family Housing (Ch.705)": " 10",
         "Elderly / Handicapped Housing (Ch.667)": "343",
@@ -2436,7 +2436,7 @@
         "address": "100 MAIN STREET",
         "town": "LEOMINSTER",
         "zip": "01453",
-        "phone": "978-537-5300"
+        "phone_numbers": "978-537-5300"
       }
     },
     {
@@ -2449,7 +2449,7 @@
         ]
       },
       "properties": {
-        "Name": "Lexington Housing Authority",
+        "organization_name": "Lexington Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "1",
         "Elderly / Handicapped Housing (Ch.667)": "NULL",
@@ -2459,7 +2459,7 @@
         "address": "ONE COUNTRYSIDE VILLAGE",
         "town": "LEXINGTON",
         "zip": "02420",
-        "phone": "781-861-0900"
+        "phone_numbers": "781-861-0900"
       }
     },
     {
@@ -2472,7 +2472,7 @@
         ]
       },
       "properties": {
-        "Name": "Littleton Housing Authority",
+        "organization_name": "Littleton Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "12",
         "Elderly / Handicapped Housing (Ch.667)": "48",
@@ -2482,7 +2482,7 @@
         "address": "19 SHATTUCK STREET",
         "town": "LITTLETON",
         "zip": "01460",
-        "phone": "978-486-8833"
+        "phone_numbers": "978-486-8833"
       }
     },
     {
@@ -2495,7 +2495,7 @@
         ]
       },
       "properties": {
-        "Name": "Lowell Housing Authority",
+        "organization_name": "Lowell Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "64",
         "Elderly / Handicapped Housing (Ch.667)": "175",
@@ -2505,7 +2505,7 @@
         "address": "P. O. BOX 60",
         "town": "LOWELL",
         "zip": "01853",
-        "phone": "978-937-3500"
+        "phone_numbers": "978-937-3500"
       }
     },
     {
@@ -2518,7 +2518,7 @@
         ]
       },
       "properties": {
-        "Name": "Ludlow Housing Authority",
+        "organization_name": "Ludlow Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "16",
         "Elderly / Handicapped Housing (Ch.667)": "150",
@@ -2528,7 +2528,7 @@
         "address": "114 WILSON STREET",
         "town": "LUDLOW",
         "zip": "01056",
-        "phone": "413-589-7272"
+        "phone_numbers": "413-589-7272"
       }
     },
     {
@@ -2541,7 +2541,7 @@
         ]
       },
       "properties": {
-        "Name": "Lunenburg Housing Authority",
+        "organization_name": "Lunenburg Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "6",
         "Elderly / Handicapped Housing (Ch.667)": "48",
@@ -2551,7 +2551,7 @@
         "address": "C/O Leominster Housing Authority 100 MAIN STREET",
         "town": "LEOMINSTER",
         "zip": "01453",
-        "phone": "978-537-5300"
+        "phone_numbers": "978-537-5300"
       }
     },
     {
@@ -2564,7 +2564,7 @@
         ]
       },
       "properties": {
-        "Name": "Lynn Housing Authority",
+        "organization_name": "Lynn Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "35",
         "Elderly / Handicapped Housing (Ch.667)": "354",
@@ -2574,7 +2574,7 @@
         "address": "10 CHURCH STREET",
         "town": "LYNN",
         "zip": "01902",
-        "phone": "781-477-2800"
+        "phone_numbers": "781-477-2800"
       }
     },
     {
@@ -2587,7 +2587,7 @@
         ]
       },
       "properties": {
-        "Name": "Lynnfield Housing Authority",
+        "organization_name": "Lynnfield Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "64",
@@ -2597,7 +2597,7 @@
         "address": "600 ROSS DRIVE",
         "town": "LYNNFIELD",
         "zip": "01940",
-        "phone": "781-581-5783"
+        "phone_numbers": "781-581-5783"
       }
     },
     {
@@ -2610,7 +2610,7 @@
         ]
       },
       "properties": {
-        "Name": "Malden Housing Authority",
+        "organization_name": "Malden Housing Authority",
         "Family Housing (Ch.200)": "220",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "176",
@@ -2620,7 +2620,7 @@
         "address": "630 SALEM STREET",
         "town": "MALDEN",
         "zip": "02148",
-        "phone": "781-322-9460"
+        "phone_numbers": "781-322-9460"
       }
     },
     {
@@ -2633,7 +2633,7 @@
         ]
       },
       "properties": {
-        "Name": "Manchester Housing Authority",
+        "organization_name": "Manchester Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "4",
         "Elderly / Handicapped Housing (Ch.667)": "80",
@@ -2643,7 +2643,7 @@
         "address": "P.O.BOX  608",
         "town": "MANCHESTER",
         "zip": "01944",
-        "phone": "978-526-1850"
+        "phone_numbers": "978-526-1850"
       }
     },
     {
@@ -2656,7 +2656,7 @@
         ]
       },
       "properties": {
-        "Name": "Mansfield Housing Authority",
+        "organization_name": "Mansfield Housing Authority",
         "Family Housing (Ch.200)": "10",
         "Family Housing (Ch.705)": "13",
         "Elderly / Handicapped Housing (Ch.667)": "131",
@@ -2666,7 +2666,7 @@
         "address": "22 BICENTENNIAL COURT",
         "town": "MANSFIELD",
         "zip": "02048",
-        "phone": "508-339-6890"
+        "phone_numbers": "508-339-6890"
       }
     },
     {
@@ -2679,7 +2679,7 @@
         ]
       },
       "properties": {
-        "Name": "Marblehead Housing Authority",
+        "organization_name": "Marblehead Housing Authority",
         "Family Housing (Ch.200)": "76",
         "Family Housing (Ch.705)": " 8",
         "Elderly / Handicapped Housing (Ch.667)": "223",
@@ -2689,7 +2689,7 @@
         "address": "26 ROWLAND STREET",
         "town": "MARBLEHEAD",
         "zip": "01945",
-        "phone": ""
+        "phone_numbers": ""
       }
     },
     {
@@ -2702,7 +2702,7 @@
         ]
       },
       "properties": {
-        "Name": "Marlborough CD Authority",
+        "organization_name": "Marlborough CD Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "227",
@@ -2712,7 +2712,7 @@
         "address": "240 MAIN STREET",
         "town": "MARLBOROUGH",
         "zip": "01752",
-        "phone": "508-624-6908  "
+        "phone_numbers": "508-624-6908  "
       }
     },
     {
@@ -2725,7 +2725,7 @@
         ]
       },
       "properties": {
-        "Name": "Marshfield Housing Authority",
+        "organization_name": "Marshfield Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "16",
         "Elderly / Handicapped Housing (Ch.667)": "97",
@@ -2735,7 +2735,7 @@
         "address": "12 TEA ROCK GARDENS",
         "town": "MARSHFIELD",
         "zip": "02050",
-        "phone": "781-834-4333"
+        "phone_numbers": "781-834-4333"
       }
     },
     {
@@ -2748,7 +2748,7 @@
         ]
       },
       "properties": {
-        "Name": "Mashpee Housing Authority",
+        "organization_name": "Mashpee Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "6",
         "Elderly / Handicapped Housing (Ch.667)": "24",
@@ -2758,7 +2758,7 @@
         "address": "7 JOB'S FISHING RD",
         "town": "MASHPEE",
         "zip": "02649",
-        "phone": "508-477-6202"
+        "phone_numbers": "508-477-6202"
       }
     },
     {
@@ -2771,7 +2771,7 @@
         ]
       },
       "properties": {
-        "Name": "Mattapoisett Housing Authority",
+        "organization_name": "Mattapoisett Housing Authority",
         "Family Housing (Ch.200)": "10",
         "Family Housing (Ch.705)": " NULL",
         "Elderly / Handicapped Housing (Ch.667)": "54",
@@ -2781,7 +2781,7 @@
         "address": "ONE ACUSHNET RD. BOX 358",
         "town": "MATTAPOISETT",
         "zip": "02739",
-        "phone": "508-758-4664"
+        "phone_numbers": "508-758-4664"
       }
     },
     {
@@ -2794,7 +2794,7 @@
         ]
       },
       "properties": {
-        "Name": "Maynard Housing Authority",
+        "organization_name": "Maynard Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "112",
@@ -2804,7 +2804,7 @@
         "address": "15 POWDERMILL CIRCLE",
         "town": "MAYNARD",
         "zip": "01754",
-        "phone": "508-897-8738"
+        "phone_numbers": "508-897-8738"
       }
     },
     {
@@ -2817,7 +2817,7 @@
         ]
       },
       "properties": {
-        "Name": "Medfield Housing Authority",
+        "organization_name": "Medfield Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "60",
@@ -2827,7 +2827,7 @@
         "address": "TILDEN VILLAGE, 30 POUND ST.",
         "town": "MEDFIELD",
         "zip": "02052",
-        "phone": "508-359-6454"
+        "phone_numbers": "508-359-6454"
       }
     },
     {
@@ -2840,7 +2840,7 @@
         ]
       },
       "properties": {
-        "Name": "Medford Housing Authority",
+        "organization_name": "Medford Housing Authority",
         "Family Housing (Ch.200)": "0",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "144",
@@ -2850,7 +2850,7 @@
         "address": "121 RIVERSIDE AVENUE",
         "town": "MEDFORD",
         "zip": "02155",
-        "phone": "781-396-7200"
+        "phone_numbers": "781-396-7200"
       }
     },
     {
@@ -2863,7 +2863,7 @@
         ]
       },
       "properties": {
-        "Name": "Medway Housing Authority",
+        "organization_name": "Medway Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "94",
@@ -2873,7 +2873,7 @@
         "address": "MAHAN CIRCLE",
         "town": "MEDWAY",
         "zip": "02053",
-        "phone": "508-533-2434"
+        "phone_numbers": "508-533-2434"
       }
     },
     {
@@ -2886,7 +2886,7 @@
         ]
       },
       "properties": {
-        "Name": "Melrose Housing Authority",
+        "organization_name": "Melrose Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "17",
         "Elderly / Handicapped Housing (Ch.667)": "305",
@@ -2896,7 +2896,7 @@
         "address": "910 MAIN STREET",
         "town": "MELROSE",
         "zip": "02176",
-        "phone": "781-665-1622"
+        "phone_numbers": "781-665-1622"
       }
     },
     {
@@ -2909,7 +2909,7 @@
         ]
       },
       "properties": {
-        "Name": "Mendon Housing Authority",
+        "organization_name": "Mendon Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "30",
@@ -2919,7 +2919,7 @@
         "address": "9 BLACKSTONE ST. BOX 55",
         "town": "MENDON",
         "zip": "01756",
-        "phone": "508-473-9130"
+        "phone_numbers": "508-473-9130"
       }
     },
     {
@@ -2932,7 +2932,7 @@
         ]
       },
       "properties": {
-        "Name": "Merrimac Housing Authority",
+        "organization_name": "Merrimac Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "4",
         "Elderly / Handicapped Housing (Ch.667)": "48",
@@ -2942,7 +2942,7 @@
         "address": "52 MERRI VILLAGE",
         "town": "MERRIMAC",
         "zip": "01860",
-        "phone": ""
+        "phone_numbers": ""
       }
     },
     {
@@ -2955,7 +2955,7 @@
         ]
       },
       "properties": {
-        "Name": "Methuen Housing Authority",
+        "organization_name": "Methuen Housing Authority",
         "Family Housing (Ch.200)": "60",
         "Family Housing (Ch.705)": " 14",
         "Elderly / Handicapped Housing (Ch.667)": "297",
@@ -2965,7 +2965,7 @@
         "address": "24 MYSTIC STREET",
         "town": "METHUEN",
         "zip": "01844",
-        "phone": "978-682-8607  "
+        "phone_numbers": "978-682-8607  "
       }
     },
     {
@@ -2978,7 +2978,7 @@
         ]
       },
       "properties": {
-        "Name": "Middleborough Housing Authority",
+        "organization_name": "Middleborough Housing Authority",
         "Family Housing (Ch.200)": "28",
         "Family Housing (Ch.705)": " NULL",
         "Elderly / Handicapped Housing (Ch.667)": "154",
@@ -2988,7 +2988,7 @@
         "address": "P.O. BOX 502",
         "town": "MIDDLEBOROUGH",
         "zip": "02346",
-        "phone": "508-947-3824"
+        "phone_numbers": "508-947-3824"
       }
     },
     {
@@ -3001,7 +3001,7 @@
         ]
       },
       "properties": {
-        "Name": "Middleton Housing Authority",
+        "organization_name": "Middleton Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "12",
         "Elderly / Handicapped Housing (Ch.667)": "54",
@@ -3011,7 +3011,7 @@
         "address": "ORCHARD CIRCLE",
         "town": "MIDDLETON",
         "zip": "01949",
-        "phone": "978-774-4333"
+        "phone_numbers": "978-774-4333"
       }
     },
     {
@@ -3024,7 +3024,7 @@
         ]
       },
       "properties": {
-        "Name": "Milford Housing Authority",
+        "organization_name": "Milford Housing Authority",
         "Family Housing (Ch.200)": "69",
         "Family Housing (Ch.705)": " 23",
         "Elderly / Handicapped Housing (Ch.667)": "180",
@@ -3034,7 +3034,7 @@
         "address": "45 BIRMINGHAM COURT",
         "town": "MILFORD",
         "zip": "01757",
-        "phone": "508-473-9521"
+        "phone_numbers": "508-473-9521"
       }
     },
     {
@@ -3047,7 +3047,7 @@
         ]
       },
       "properties": {
-        "Name": "Millbury Housing Authority",
+        "organization_name": "Millbury Housing Authority",
         "Family Housing (Ch.200)": "25",
         "Family Housing (Ch.705)": " 13",
         "Elderly / Handicapped Housing (Ch.667)": "169",
@@ -3057,7 +3057,7 @@
         "address": "89 ELM STREET",
         "town": "MILLBURY",
         "zip": "01527",
-        "phone": "508-865-2660"
+        "phone_numbers": "508-865-2660"
       }
     },
     {
@@ -3070,7 +3070,7 @@
         ]
       },
       "properties": {
-        "Name": "Millis Housing Authority",
+        "organization_name": "Millis Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "10",
         "Elderly / Handicapped Housing (Ch.667)": "73",
@@ -3080,7 +3080,7 @@
         "address": "KENNEDY TERRACE",
         "town": "MILLIS",
         "zip": "02054",
-        "phone": "508-376-8181"
+        "phone_numbers": "508-376-8181"
       }
     },
     {
@@ -3093,7 +3093,7 @@
         ]
       },
       "properties": {
-        "Name": "Milton Housing Authority",
+        "organization_name": "Milton Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "12",
         "Elderly / Handicapped Housing (Ch.667)": "39",
@@ -3103,7 +3103,7 @@
         "address": "65 MILLER AVENUE",
         "town": "MILTON",
         "zip": "02186",
-        "phone": "617-698-2169"
+        "phone_numbers": "617-698-2169"
       }
     },
     {
@@ -3116,7 +3116,7 @@
         ]
       },
       "properties": {
-        "Name": "Monson Housing Authority",
+        "organization_name": "Monson Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "17",
         "Elderly / Handicapped Housing (Ch.667)": "78",
@@ -3126,7 +3126,7 @@
         "address": "50 COLONIAL VILLAGE",
         "town": "MONSON",
         "zip": "01057",
-        "phone": "413-267-4047"
+        "phone_numbers": "413-267-4047"
       }
     },
     {
@@ -3139,7 +3139,7 @@
         ]
       },
       "properties": {
-        "Name": "Montague Housing Authority",
+        "organization_name": "Montague Housing Authority",
         "Family Housing (Ch.200)": "30",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "80",
@@ -3149,7 +3149,7 @@
         "address": "41 SUNRISE TERRACE",
         "town": "TURNER FALLS",
         "zip": "01376",
-        "phone": "413-863-8445"
+        "phone_numbers": "413-863-8445"
       }
     },
     {
@@ -3162,7 +3162,7 @@
         ]
       },
       "properties": {
-        "Name": "North Andover Housing Authority",
+        "organization_name": "North Andover Housing Authority",
         "Family Housing (Ch.200)": "24",
         "Family Housing (Ch.705)": " 2",
         "Elderly / Handicapped Housing (Ch.667)": "164",
@@ -3172,7 +3172,7 @@
         "address": "P. O. BOX 66",
         "town": "NORTH ATTLEBORO",
         "zip": "02761",
-        "phone": "695-5142"
+        "phone_numbers": "695-5142"
       }
     },
     {
@@ -3185,7 +3185,7 @@
         ]
       },
       "properties": {
-        "Name": "North Attleborough Housing Authority",
+        "organization_name": "North Attleborough Housing Authority",
         "Family Housing (Ch.200)": "20",
         "Family Housing (Ch.705)": " 14",
         "Elderly / Handicapped Housing (Ch.667)": "226",
@@ -3195,7 +3195,7 @@
         "address": "P. O. BOX 66",
         "town": "NORTH ATTLEBORO",
         "zip": "02761",
-        "phone": "695-5142"
+        "phone_numbers": "695-5142"
       }
     },
     {
@@ -3208,7 +3208,7 @@
         ]
       },
       "properties": {
-        "Name": "North Brookfield Housing Authority",
+        "organization_name": "North Brookfield Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "14",
         "Elderly / Handicapped Housing (Ch.667)": "64",
@@ -3218,7 +3218,7 @@
         "address": "271 NORTH MAIN STREET",
         "town": "NORTH BROOKFIELD",
         "zip": "01535",
-        "phone": "508-867-2826  "
+        "phone_numbers": "508-867-2826  "
       }
     },
     {
@@ -3231,7 +3231,7 @@
         ]
       },
       "properties": {
-        "Name": "North Reading Housing Authority",
+        "organization_name": "North Reading Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "4",
         "Elderly / Handicapped Housing (Ch.667)": "40",
@@ -3241,7 +3241,7 @@
         "address": "PEABODY COURT",
         "town": "NORTH READING",
         "zip": "01864",
-        "phone": "978-664-2982"
+        "phone_numbers": "978-664-2982"
       }
     },
     {
@@ -3254,7 +3254,7 @@
         ]
       },
       "properties": {
-        "Name": "Nahant Housing Authority",
+        "organization_name": "Nahant Housing Authority",
         "Family Housing (Ch.200)": "14",
         "Family Housing (Ch.705)": " 5",
         "Elderly / Handicapped Housing (Ch.667)": "29",
@@ -3264,7 +3264,7 @@
         "address": "P.O. BOX 40",
         "town": "NAHANT",
         "zip": "01908",
-        "phone": "781-581-9623"
+        "phone_numbers": "781-581-9623"
       }
     },
     {
@@ -3277,7 +3277,7 @@
         ]
       },
       "properties": {
-        "Name": "Nantucket Housing Authority",
+        "organization_name": "Nantucket Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "12",
         "Elderly / Handicapped Housing (Ch.667)": "10",
@@ -3287,7 +3287,7 @@
         "address": "3 MANTA DR",
         "town": "NANTUCKET",
         "zip": "02554",
-        "phone": "508-228-0296"
+        "phone_numbers": "508-228-0296"
       }
     },
     {
@@ -3300,7 +3300,7 @@
         ]
       },
       "properties": {
-        "Name": "Natick Housing Authority",
+        "organization_name": "Natick Housing Authority",
         "Family Housing (Ch.200)": "52",
         "Family Housing (Ch.705)": " 37",
         "Elderly / Handicapped Housing (Ch.667)": "325",
@@ -3310,7 +3310,7 @@
         "address": "4 COTTAGE STREET",
         "town": "NATICK",
         "zip": "01760",
-        "phone": "508-653-2971"
+        "phone_numbers": "508-653-2971"
       }
     },
     {
@@ -3323,7 +3323,7 @@
         ]
       },
       "properties": {
-        "Name": "Needham Housing Authority",
+        "organization_name": "Needham Housing Authority",
         "Family Housing (Ch.200)": "80",
         "Family Housing (Ch.705)": " NULL",
         "Elderly / Handicapped Housing (Ch.667)": "152",
@@ -3333,7 +3333,7 @@
         "address": "28 ROBERT COOK DRIVE",
         "town": "NEEDHAM",
         "zip": "02192",
-        "phone": "781-444-3011"
+        "phone_numbers": "781-444-3011"
       }
     },
     {
@@ -3346,7 +3346,7 @@
         ]
       },
       "properties": {
-        "Name": "New Bedford Housing Authority",
+        "organization_name": "New Bedford Housing Authority",
         "Family Housing (Ch.200)": "330",
         "Family Housing (Ch.705)": "169",
         "Elderly / Handicapped Housing (Ch.667)": "389",
@@ -3356,7 +3356,7 @@
         "address": "P.O. BOX 2081",
         "town": "NEW BEDFORD",
         "zip": "02741",
-        "phone": "508-997-4800"
+        "phone_numbers": "508-997-4800"
       }
     },
     {
@@ -3369,7 +3369,7 @@
         ]
       },
       "properties": {
-        "Name": "Newburyport Housing Authority",
+        "organization_name": "Newburyport Housing Authority",
         "Family Housing (Ch.200)": "42",
         "Family Housing (Ch.705)": " NULL",
         "Elderly / Handicapped Housing (Ch.667)": "100",
@@ -3379,7 +3379,7 @@
         "address": "25 TEMPLE STREET",
         "town": "NEWBURYPORT",
         "zip": "01950",
-        "phone": "508-465-7216"
+        "phone_numbers": "508-465-7216"
       }
     },
     {
@@ -3392,7 +3392,7 @@
         ]
       },
       "properties": {
-        "Name": "Newton Housing Authority",
+        "organization_name": "Newton Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "79",
         "Elderly / Handicapped Housing (Ch.667)": "136",
@@ -3402,7 +3402,7 @@
         "address": "82 LINCOLN STREET",
         "town": "NEWTON",
         "zip": "02160",
-        "phone": "617-552-5501"
+        "phone_numbers": "617-552-5501"
       }
     },
     {
@@ -3415,7 +3415,7 @@
         ]
       },
       "properties": {
-        "Name": "Norfolk Housing Authority",
+        "organization_name": "Norfolk Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "20",
         "Elderly / Handicapped Housing (Ch.667)": "64",
@@ -3425,7 +3425,7 @@
         "address": "33 ROCKWOOD RD., BOX 293",
         "town": "NORFOLK",
         "zip": "02056",
-        "phone": "508-528-4800"
+        "phone_numbers": "508-528-4800"
       }
     },
     {
@@ -3438,7 +3438,7 @@
         ]
       },
       "properties": {
-        "Name": "North Adams Housing Authority",
+        "organization_name": "North Adams Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "NULL",
@@ -3448,7 +3448,7 @@
         "address": "150 ASHLAND ST. BOX 51",
         "town": "NORTH ADAMS",
         "zip": "01247",
-        "phone": "413-663-5379"
+        "phone_numbers": "413-663-5379"
       }
     },
     {
@@ -3461,7 +3461,7 @@
         ]
       },
       "properties": {
-        "Name": "Northampton Housing Authority",
+        "organization_name": "Northampton Housing Authority",
         "Family Housing (Ch.200)": "80",
         "Family Housing (Ch.705)": "12",
         "Elderly / Handicapped Housing (Ch.667)": "383",
@@ -3471,7 +3471,7 @@
         "address": "49 OLD SOUTH STREET",
         "town": "NORTHAMPTON",
         "zip": "01060",
-        "phone": "413-584-4030  "
+        "phone_numbers": "413-584-4030  "
       }
     },
     {
@@ -3484,7 +3484,7 @@
         ]
       },
       "properties": {
-        "Name": "Northborough Housing Authority",
+        "organization_name": "Northborough Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "26",
         "Elderly / Handicapped Housing (Ch.667)": "104",
@@ -3494,7 +3494,7 @@
         "address": "26 VILLAGE DRIVE",
         "town": "NORTHBOROUGH",
         "zip": "01532",
-        "phone": "508-393-2408"
+        "phone_numbers": "508-393-2408"
       }
     },
     {
@@ -3507,7 +3507,7 @@
         ]
       },
       "properties": {
-        "Name": "Northbridge Housing Authority",
+        "organization_name": "Northbridge Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "76",
@@ -3517,7 +3517,7 @@
         "address": "COLONIAL DRIVE",
         "town": "NORTHBRIDGE",
         "zip": "01588",
-        "phone": "508-234-7736"
+        "phone_numbers": "508-234-7736"
       }
     },
     {
@@ -3530,7 +3530,7 @@
         ]
       },
       "properties": {
-        "Name": "Norton Housing Authority",
+        "organization_name": "Norton Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "14",
         "Elderly / Handicapped Housing (Ch.667)": "130",
@@ -3540,7 +3540,7 @@
         "address": "120 WEST MAIN STREET",
         "town": "NORTON",
         "zip": "02766",
-        "phone": "508-285-3929"
+        "phone_numbers": "508-285-3929"
       }
     },
     {
@@ -3553,7 +3553,7 @@
         ]
       },
       "properties": {
-        "Name": "Norwell Housing Authority",
+        "organization_name": "Norwell Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "80",
@@ -3563,7 +3563,7 @@
         "address": "399 WASHINGTON STREET",
         "town": "NORWELL",
         "zip": "02061",
-        "phone": "781-659-7690"
+        "phone_numbers": "781-659-7690"
       }
     },
     {
@@ -3576,7 +3576,7 @@
         ]
       },
       "properties": {
-        "Name": "Norwood Housing Authority",
+        "organization_name": "Norwood Housing Authority",
         "Family Housing (Ch.200)": "75",
         "Family Housing (Ch.705)": " NULL",
         "Elderly / Handicapped Housing (Ch.667)": "293",
@@ -3586,7 +3586,7 @@
         "address": "40 WILLIAM SHYNE CIRCLE",
         "town": "NORWOOD",
         "zip": "02062",
-        "phone": "781-762-8115"
+        "phone_numbers": "781-762-8115"
       }
     },
     {
@@ -3599,7 +3599,7 @@
         ]
       },
       "properties": {
-        "Name": "Orange Housing Authority",
+        "organization_name": "Orange Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "8",
         "Elderly / Handicapped Housing (Ch.667)": "56",
@@ -3609,7 +3609,7 @@
         "address": "200 EAST RIVER ST. BLDG #3",
         "town": "ORANGE",
         "zip": "01364",
-        "phone": "978-544-6000"
+        "phone_numbers": "978-544-6000"
       }
     },
     {
@@ -3622,7 +3622,7 @@
         ]
       },
       "properties": {
-        "Name": "Orleans Housing Authority",
+        "organization_name": "Orleans Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "11",
         "Elderly / Handicapped Housing (Ch.667)": "100",
@@ -3632,7 +3632,7 @@
         "address": "94 HOPKINS LANE",
         "town": "ORLEANS",
         "zip": "02653",
-        "phone": "508-255-0064"
+        "phone_numbers": "508-255-0064"
       }
     },
     {
@@ -3645,7 +3645,7 @@
         ]
       },
       "properties": {
-        "Name": "Oxford Housing Authority",
+        "organization_name": "Oxford Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "14",
         "Elderly / Handicapped Housing (Ch.667)": "166",
@@ -3655,7 +3655,7 @@
         "address": "23 WHEELOCK STREET",
         "town": "OXFORD",
         "zip": "01540",
-        "phone": "508-987-5055"
+        "phone_numbers": "508-987-5055"
       }
     },
     {
@@ -3668,7 +3668,7 @@
         ]
       },
       "properties": {
-        "Name": "Palmer Housing Authority",
+        "organization_name": "Palmer Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "48",
@@ -3678,7 +3678,7 @@
         "address": "13 FLETCHER STREET",
         "town": "PALMER",
         "zip": "01069",
-        "phone": "413-283-9311"
+        "phone_numbers": "413-283-9311"
       }
     },
     {
@@ -3691,7 +3691,7 @@
         ]
       },
       "properties": {
-        "Name": "Peabody Housing Authority",
+        "organization_name": "Peabody Housing Authority",
         "Family Housing (Ch.200)": "92",
         "Family Housing (Ch.705)": "45",
         "Elderly / Handicapped Housing (Ch.667)": "346",
@@ -3701,7 +3701,7 @@
         "address": "75-81 CENTRAL STREET",
         "town": "PEABODY",
         "zip": "01960",
-        "phone": ""
+        "phone_numbers": ""
       }
     },
     {
@@ -3714,7 +3714,7 @@
         ]
       },
       "properties": {
-        "Name": "Pembroke Housing Authority",
+        "organization_name": "Pembroke Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "7",
         "Elderly / Handicapped Housing (Ch.667)": "116",
@@ -3724,7 +3724,7 @@
         "address": "KILCOMMONS DR",
         "town": "PEMBROKE",
         "zip": "02359",
-        "phone": "781-293-3088  "
+        "phone_numbers": "781-293-3088  "
       }
     },
     {
@@ -3737,7 +3737,7 @@
         ]
       },
       "properties": {
-        "Name": "Pepperell Housing Authority",
+        "organization_name": "Pepperell Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "7",
         "Elderly / Handicapped Housing (Ch.667)": "63",
@@ -3747,7 +3747,7 @@
         "address": "4 FOSTER ST",
         "town": "E. PEPPERELL",
         "zip": "01463",
-        "phone": "978-433-9882"
+        "phone_numbers": "978-433-9882"
       }
     },
     {
@@ -3760,7 +3760,7 @@
         ]
       },
       "properties": {
-        "Name": "Pittsfield Housing Authority",
+        "organization_name": "Pittsfield Housing Authority",
         "Family Housing (Ch.200)": "127",
         "Family Housing (Ch.705)": "43",
         "Elderly / Handicapped Housing (Ch.667)": "377",
@@ -3770,7 +3770,7 @@
         "address": "65 COLUMBUS AVE.",
         "town": "PITTSFIELD",
         "zip": "01201-",
-        "phone": "413-443-5936"
+        "phone_numbers": "413-443-5936"
       }
     },
     {
@@ -3783,7 +3783,7 @@
         ]
       },
       "properties": {
-        "Name": "Plainville Housing Authority",
+        "organization_name": "Plainville Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "40",
@@ -3793,7 +3793,7 @@
         "address": "140 EAST BACON ST.",
         "town": "PLAINVILLE",
         "zip": "02762",
-        "phone": "508-699-4212"
+        "phone_numbers": "508-699-4212"
       }
     },
     {
@@ -3806,7 +3806,7 @@
         ]
       },
       "properties": {
-        "Name": "Plymouth Housing Authority",
+        "organization_name": "Plymouth Housing Authority",
         "Family Housing (Ch.200)": "40",
         "Family Housing (Ch.705)": " 5",
         "Elderly / Handicapped Housing (Ch.667)": "191",
@@ -3816,7 +3816,7 @@
         "address": "69 ALLERTON ST., BOX 3537",
         "town": "PLYMOUTH",
         "zip": "02361",
-        "phone": "508-746-2105"
+        "phone_numbers": "508-746-2105"
       }
     },
     {
@@ -3829,7 +3829,7 @@
         ]
       },
       "properties": {
-        "Name": "Provincetown Housing Authority",
+        "organization_name": "Provincetown Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "10",
         "Elderly / Handicapped Housing (Ch.667)": "24",
@@ -3839,7 +3839,7 @@
         "address": "44 HARRY KEMP WAY",
         "town": "PROVINCETOWN",
         "zip": "02657",
-        "phone": "508-487-0434"
+        "phone_numbers": "508-487-0434"
       }
     },
     {
@@ -3852,7 +3852,7 @@
         ]
       },
       "properties": {
-        "Name": "Quincy Housing Authority",
+        "organization_name": "Quincy Housing Authority",
         "Family Housing (Ch.200)": "400",
         "Family Housing (Ch.705)": "39",
         "Elderly / Handicapped Housing (Ch.667)": "470",
@@ -3862,7 +3862,7 @@
         "address": "80 CLAY STREET",
         "town": "QUNICY",
         "zip": "02170",
-        "phone": "617-847-4350"
+        "phone_numbers": "617-847-4350"
       }
     },
     {
@@ -3875,7 +3875,7 @@
         ]
       },
       "properties": {
-        "Name": "Randolph Housing Authority",
+        "organization_name": "Randolph Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "236",
@@ -3885,7 +3885,7 @@
         "address": "ONE DECELLE DRIVE",
         "town": "RANDOLPH",
         "zip": "02368",
-        "phone": "781-963-1990"
+        "phone_numbers": "781-963-1990"
       }
     },
     {
@@ -3898,7 +3898,7 @@
         ]
       },
       "properties": {
-        "Name": "Raynham Housing Authority",
+        "organization_name": "Raynham Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "62",
@@ -3908,7 +3908,7 @@
         "address": "75 MILL STREET",
         "town": "RAYNHAM",
         "zip": "02767",
-        "phone": "508-824-9404"
+        "phone_numbers": "508-824-9404"
       }
     },
     {
@@ -3921,7 +3921,7 @@
         ]
       },
       "properties": {
-        "Name": "Reading Housing Authority",
+        "organization_name": "Reading Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "10",
         "Elderly / Handicapped Housing (Ch.667)": "80",
@@ -3931,7 +3931,7 @@
         "address": "22 FRANK D. TANNER DRIVE",
         "town": "READING",
         "zip": "01867",
-        "phone": "781-944-6755"
+        "phone_numbers": "781-944-6755"
       }
     },
     {
@@ -3944,7 +3944,7 @@
         ]
       },
       "properties": {
-        "Name": "Revere Housing Authority",
+        "organization_name": "Revere Housing Authority",
         "Family Housing (Ch.200)": "286",
         "Family Housing (Ch.705)": "69",
         "Elderly / Handicapped Housing (Ch.667)": "351",
@@ -3954,7 +3954,7 @@
         "address": "70 COOLEDGE STREET",
         "town": "REVERE",
         "zip": "02151",
-        "phone": "781-284-4394"
+        "phone_numbers": "781-284-4394"
       }
     },
     {
@@ -3967,7 +3967,7 @@
         ]
       },
       "properties": {
-        "Name": "Rockland Housing Authority",
+        "organization_name": "Rockland Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "42",
@@ -3977,7 +3977,7 @@
         "address": "8 STUDLEY COURT",
         "town": "ROCKAND",
         "zip": "02370",
-        "phone": ""
+        "phone_numbers": ""
       }
     },
     {
@@ -3990,7 +3990,7 @@
         ]
       },
       "properties": {
-        "Name": "Rockport Housing Authority",
+        "organization_name": "Rockport Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "24",
         "Elderly / Handicapped Housing (Ch.667)": "80",
@@ -4000,7 +4000,7 @@
         "address": "13 MILLBROOK PARK",
         "town": "ROCKPORT",
         "zip": "01966",
-        "phone": "978-546-3181"
+        "phone_numbers": "978-546-3181"
       }
     },
     {
@@ -4013,7 +4013,7 @@
         ]
       },
       "properties": {
-        "Name": "Rowley Housing Authority",
+        "organization_name": "Rowley Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "12",
         "Elderly / Handicapped Housing (Ch.667)": "42",
@@ -4023,7 +4023,7 @@
         "address": "PLANTATION DRIVE",
         "town": "ROWLEY",
         "zip": "01969",
-        "phone": "978-948-2371"
+        "phone_numbers": "978-948-2371"
       }
     },
     {
@@ -4036,7 +4036,7 @@
         ]
       },
       "properties": {
-        "Name": "Salem Housing Authority",
+        "organization_name": "Salem Housing Authority",
         "Family Housing (Ch.200)": "168",
         "Family Housing (Ch.705)": "42",
         "Elderly / Handicapped Housing (Ch.667)": "465",
@@ -4046,7 +4046,7 @@
         "address": "27 CHARTER STREET",
         "town": "SALEM",
         "zip": "01970",
-        "phone": "978-744-4432"
+        "phone_numbers": "978-744-4432"
       }
     },
     {
@@ -4059,7 +4059,7 @@
         ]
       },
       "properties": {
-        "Name": "Salisbury Housing Authority",
+        "organization_name": "Salisbury Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "80",
@@ -4069,7 +4069,7 @@
         "address": "23 BEACH ROAD",
         "town": "SALISBURY",
         "zip": "01950",
-        "phone": "978-462-8600"
+        "phone_numbers": "978-462-8600"
       }
     },
     {
@@ -4082,7 +4082,7 @@
         ]
       },
       "properties": {
-        "Name": "Sandwich Housing Authority",
+        "organization_name": "Sandwich Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "13",
         "Elderly / Handicapped Housing (Ch.667)": "36",
@@ -4092,7 +4092,7 @@
         "address": "20 TOMS WAY",
         "town": "SANDWICH",
         "zip": "02565",
-        "phone": "508-833-4979"
+        "phone_numbers": "508-833-4979"
       }
     },
     {
@@ -4105,7 +4105,7 @@
         ]
       },
       "properties": {
-        "Name": "Saugus Housing Authority",
+        "organization_name": "Saugus Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "8",
         "Elderly / Handicapped Housing (Ch.667)": "205",
@@ -4115,7 +4115,7 @@
         "address": "19 TALBOT STREET",
         "town": "SAUGUS",
         "zip": "01906",
-        "phone": "781-233-2116"
+        "phone_numbers": "781-233-2116"
       }
     },
     {
@@ -4128,7 +4128,7 @@
         ]
       },
       "properties": {
-        "Name": "Scituate Housing Authority",
+        "organization_name": "Scituate Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "158",
@@ -4138,7 +4138,7 @@
         "address": "791 Country Way",
         "town": "SCITUATE",
         "zip": "02066",
-        "phone": "781-545-3375"
+        "phone_numbers": "781-545-3375"
       }
     },
     {
@@ -4151,7 +4151,7 @@
         ]
       },
       "properties": {
-        "Name": "Seekonk Housing Authority",
+        "organization_name": "Seekonk Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": " 8",
         "Elderly / Handicapped Housing (Ch.667)": "72",
@@ -4161,7 +4161,7 @@
         "address": "25 CHAPPELL, SUITE 10",
         "town": "SEEKONK",
         "zip": "02771",
-        "phone": "508-336-6067"
+        "phone_numbers": "508-336-6067"
       }
     },
     {
@@ -4174,7 +4174,7 @@
         ]
       },
       "properties": {
-        "Name": "Sharon Housing Authority",
+        "organization_name": "Sharon Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "6",
         "Elderly / Handicapped Housing (Ch.667)": "88",
@@ -4184,7 +4184,7 @@
         "address": "18 HIXON FARM ROAD",
         "town": "SHARON",
         "zip": "02067",
-        "phone": "781-784-2733"
+        "phone_numbers": "781-784-2733"
       }
     },
     {
@@ -4197,7 +4197,7 @@
         ]
       },
       "properties": {
-        "Name": "Shelburne Housing Authority",
+        "organization_name": "Shelburne Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "46",
@@ -4207,7 +4207,7 @@
         "address": "80 CANAL STREET, P.O. BOX 30",
         "town": "TURNER FALLS",
         "zip": "01376",
-        "phone": "413-863-9530"
+        "phone_numbers": "413-863-9530"
       }
     },
     {
@@ -4220,7 +4220,7 @@
         ]
       },
       "properties": {
-        "Name": "Shrewsbury Housing Authority",
+        "organization_name": "Shrewsbury Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "17",
         "Elderly / Handicapped Housing (Ch.667)": "136",
@@ -4230,7 +4230,7 @@
         "address": "36 NO. QUINSINGAMOND AVE",
         "town": "SHREWSBURY",
         "zip": "01545",
-        "phone": "508-757-0323"
+        "phone_numbers": "508-757-0323"
       }
     },
     {
@@ -4243,7 +4243,7 @@
         ]
       },
       "properties": {
-        "Name": "Somerset Housing Authority",
+        "organization_name": "Somerset Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "135",
@@ -4253,7 +4253,7 @@
         "address": "75 JOHN KENNEDY TERRACE",
         "town": "SOMERSET",
         "zip": "02726",
-        "phone": "508-672-3348  "
+        "phone_numbers": "508-672-3348  "
       }
     },
     {
@@ -4266,7 +4266,7 @@
         ]
       },
       "properties": {
-        "Name": "Somerville Housing Authority",
+        "organization_name": "Somerville Housing Authority",
         "Family Housing (Ch.200)": "456",
         "Family Housing (Ch.705)": "3",
         "Elderly / Handicapped Housing (Ch.667)": "502",
@@ -4276,7 +4276,7 @@
         "address": "30 MEMORIAL ROAD",
         "town": "SOMERVILLE",
         "zip": "02145",
-        "phone": "617-625-1152"
+        "phone_numbers": "617-625-1152"
       }
     },
     {
@@ -4289,7 +4289,7 @@
         ]
       },
       "properties": {
-        "Name": "South Hadley Housing Authority",
+        "organization_name": "South Hadley Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "12",
         "Elderly / Handicapped Housing (Ch.667)": "136",
@@ -4299,7 +4299,7 @@
         "address": "69 LATHROP STREET",
         "town": "SOUTH HADLEY",
         "zip": "01075",
-        "phone": "413-532-3194"
+        "phone_numbers": "413-532-3194"
       }
     },
     {
@@ -4312,7 +4312,7 @@
         ]
       },
       "properties": {
-        "Name": "Southborough Housing Authority",
+        "organization_name": "Southborough Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "2",
         "Elderly / Handicapped Housing (Ch.667)": "56",
@@ -4322,7 +4322,7 @@
         "address": "49 BOSTON ROAD",
         "town": "SOUTHBOROUGH",
         "zip": "01772",
-        "phone": "508-481-2166"
+        "phone_numbers": "508-481-2166"
       }
     },
     {
@@ -4335,7 +4335,7 @@
         ]
       },
       "properties": {
-        "Name": "Southbridge Housing Authority",
+        "organization_name": "Southbridge Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "8",
         "Elderly / Handicapped Housing (Ch.667)": "152",
@@ -4345,7 +4345,7 @@
         "address": "60 CHARLTON STREET",
         "town": "SOUTHBRIDGE",
         "zip": "01550",
-        "phone": "508-765-5858"
+        "phone_numbers": "508-765-5858"
       }
     },
     {
@@ -4358,7 +4358,7 @@
         ]
       },
       "properties": {
-        "Name": "Southwick Housing Authority",
+        "organization_name": "Southwick Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "6",
         "Elderly / Handicapped Housing (Ch.667)": "48",
@@ -4368,7 +4368,7 @@
         "address": "12 DEPOT STREET",
         "town": "SOUTHWICK",
         "zip": "01077",
-        "phone": "413-569-3161"
+        "phone_numbers": "413-569-3161"
       }
     },
     {
@@ -4381,7 +4381,7 @@
         ]
       },
       "properties": {
-        "Name": "Spencer Housing Authority",
+        "organization_name": "Spencer Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": " 8",
         "Elderly / Handicapped Housing (Ch.667)": "174",
@@ -4391,7 +4391,7 @@
         "address": "HOWE VILLAGE, P.O. BOX 486",
         "town": "SPENCER",
         "zip": "01562",
-        "phone": "508-885-3904"
+        "phone_numbers": "508-885-3904"
       }
     },
     {
@@ -4404,7 +4404,7 @@
         ]
       },
       "properties": {
-        "Name": "Springfield Housing Authority",
+        "organization_name": "Springfield Housing Authority",
         "Family Housing (Ch.200)": "532",
         "Family Housing (Ch.705)": "48",
         "Elderly / Handicapped Housing (Ch.667)": "429",
@@ -4414,7 +4414,7 @@
         "address": "25 SAAB COURT",
         "town": "SPRINGFIELD",
         "zip": "01101",
-        "phone": "413-785-4517 or 413-785-4518"
+        "phone_numbers": "413-785-4517 or 413-785-4518"
       }
     },
     {
@@ -4427,7 +4427,7 @@
         ]
       },
       "properties": {
-        "Name": "Sterling Housing Authority",
+        "organization_name": "Sterling Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "40",
@@ -4437,7 +4437,7 @@
         "address": "C/O Leominster Housing Authority 100 MAIN STREET",
         "town": "LEOMINSTER",
         "zip": "01453",
-        "phone": "978-537-5300"
+        "phone_numbers": "978-537-5300"
       }
     },
     {
@@ -4450,7 +4450,7 @@
         ]
       },
       "properties": {
-        "Name": "Stockbridge Housing Authority",
+        "organization_name": "Stockbridge Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "53",
@@ -4460,7 +4460,7 @@
         "address": "5 PINE STREET",
         "town": "STOCKBRIDGE",
         "zip": "01262",
-        "phone": "413-298-3222"
+        "phone_numbers": "413-298-3222"
       }
     },
     {
@@ -4473,7 +4473,7 @@
         ]
       },
       "properties": {
-        "Name": "Stoneham Housing Authority",
+        "organization_name": "Stoneham Housing Authority",
         "Family Housing (Ch.200)": "72",
         "Family Housing (Ch.705)": " NULL",
         "Elderly / Handicapped Housing (Ch.667)": "209",
@@ -4483,7 +4483,7 @@
         "address": "11 PARKER CHASE ROAD",
         "town": "STONEHAM",
         "zip": "02180",
-        "phone": ""
+        "phone_numbers": ""
       }
     },
     {
@@ -4496,7 +4496,7 @@
         ]
       },
       "properties": {
-        "Name": "Stoughton Housing Authority",
+        "organization_name": "Stoughton Housing Authority",
         "Family Housing (Ch.200)": "26",
         "Family Housing (Ch.705)": " 18",
         "Elderly / Handicapped Housing (Ch.667)": "186",
@@ -4506,7 +4506,7 @@
         "address": "4 CAPEN STREET",
         "town": "STOUGHTON",
         "zip": "02072",
-        "phone": "781-344-6599  "
+        "phone_numbers": "781-344-6599  "
       }
     },
     {
@@ -4519,7 +4519,7 @@
         ]
       },
       "properties": {
-        "Name": "Sudbury Housing Authority",
+        "organization_name": "Sudbury Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "20",
         "Elderly / Handicapped Housing (Ch.667)": "64",
@@ -4529,7 +4529,7 @@
         "address": "55 HUDSON ROAD",
         "town": "SUDBURY",
         "zip": "01776",
-        "phone": "978-443-5112"
+        "phone_numbers": "978-443-5112"
       }
     },
     {
@@ -4542,7 +4542,7 @@
         ]
       },
       "properties": {
-        "Name": "Sutton Housing Authority",
+        "organization_name": "Sutton Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "40",
@@ -4552,7 +4552,7 @@
         "address": "5 CHURCH STREET",
         "town": "WILKINSONVILLE",
         "zip": "01590",
-        "phone": "508-865-3821"
+        "phone_numbers": "508-865-3821"
       }
     },
     {
@@ -4565,7 +4565,7 @@
         ]
       },
       "properties": {
-        "Name": "Swampscott Housing Authority",
+        "organization_name": "Swampscott Housing Authority",
         "Family Housing (Ch.200)": "36",
         "Family Housing (Ch.705)": " NULL",
         "Elderly / Handicapped Housing (Ch.667)": "84",
@@ -4575,7 +4575,7 @@
         "address": "6 DUNCAN TERRACE",
         "town": "SWAMPSCOTT",
         "zip": "01907",
-        "phone": "781-593-5516"
+        "phone_numbers": "781-593-5516"
       }
     },
     {
@@ -4588,7 +4588,7 @@
         ]
       },
       "properties": {
-        "Name": "Swansea Housing Authority",
+        "organization_name": "Swansea Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "64",
@@ -4598,7 +4598,7 @@
         "address": "100 GARDNER NECK ROAD",
         "town": "SWANSEA",
         "zip": "02777",
-        "phone": "508-679-5828"
+        "phone_numbers": "508-679-5828"
       }
     },
     {
@@ -4611,7 +4611,7 @@
         ]
       },
       "properties": {
-        "Name": "Taunton Housing Authority",
+        "organization_name": "Taunton Housing Authority",
         "Family Housing (Ch.200)": "140",
         "Family Housing (Ch.705)": "24",
         "Elderly / Handicapped Housing (Ch.667)": "276",
@@ -4621,7 +4621,7 @@
         "address": "30 OLNEY STREET",
         "town": "TAUNTON",
         "zip": "02780",
-        "phone": "508-823-6308"
+        "phone_numbers": "508-823-6308"
       }
     },
     {
@@ -4634,7 +4634,7 @@
         ]
       },
       "properties": {
-        "Name": "Templeton Housing Authority",
+        "organization_name": "Templeton Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "8",
         "Elderly / Handicapped Housing (Ch.667)": "52",
@@ -4644,7 +4644,7 @@
         "address": "99 BRIDGE ST.",
         "town": "BALDWINVILLE",
         "zip": "01436",
-        "phone": "978-939-2374"
+        "phone_numbers": "978-939-2374"
       }
     },
     {
@@ -4657,7 +4657,7 @@
         ]
       },
       "properties": {
-        "Name": "Tewksbury Housing Authority",
+        "organization_name": "Tewksbury Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "19",
         "Elderly / Handicapped Housing (Ch.667)": "140",
@@ -4667,7 +4667,7 @@
         "address": "SAUNDERS CIRCLE",
         "town": "TEWKSBURY",
         "zip": "01876",
-        "phone": "978-851-7392"
+        "phone_numbers": "978-851-7392"
       }
     },
     {
@@ -4680,7 +4680,7 @@
         ]
       },
       "properties": {
-        "Name": "Topsfield Housing Authority",
+        "organization_name": "Topsfield Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "60",
@@ -4690,7 +4690,7 @@
         "address": "69 WASHINGTON STREET",
         "town": "TOPSFIELD",
         "zip": "01983",
-        "phone": "978-887-8407"
+        "phone_numbers": "978-887-8407"
       }
     },
     {
@@ -4703,7 +4703,7 @@
         ]
       },
       "properties": {
-        "Name": "Tyngsborough Housing Authority",
+        "organization_name": "Tyngsborough Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "14",
         "Elderly / Handicapped Housing (Ch.667)": "94",
@@ -4713,7 +4713,7 @@
         "address": "198 MIDDLESEX RD. BRINLEY",
         "town": "TYNGSBOROUGH",
         "zip": "01879",
-        "phone": "508-649-9941"
+        "phone_numbers": "508-649-9941"
       }
     },
     {
@@ -4726,7 +4726,7 @@
         ]
       },
       "properties": {
-        "Name": "Upton Housing Authority",
+        "organization_name": "Upton Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "40",
@@ -4736,7 +4736,7 @@
         "address": "COACHROAD APTS. P.O. BOX 715",
         "town": "UPTON",
         "zip": "01568",
-        "phone": ""
+        "phone_numbers": ""
       }
     },
     {
@@ -4749,7 +4749,7 @@
         ]
       },
       "properties": {
-        "Name": "Uxbridge Housing Authority",
+        "organization_name": "Uxbridge Housing Authority",
         "Family Housing (Ch.200)": "22",
         "Family Housing (Ch.705)": " 12",
         "Elderly / Handicapped Housing (Ch.667)": "86",
@@ -4759,7 +4759,7 @@
         "address": "CALUMET COURT, BOX 391",
         "town": "UXBRIDGE",
         "zip": "01569",
-        "phone": "508-278-3232  "
+        "phone_numbers": "508-278-3232  "
       }
     },
     {
@@ -4772,7 +4772,7 @@
         ]
       },
       "properties": {
-        "Name": "West Boylston Housing Authority",
+        "organization_name": "West Boylston Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "18",
         "Elderly / Handicapped Housing (Ch.667)": "36",
@@ -4782,7 +4782,7 @@
         "address": "87 MAPLE ST. ORCHARD KNOLL",
         "town": "WEST BOYLSTON",
         "zip": "01583",
-        "phone": "508-835-6060"
+        "phone_numbers": "508-835-6060"
       }
     },
     {
@@ -4795,7 +4795,7 @@
         ]
       },
       "properties": {
-        "Name": "West Bridgewater Housing Authority",
+        "organization_name": "West Bridgewater Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "48",
@@ -4805,7 +4805,7 @@
         "address": "7 ESTHER DRIVE",
         "town": "WEST BRIDGEWATER",
         "zip": "02379",
-        "phone": "588-2781"
+        "phone_numbers": "588-2781"
       }
     },
     {
@@ -4818,7 +4818,7 @@
         ]
       },
       "properties": {
-        "Name": "West Brookfield Housing Authority",
+        "organization_name": "West Brookfield Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "10",
         "Elderly / Handicapped Housing (Ch.667)": "36",
@@ -4828,7 +4828,7 @@
         "address": "29 EAST MAIN ST., BLDG #7",
         "town": "WEST BROOKFIELD",
         "zip": "01535-2936",
-        "phone": "508-867-5891"
+        "phone_numbers": "508-867-5891"
       }
     },
     {
@@ -4841,7 +4841,7 @@
         ]
       },
       "properties": {
-        "Name": "West Newbury Housing Authority",
+        "organization_name": "West Newbury Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "12",
         "Elderly / Handicapped Housing (Ch.667)": "14",
@@ -4851,7 +4851,7 @@
         "address": "379 MAIN ST.",
         "town": "WEST NEWBURY",
         "zip": "01985",
-        "phone": ""
+        "phone_numbers": ""
       }
     },
     {
@@ -4864,7 +4864,7 @@
         ]
       },
       "properties": {
-        "Name": "West Springfield Housing Authority",
+        "organization_name": "West Springfield Housing Authority",
         "Family Housing (Ch.200)": "90",
         "Family Housing (Ch.705)": " 9",
         "Elderly / Handicapped Housing (Ch.667)": "250",
@@ -4874,7 +4874,7 @@
         "address": "37 OXFORD PLACE",
         "town": "WEST SPRINGFIELD",
         "zip": "01089",
-        "phone": "413-788-0988"
+        "phone_numbers": "413-788-0988"
       }
     },
     {
@@ -4887,7 +4887,7 @@
         ]
       },
       "properties": {
-        "Name": "Wakefield Housing Authority",
+        "organization_name": "Wakefield Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "8",
         "Elderly / Handicapped Housing (Ch.667)": "141",
@@ -4897,7 +4897,7 @@
         "address": "26 CRESCENT STREET",
         "town": "WAKEFIELD",
         "zip": "01880",
-        "phone": "781-245-7328"
+        "phone_numbers": "781-245-7328"
       }
     },
     {
@@ -4910,7 +4910,7 @@
         ]
       },
       "properties": {
-        "Name": "Walpole Housing Authority",
+        "organization_name": "Walpole Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "12",
         "Elderly / Handicapped Housing (Ch.667)": "118",
@@ -4920,7 +4920,7 @@
         "address": "8 DIAMOND POND TERRACE",
         "town": "WALPOLE",
         "zip": "02081",
-        "phone": "508-668-7878"
+        "phone_numbers": "508-668-7878"
       }
     },
     {
@@ -4933,7 +4933,7 @@
         ]
       },
       "properties": {
-        "Name": "Waltham Housing Authority",
+        "organization_name": "Waltham Housing Authority",
         "Family Housing (Ch.200)": "273",
         "Family Housing (Ch.705)": "22",
         "Elderly / Handicapped Housing (Ch.667)": "219",
@@ -4943,7 +4943,7 @@
         "address": "110 POND STREET",
         "town": "WALTHAM",
         "zip": "02154",
-        "phone": "781-894-3357"
+        "phone_numbers": "781-894-3357"
       }
     },
     {
@@ -4956,7 +4956,7 @@
         ]
       },
       "properties": {
-        "Name": "Ware Housing Authority",
+        "organization_name": "Ware Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "25",
         "Elderly / Handicapped Housing (Ch.667)": "86",
@@ -4966,7 +4966,7 @@
         "address": "20 VALLEY VIEW",
         "town": "WARE",
         "zip": "01082",
-        "phone": "413-967-4477"
+        "phone_numbers": "413-967-4477"
       }
     },
     {
@@ -4979,7 +4979,7 @@
         ]
       },
       "properties": {
-        "Name": "Wareham Housing Authority",
+        "organization_name": "Wareham Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "104",
@@ -4989,7 +4989,7 @@
         "address": "57 SANDWICH ROAD",
         "town": "WAREHAM",
         "zip": "02571",
-        "phone": "508-295-8031"
+        "phone_numbers": "508-295-8031"
       }
     },
     {
@@ -5002,7 +5002,7 @@
         ]
       },
       "properties": {
-        "Name": "Warren Housing Authority",
+        "organization_name": "Warren Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "10",
         "Elderly / Handicapped Housing (Ch.667)": "60",
@@ -5012,7 +5012,7 @@
         "address": "P.O. BOX 3021",
         "town": "WARREN",
         "zip": "01083",
-        "phone": "413-436-7184"
+        "phone_numbers": "413-436-7184"
       }
     },
     {
@@ -5025,7 +5025,7 @@
         ]
       },
       "properties": {
-        "Name": "Watertown Housing Authority",
+        "organization_name": "Watertown Housing Authority",
         "Family Housing (Ch.200)": "228",
         "Family Housing (Ch.705)": "12",
         "Elderly / Handicapped Housing (Ch.667)": "276",
@@ -5035,7 +5035,7 @@
         "address": "55 WAVERLY AVENUE",
         "town": "WATERTOWN",
         "zip": "02172",
-        "phone": "617-923-3950"
+        "phone_numbers": "617-923-3950"
       }
     },
     {
@@ -5048,7 +5048,7 @@
         ]
       },
       "properties": {
-        "Name": "Wayland Housing Authority",
+        "organization_name": "Wayland Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "56",
@@ -5058,7 +5058,7 @@
         "address": "106 MAIN STREET",
         "town": "WAYLAND",
         "zip": "01778",
-        "phone": "508-655-6310"
+        "phone_numbers": "508-655-6310"
       }
     },
     {
@@ -5071,7 +5071,7 @@
         ]
       },
       "properties": {
-        "Name": "Webster Housing Authority",
+        "organization_name": "Webster Housing Authority",
         "Family Housing (Ch.200)": "30",
         "Family Housing (Ch.705)": " NULL",
         "Elderly / Handicapped Housing (Ch.667)": "72",
@@ -5081,7 +5081,7 @@
         "address": "10 GOLDEN HEIGHTS",
         "town": "WEBSTER",
         "zip": "01570",
-        "phone": "508-943-1624"
+        "phone_numbers": "508-943-1624"
       }
     },
     {
@@ -5094,7 +5094,7 @@
         ]
       },
       "properties": {
-        "Name": "Wellesley Housing Authority",
+        "organization_name": "Wellesley Housing Authority",
         "Family Housing (Ch.200)": "90",
         "Family Housing (Ch.705)": " 12",
         "Elderly / Handicapped Housing (Ch.667)": "133",
@@ -5104,7 +5104,7 @@
         "address": "109 BARTON ROAD",
         "town": "WELLESLEY",
         "zip": "02181",
-        "phone": "781-235-0223"
+        "phone_numbers": "781-235-0223"
       }
     },
     {
@@ -5117,7 +5117,7 @@
         ]
       },
       "properties": {
-        "Name": "Wenham Housing Authority",
+        "organization_name": "Wenham Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "84",
@@ -5127,7 +5127,7 @@
         "address": "LARCH LANE",
         "town": "WENHAM",
         "zip": "01984",
-        "phone": "978-468-1532"
+        "phone_numbers": "978-468-1532"
       }
     },
     {
@@ -5140,7 +5140,7 @@
         ]
       },
       "properties": {
-        "Name": "Westborough Housing Authority",
+        "organization_name": "Westborough Housing Authority",
         "Family Housing (Ch.200)": "14",
         "Family Housing (Ch.705)": " 12",
         "Elderly / Handicapped Housing (Ch.667)": "76",
@@ -5150,7 +5150,7 @@
         "address": "2 ROGERS RD.",
         "town": "WESTBOROUGH",
         "zip": "01581",
-        "phone": "508-366-1225"
+        "phone_numbers": "508-366-1225"
       }
     },
     {
@@ -5163,7 +5163,7 @@
         ]
       },
       "properties": {
-        "Name": "Westfield Housing Authority",
+        "organization_name": "Westfield Housing Authority",
         "Family Housing (Ch.200)": "62",
         "Family Housing (Ch.705)": " 26",
         "Elderly / Handicapped Housing (Ch.667)": "339",
@@ -5173,7 +5173,7 @@
         "address": "P.O. BOX 99",
         "town": "WESTFIELD",
         "zip": "01086",
-        "phone": "413-568-9283"
+        "phone_numbers": "413-568-9283"
       }
     },
     {
@@ -5186,7 +5186,7 @@
         ]
       },
       "properties": {
-        "Name": "Westford Housing Authority",
+        "organization_name": "Westford Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "6",
         "Elderly / Handicapped Housing (Ch.667)": "73",
@@ -5196,7 +5196,7 @@
         "address": "65 TADMUCK ROAD",
         "town": "WESTFORD",
         "zip": "01086",
-        "phone": "978-568-9283"
+        "phone_numbers": "978-568-9283"
       }
     },
     {
@@ -5209,7 +5209,7 @@
         ]
       },
       "properties": {
-        "Name": "Westport Housing Authority",
+        "organization_name": "Westport Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "48",
@@ -5219,7 +5219,7 @@
         "address": "666 STATE RD., P.O. BOX 456",
         "town": "WESTPORT",
         "zip": "02790",
-        "phone": "508-675-2039"
+        "phone_numbers": "508-675-2039"
       }
     },
     {
@@ -5232,7 +5232,7 @@
         ]
       },
       "properties": {
-        "Name": "Weymouth Housing Authority",
+        "organization_name": "Weymouth Housing Authority",
         "Family Housing (Ch.200)": "189",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "216",
@@ -5242,7 +5242,7 @@
         "address": "402 ESSEX STREET",
         "town": "WEYMOUTH",
         "zip": "02188",
-        "phone": "617-331-2323"
+        "phone_numbers": "617-331-2323"
       }
     },
     {
@@ -5255,7 +5255,7 @@
         ]
       },
       "properties": {
-        "Name": "Whitman Housing Authority",
+        "organization_name": "Whitman Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "18",
         "Elderly / Handicapped Housing (Ch.667)": "164",
@@ -5265,7 +5265,7 @@
         "address": "P.O. BOX 334",
         "town": "WHITMAN",
         "zip": "02382",
-        "phone": "781-447-6363"
+        "phone_numbers": "781-447-6363"
       }
     },
     {
@@ -5278,7 +5278,7 @@
         ]
       },
       "properties": {
-        "Name": "Wilbraham Housing Authority",
+        "organization_name": "Wilbraham Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "9",
         "Elderly / Handicapped Housing (Ch.667)": "75",
@@ -5288,7 +5288,7 @@
         "address": "88 STONY HILL ROAD",
         "town": "WILBRAHAM",
         "zip": "01095",
-        "phone": "413-543-1700"
+        "phone_numbers": "413-543-1700"
       }
     },
     {
@@ -5301,7 +5301,7 @@
         ]
       },
       "properties": {
-        "Name": "Williamstown Housing Authority",
+        "organization_name": "Williamstown Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "8",
         "Elderly / Handicapped Housing (Ch.667)": "30",
@@ -5311,7 +5311,7 @@
         "address": "35 ADAMS ROAD",
         "town": "WILLIAMSTOWN",
         "zip": "01267",
-        "phone": "413-458-8282"
+        "phone_numbers": "413-458-8282"
       }
     },
     {
@@ -5324,7 +5324,7 @@
         ]
       },
       "properties": {
-        "Name": "Wilmington Housing Authority",
+        "organization_name": "Wilmington Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "13",
         "Elderly / Handicapped Housing (Ch.667)": "72",
@@ -5334,7 +5334,7 @@
         "address": "41 DEMING WAY",
         "town": "WILMINGTON",
         "zip": "01887",
-        "phone": "978-658-8531"
+        "phone_numbers": "978-658-8531"
       }
     },
     {
@@ -5347,7 +5347,7 @@
         ]
       },
       "properties": {
-        "Name": "Winchendon Housing Authority",
+        "organization_name": "Winchendon Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "24",
         "Elderly / Handicapped Housing (Ch.667)": "87",
@@ -5357,7 +5357,7 @@
         "address": "108 IPSWICH DRIVE",
         "town": "WINCHENDON",
         "zip": "01475",
-        "phone": "978-297-2280"
+        "phone_numbers": "978-297-2280"
       }
     },
     {
@@ -5370,7 +5370,7 @@
         ]
       },
       "properties": {
-        "Name": "Winchester Housing Authority",
+        "organization_name": "Winchester Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "7",
         "Elderly / Handicapped Housing (Ch.667)": "112",
@@ -5380,7 +5380,7 @@
         "address": "13 WESTLEY STREET",
         "town": "WINCHESTER",
         "zip": "01890",
-        "phone": "781-721-5718"
+        "phone_numbers": "781-721-5718"
       }
     },
     {
@@ -5393,7 +5393,7 @@
         ]
       },
       "properties": {
-        "Name": "Winthrop Housing Authority",
+        "organization_name": "Winthrop Housing Authority",
         "Family Housing (Ch.200)": "73",
         "Family Housing (Ch.705)": " 8",
         "Elderly / Handicapped Housing (Ch.667)": "348",
@@ -5403,7 +5403,7 @@
         "address": "9 GOLDEN DRIVE",
         "town": "WINTHROP",
         "zip": "02152",
-        "phone": "617-846-7100"
+        "phone_numbers": "617-846-7100"
       }
     },
     {
@@ -5416,7 +5416,7 @@
         ]
       },
       "properties": {
-        "Name": "Woburn Housing Authority",
+        "organization_name": "Woburn Housing Authority",
         "Family Housing (Ch.200)": "176",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "239",
@@ -5426,7 +5426,7 @@
         "address": "59 CAMPBELL STREET",
         "town": "WOBURN",
         "zip": "01801",
-        "phone": "781-935-0818"
+        "phone_numbers": "781-935-0818"
       }
     },
     {
@@ -5439,7 +5439,7 @@
         ]
       },
       "properties": {
-        "Name": "Worcester Housing Authority",
+        "organization_name": "Worcester Housing Authority",
         "Family Housing (Ch.200)": "594",
         "Family Housing (Ch.705)": "40",
         "Elderly / Handicapped Housing (Ch.667)": "252",
@@ -5449,7 +5449,7 @@
         "address": "40 BELMONT STREET",
         "town": "WORCESTER",
         "zip": "01605",
-        "phone": "508-798-4506"
+        "phone_numbers": "508-798-4506"
       }
     },
     {
@@ -5462,7 +5462,7 @@
         ]
       },
       "properties": {
-        "Name": "Wrentham Housing Authority",
+        "organization_name": "Wrentham Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "15",
         "Elderly / Handicapped Housing (Ch.667)": "66",
@@ -5472,7 +5472,7 @@
         "address": "P.O. BOX 312",
         "town": "WRENTHAM",
         "zip": "02093",
-        "phone": "508-384-2054"
+        "phone_numbers": "508-384-2054"
       }
     },
     {
@@ -5485,7 +5485,7 @@
         ]
       },
       "properties": {
-        "Name": "Yarmouth Housing Authority",
+        "organization_name": "Yarmouth Housing Authority",
         "Family Housing (Ch.200)": "NULL",
         "Family Housing (Ch.705)": "NULL",
         "Elderly / Handicapped Housing (Ch.667)": "40",
@@ -5495,7 +5495,7 @@
         "address": "LONG POND PLAZA",
         "town": "SO. YARMOUTH",
         "zip": "02644",
-        "phone": "508-398-2920"
+        "phone_numbers": "508-398-2920"
       }
     }
   ]
