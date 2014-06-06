@@ -32,8 +32,7 @@
         "geosearch": true
     },
     "facets": {
-        "youth_category": {
-            "title": "Category",
+        "ch200": {
             "type": "single"
         }
     },
