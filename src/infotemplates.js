@@ -5,7 +5,7 @@ define(function(require, exports) {
      templates = {
       url: Handlebars.compile('<a href="{{url}}">{{title}}</a>'),
       image: Handlebars.compile('<img src="{{url}}"/>'),
-      title: Handlebars.compile('<div><h4>{{title}}</h4><div>{{{rendered}}} " units"</div></div>'),
+      title: Handlebars.compile('<div><h4>{{title}}</h4><div>{{{rendered}}}units</div></div>'),
       list: Handlebars.compile('<ul> {{#list}} <li>{{{this}}}</li> {{/list}} </ul>'),
       simple: Handlebars.compile('{{text}}'),
       popup: Handlebars.compile('<div>{{#popup}}<div id="{{div_id}}">{{{rendered}}}</div>{{/popup}}</div>')
