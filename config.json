@@ -15,18 +15,13 @@
         ]
     },
     "properties":{
-        "organization_name": {},
-        "address": {},
-        "town": {},
-        "zip": {},
-        "phone_numbers": {},
+        "Program Name": {},
+        "Address": {},
+        "City": {},
+        "Zip": {},
+        "Phone Number": {},
 
-        "ch200": { "title": "Family Housing (Ch.200)"},
-        "ch705": { "title": "Family Housing (Ch.705)"},
-        "ch667": { "title": "Elderly / Handicapped Housing (Ch.667)"},
-        "ch167_189": { "title": "Special Needs Housing (Ch.167/189)"},
-        "mrvp": { "title": "Massachusetts Rental Voucher Program Housing"},
-        "ahvp": { "title": "Alternative Housing Voucher Program Housing"}
+        "Transportation": { "title": "Transportation Available"},
     },
     "search": {
         "geosearch": true
