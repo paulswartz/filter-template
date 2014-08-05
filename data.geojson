@@ -25,22 +25,52 @@
         "Phone": 6179293658,
         "address": "56 Pleasant St.",
         "town": "Dorchester",
-        "zip" : "02125",
+        "zip": "02125",
         "Email": "achildsview11@yahoo.com",
         "Website": null,
         "CCRR": "Child Care Choices of Boston",
         "CCRR Phone": "617-348-6465",
         "CCRR Website": "www.childcarechoicesofboston.org",
-        "Transportation": ["Transportation Provided", "Walking Distance to School", "Near Public Transportation"],
-        "Languages Spoken": ["English", "Croatian", "Spanish"],
-        "Environment": ["Air Conditioned", "Fenced Yard", "Peanut Free", "Uses Public Playground"],
-        "Meals": ["Breakfast", "Lunch", "Afternoon Snack", "USDA Food Program"],
-        "Type(s) of Financial Assistance Accepted": ["Sibling Discount", "Voucher"],
+        "Transportation": [
+          "Transportation Provided",
+          "Walking Distance to School",
+          "Near Public Transportation"
+        ],
+        "Languages Spoken": [
+          "English",
+          "Croatian",
+          "Spanish"
+        ],
+        "Environment": [
+          "Air Conditioned",
+          "Fenced Yard",
+          "Peanut Free",
+          "Uses Public Playground"
+        ],
+        "Meals": [
+          "Breakfast",
+          "Lunch",
+          "Afternoon Snack",
+          "USDA Food Program"
+        ],
+        "Type(s) of Financial Assistance Accepted": [
+          "Sibling Discount",
+          "Voucher"
+        ],
         "Special Skills": null,
-        "Special Needs": ["Experience", "ADD/ADHD", "Asthma/Allergies", "Learning", "Special Diet"],
+        "Special Needs": [
+          "Experience",
+          "ADD/ADHD",
+          "Asthma/Allergies",
+          "Learning",
+          "Special Diet"
+        ],
         "Education": null,
         "Accreditation": "",
-        "Available Schedule Options": ["Full day", "Full week"],
+        "Available Schedule Options": [
+          "Full day",
+          "Full week"
+        ],
         "Accepts Children": "Full-Time",
         "Duration": "Full Year",
         "Drop In Care Available": "No",
@@ -57,6 +87,65 @@
         "Fees Full-Time Weekly - Infant": 275,
         "Fees Full-Time Weekly - Toddler": 245,
         "Fees Full-Time Weekly - Preschool": 190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.015191,
+          42.278649
+        ]
+      },
+      "properties": {
+        "organization_name": "A Child's View Early Learning Center #2",
+        "Accepts EEC Vouchers": "Yes",
+        "Capacity": 37,
+        "First Licensed On": "10/26/87",
+        "Most Recently Renewed": "4/19/14",
+        "EEC Regional Licensing Office Address": "1250 Hancock Street Suite 120-S Quincy 02169",
+        "EEC Regional Licensing Office Phone": "617-472-2881",
+        "EEC Licensor": "Mark Robertson",
+        "Type of care": "Large Group and School Age Child Care (Group Child Care)",
+        "First Name": "ALICIA",
+        "Last Name": "MULLINGS",
+        "Phone": 6173284332,
+        "address": "643 QUINCY SHORE DR",
+        "town": "QUINCY",
+        "State": "MA",
+        "zip": "02170-2205",
+        "Email": "achildsview643@yahoo.com",
+        "Website": null,
+        "CCRR": "Quincy Community Action Programs, Inc.",
+        "CCRR Phone": "617-657-5302",
+        "CCRR Website": "www.communitycareforkids.net",
+        "Transportation": ["Transportation Provided", "Near Public Transportation"],
+        "Languages Spoken": ["English", "Spanish", "Portuguese"],
+        "Environment": ["Peanut Free"],
+        "Meals": ["Morning Snack", "Lunch", "Afternoon Snack"],
+        "Type(s) of Financial Assistance Accepted": ["Voucher", "Community Partnership", "Sibling Discount"],
+        "Special Skills": null,
+        "Special Needs": ["Learning", "Speech/Language", "Experience"],
+        "Education": null,
+        "Accreditation": "NAEYC-National Association for the Education of Young Children",
+        "Available Schedule Options": ["Full day", "Full week"],
+        "Accepts Children": "Full-Time",
+        "Duration": "Full Year",
+        "Drop In Care Available": "No",
+        "Before School": "No",
+        "After School": "No",
+        "Open Holidays": "No",
+        "Temp/Emergency": "No",
+        "24 Hours": "No",
+        "Monday": "7:00:00 AM - 5:30 PM",
+        "Tuesday": "7:00:00 AM - 5:30 PM",
+        "Wednesday": "7:00:00 AM - 5:30 PM",
+        "Thursday": "7:00:00 AM - 5:30 PM",
+        "Friday": "7:00:00 AM - 5:30 PM",
+        "Fees Full-Time Weekly - Infant": null,
+        "Fees Full-Time Weekly - Toddler": 255,
+        "Fees Full-Time Weekly - Preschool": null
       }
     }
   ]

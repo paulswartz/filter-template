@@ -37,8 +37,8 @@
     "geosearch": true
   },
   "facets": {
-    "housing_types": {
-      "title": "Housing Types",
+    "Transportation": {
+      "title": "Transportation Available",
       "type": "single"
     }
   },
