@@ -28,7 +28,9 @@
     "address": {},
     "town": {},
     "zip": {},
-    "Phone Number": {},
+    "phone": {},
+    "Capacity": {"title": "Capacity"},
+    "Available Schedule Options": {"title": "Available Schedule Options"},
     "Transportation": {
       "title": "Transportation Available"
     }
@@ -40,6 +42,10 @@
     "Transportation": {
       "title": "Transportation Available",
       "type": "single"
+    },
+    "Type(s) of Financial Assistance Accepted": {
+        "title": "Type(s) of Financial Assistance Accepted",
+        "type" : "single"
     }
   },
   "analytics": {
