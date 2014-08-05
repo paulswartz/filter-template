@@ -1,37 +1,47 @@
 {
-    "project": {
-        "name": "MA Child Care Finder",
-        "description": "<p>The MA Child Care Finder is a sample app built on Code for Boston's Finda platform, intended to show quick and dirty development of mapping applications using freely available, open-source tools.</p>",
-        "contact": "Please send feedback, ideas, and bug reports to our <a href=\"https://github.com/codeforboston/finda/issues\" target=\"_blank\">Github</a> page."
-    },
-    "map": {
-        "preview_attribute": "organization_name",
-        "center":[42.3725, -71.1266],
-        "zoom":13,
-        "maxZoom":16,
-        "maxBounds":[
-            [39.2, -78.0],
-            [44.5, -65.0]
-        ]
-    },
-    "properties":{
-        "Program Name": {},
-        "Address": {},
-        "City": {},
-        "Zip": {},
-        "Phone Number": {},
-
-        "Transportation": { "title": "Transportation Available"},
-    },
-    "search": {
-        "geosearch": true
-    },
-    "facets": {
-        "housing_types": {
-            "title": "Housing Types",
-            "type": "single"
-        }
-    },
+  "project": {
+    "name": "MA Child Care Finder",
+    "description": "<p>The MA Child Care Finder is a sample app built on Code for Boston's Finda platform, intended to show quick and dirty development of mapping applications using freely available, open-source tools.</p>",
+    "contact": "Please send feedback, ideas, and bug reports to our <a href=\"https://github.com/codeforboston/finda/issues\" target=\"_blank\">Github</a> page."
+  },
+  "map": {
+    "preview_attribute": "organization_name",
+    "center": [
+      42.3725,
+      -71.1266
+    ],
+    "zoom": 13,
+    "maxZoom": 16,
+    "maxBounds": [
+      [
+        39.2,
+        -78.0
+      ],
+      [
+        44.5,
+        -65.0
+      ]
+    ]
+  },
+  "properties": {
+    "Program Name": {},
+    "Address": {},
+    "City": {},
+    "Zip": {},
+    "Phone Number": {},
+    "Transportation": {
+      "title": "Transportation Available"
+    }
+  },
+  "search": {
+    "geosearch": true
+  },
+  "facets": {
+    "housing_types": {
+      "title": "Housing Types",
+      "type": "single"
+    }
+  },
   "analytics": {
     "enabled": false,
     "private": false,
