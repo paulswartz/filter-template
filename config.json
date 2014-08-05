@@ -24,10 +24,10 @@
     ]
   },
   "properties": {
-    "Program Name": {},
-    "Address": {},
-    "City": {},
-    "Zip": {},
+    "organization_name": {},
+    "address": {},
+    "town": {},
+    "zip": {},
     "Phone Number": {},
     "Transportation": {
       "title": "Transportation Available"
