@@ -24,22 +24,22 @@
     ]
   },
   "properties": {
-    "organization_name": {},
-    "address": {},
-    "town": {},
-    "zip": {},
-    "phone": {},
+    "Program Name": {},
+  
+    "Address1": {},
+    "Address2": {},
+    "City": {},
+    "Zip": {},
+    "Provider Phone": {},
+    "eMailAddress": {},
     "Capacity": {"title": "Capacity"},
-    "Available Schedule Options": {"title": "Available Schedule Options"},
-    "Transportation": {
-      "title": "Transportation Available"
-    }
+    "Program Type": {"title": "Program Type"}
   },
   "search": {
     "geosearch": true
   },
   "facets": {
-    "Transportation": {
+    "Program Type": {
       "title": "Transportation Available",
       "type": "single"
     },
