@@ -40,12 +40,8 @@
   },
   "facets": {
     "Program Type": {
-      "title": "Transportation Available",
-      "type": "single"
-    },
-    "Type(s) of Financial Assistance Accepted": {
-        "title": "Type(s) of Financial Assistance Accepted",
-        "type" : "single"
+      "title": "Program Type",
+      "type": "list"
     }
   },
   "analytics": {
