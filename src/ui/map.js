@@ -179,6 +179,7 @@ define(function(require, exports, module) {
 
     this.after('initialize', function() {
       this.map = L.map(this.node, {});
+      L.control.scale().addTo(this.map);
       this.cluster = new L.MarkerClusterGroup({
         maxClusterRadius: 80
         //disableClusteringAtZoom: 16
