@@ -48,8 +48,6 @@ define(function(require, exports, module) {
       }
 
       var mapConfig = config.map;
-
-      this.map.setView(mapConfig.center, mapConfig.zoom);
       if (mapConfig.maxZoom){
         this.map.options.maxZoom = mapConfig.maxZoom;
       }
@@ -63,6 +61,10 @@ define(function(require, exports, module) {
 
       // set feature attribute to be used as preview text to config
       this.featurePreviewAttr = config.map.preview_attribute;
+
+      window.setTimeout(function() {
+        this.map.setView(mapConfig.center, mapConfig.zoom);
+      }.bind(this), 100);
     };
 
     this.loadData = function(ev, data) {
@@ -91,6 +93,11 @@ define(function(require, exports, module) {
 
       this.attr.layer = L.geoJson(data, {onEachFeature: setupFeature});
       this.attr.layer.addTo(this.cluster);
+
+      if (this.currentFeature) {
+        var layer = this.attr.features[this.currentFeature.geometry.coordinates];
+        layer.setIcon(this.grayIcon);
+      }
     };
 
     this.emitClick = function(e) {
@@ -177,6 +184,22 @@ define(function(require, exports, module) {
       });
     };
 
+    this.onSearchResult = function(ev, result) {
+      if (!this.searchMarker) {
+        this.searchMarker = L.marker(result, {
+          icon: L.divIcon({className: 'search-result-marker'})
+        });
+        this.searchMarker.addTo(this.map);
+      } else {
+        this.searchMarker.setLatLng(result);
+      }
+
+      this.trigger('panTo',
+                   {lat: result.lat,
+                    lng: result.lng});
+    };
+
+
     this.after('initialize', function() {
       this.map = L.map(this.node, {});
       L.control.scale().addTo(this.map);
@@ -206,6 +229,7 @@ define(function(require, exports, module) {
       this.on(document, 'deselectFeature', this.deselectFeature);
       this.on(document, 'hoverFeature', this.hoverFeature);
       this.on(document, 'clearHoverFeature', this.clearHoverFeature);
+      this.on(document, 'dataSearchResult', this.onSearchResult);
       this.on('panTo', this.panTo);
     });
   });
