@@ -167,9 +167,22 @@ define(function(require, exports, module) {
       this.map.panTo(latlng);
     };
 
+    this.onBoundsChanged = function onBoundsChanged() {
+      var currentBounds = this.map.getBounds(),
+          southWest = currentBounds.getSouthWest(),
+          northEast = currentBounds.getNorthEast();
+      this.trigger('mapBounds', {
+        southWest: [southWest.lat, southWest.lng],
+        northEast: [northEast.lat, northEast.lng]
+      });
+    };
+
     this.after('initialize', function() {
       this.map = L.map(this.node, {});
-      this.cluster = new L.MarkerClusterGroup();
+      this.cluster = new L.MarkerClusterGroup({
+        maxClusterRadius: 80
+        //disableClusteringAtZoom: 16
+      });
 
       this.cluster.addTo(this.map);
 
@@ -181,6 +194,8 @@ define(function(require, exports, module) {
         minZoom: this.attr.tileMinZoom,
         maxZoom: this.attr.tileMaxZoom
       }).addTo(this.map);
+
+      this.map.on('moveend', this.onBoundsChanged.bind(this));
 
       this.on(document, 'config', this.configureMap);
       this.on(document, 'data', this.loadData);

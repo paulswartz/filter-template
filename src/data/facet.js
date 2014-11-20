@@ -3,6 +3,7 @@ define(function(require, exports, module) {
   var flight = require('flight');
   var $ = require('jquery');
   var _ = require('lodash');
+  var L = require('leaflet');
 
   module.exports = flight.component(function facet() {
     this.configure = function(ev, config) {
@@ -34,6 +35,16 @@ define(function(require, exports, module) {
             return _.all(
               selected,
               _.bind(function(selected, key) {
+                var type = this.attr.config[key].type;
+                if (type === 'map') {
+                  if (!this.mapBounds) {
+                    return false;
+                  }
+                  return this.mapBounds.contains([
+                    feature.geometry.coordinates[1],
+                    feature.geometry.coordinates[0]
+                  ]);
+                }
                 var property = feature.properties[key];
                 if (!_.isArray(property)) {
                   property = [property];
@@ -61,6 +72,12 @@ define(function(require, exports, module) {
         this.attr.config,
         _.bind(function(facetConfig, facet) {
           // adds up the count of the values on the given facet
+          if (facetConfig.type === 'map') {
+            if (facetConfig.value) {
+              this.attr.selected[facet] = [facetConfig.text];
+            }
+            return [facetConfig.text];
+          }
           return _.chain(this.attr.data.features)
             .map(function(feature) {
               // values of the facet on the given feature
@@ -132,15 +149,29 @@ define(function(require, exports, module) {
       } else {
         this.attr.selected[facet] = selectedValues;
       }
+      this._updateFilteredData();
+    };
+
+    this._updateFilteredData = function() {
       var geojson = this.filterFeatures(this.attr.data, this.attr.selected);
       $(document).trigger('dataFiltered', geojson);
       this.filterFacets(geojson);
+    };
+
+    this.onMapBounds = function(ev, data) {
+      this.mapBounds = L.latLngBounds(
+        L.latLng(data.southWest),
+        L.latLng(data.northEast));
+      if (this.attr.config && this.attr.data) {
+        this._updateFilteredData();
+      }
     };
 
     this.after('initialize', function() {
       this.on(document, 'config', this.configure);
       this.on(document, 'data', this.loadData);
       this.on(document, 'uiFilterFacet', this.filterData);
+      this.on(document, 'mapBounds', this.onMapBounds);
     });
   });
 });
