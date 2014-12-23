@@ -23,10 +23,11 @@
   },
   "scripts": {
     "test": "jshint src && karma start --single-run --browsers PhantomJS",
-    "build": "npm run clean && npm run copy && npm run cssmin && npm run requirejs && npm run processhtml && npm run index",
+    "build": "npm run clean && npm run copy && npm run cssmin && npm run fixcss && npm run requirejs && npm run index",
     "clean": "rimraf dist",
-    "copy": "copyfiles index.html data.geojson config.json *.md styles/properties.css img/* lib/leaflet/images/marker-* dist",
+    "copy": "copyfiles index.html data.geojson config.json *.md styles/properties.css img/* lib/leaflet/images/* dist",
     "cssmin": "cleancss --s1 -o dist/styles/style.css styles/style.css",
+    "fixcss": "replace -s '../../lib' '../lib' dist/styles/style.css",
     "requirejs": "r.js -o script/build.js",
     "index": "replace -s 'data-main=\"(src/script.js)\" src=\"lib/require.js\"' 'src=\"$1\"' dist/index.html"
   },
